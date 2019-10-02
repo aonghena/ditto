@@ -1,0 +1,5996 @@
+[
+    {
+     "persistedFaceId": "d9010492-8d1f-4bf5-8e77-c0d4f9f27058",
+     "name": "Jeff Bezos",
+     "image": "https://i.imgur.com/gOoHjFf.jpg",
+     "other": "#1"
+    },
+    {
+     "persistedFaceId": "24cd14ed-4362-4b62-bd97-7a0034e671c7",
+     "name": "Bill Gates",
+     "image": "https://i.imgur.com/nDhfvY7.jpg",
+     "other": "#2"
+    },
+    {
+     "persistedFaceId": "e9a6466c-9215-4582-869b-3a4c7ca9c5c2",
+     "name": "Warren Buffett",
+     "image": "https://i.imgur.com/qiM6S2Q.jpg",
+     "other": "#3"
+    },
+    {
+     "persistedFaceId": "d57719eb-3111-4ed9-9eca-621f797213c4",
+     "name": "Bernard Arnault",
+     "image": "https://i.imgur.com/FevItKs.jpg",
+     "other": "#4"
+    },
+    {
+     "persistedFaceId": "85cd3955-0552-4a60-9e42-6fef4c34a53c",
+     "name": "Carlos Slim Helu",
+     "image": "https://i.imgur.com/LyoWMA5.jpg",
+     "other": "#5"
+    },
+    {
+     "persistedFaceId": "a6243458-64f1-4302-93f1-c1280534f9d9",
+     "name": "Amancio Ortega",
+     "image": "https://i.imgur.com/SwVYPqc.jpg",
+     "other": "#6"
+    },
+    {
+     "persistedFaceId": "52e76f46-4494-4f5e-8ce0-6f57dd12163f",
+     "name": "Larry Ellison",
+     "image": "https://i.imgur.com/qICSIup.jpg",
+     "other": "#7"
+    },
+    {
+     "persistedFaceId": "dc26b9e1-2f40-4a34-89e2-fcd07eb24f65",
+     "name": "Mark Zuckerberg",
+     "image": "https://i.imgur.com/Vern7kB.jpg",
+     "other": "#8"
+    },
+    {
+     "persistedFaceId": "4558a053-c50c-425d-b189-633c7293c49e",
+     "name": "Michael Bloomberg",
+     "image": "https://i.imgur.com/o1e61Xn.jpg",
+     "other": "#9"
+    },
+    {
+     "persistedFaceId": "4f9405ff-85a9-4761-9755-a00497c52616",
+     "name": "Larry Page",
+     "image": "https://i.imgur.com/tsMzdni.jpg",
+     "other": "#10"
+    },
+    {
+     "persistedFaceId": "2a2ff2e8-bb25-49f5-8add-0ad6baafa39e",
+     "name": "Charles Koch",
+     "image": "https://i.imgur.com/AkWUqP4.jpg",
+     "other": "#11"
+    },
+    {
+     "persistedFaceId": "5b6c8ae3-6e18-4a95-91fd-f8fde7ee7552",
+     "name": "David Koch",
+     "image": "https://i.imgur.com/ljz9JIF.jpg",
+     "other": "#11"
+    },
+    {
+     "persistedFaceId": "9c6593af-9174-4c25-befb-621fdcf95c7f",
+     "name": "Mukesh Ambani",
+     "image": "https://i.imgur.com/V3Jc7mJ.jpg",
+     "other": "#13"
+    },
+    {
+     "persistedFaceId": "a5638cbd-d6b7-4d79-8e72-6092b649c219",
+     "name": "Sergey Brin",
+     "image": "https://i.imgur.com/eZZAGpA.jpg",
+     "other": "#14"
+    },
+    {
+     "persistedFaceId": "40cb2aba-8c1b-4553-8102-0b436f499ecd",
+     "name": "Francoise Bettencourt Meyers",
+     "image": "https://i.imgur.com/7XZnrgc.jpg",
+     "other": "#15"
+    },
+    {
+     "persistedFaceId": "64e31d00-b9b4-4b96-84b5-2f5858523a87",
+     "name": "Jim Walton",
+     "image": "https://i.imgur.com/uqKtHSP.jpg",
+     "other": "#16"
+    },
+    {
+     "persistedFaceId": "a3c7907d-1a07-46e4-97ca-7f4cc4c51e5c",
+     "name": "Alice Walton",
+     "image": "https://i.imgur.com/omzklpt.jpg",
+     "other": "#17"
+    },
+    {
+     "persistedFaceId": "b0621163-28bd-4606-9d1d-73f486bb8782",
+     "name": "Rob Walton",
+     "image": "https://i.imgur.com/AyFZlav.jpg",
+     "other": "#18"
+    },
+    {
+     "persistedFaceId": "abc26263-7347-4abb-8ee7-d4e2b6330c9d",
+     "name": "Steve Ballmer",
+     "image": "https://i.imgur.com/OUxUXHh.jpg",
+     "other": "#19"
+    },
+    {
+     "persistedFaceId": "723e0a35-9ec3-4981-b461-79b459f4ed27",
+     "name": "Ma Huateng",
+     "image": "https://i.imgur.com/I4ZUQCo.jpg",
+     "other": "#20"
+    },
+    {
+     "persistedFaceId": "9f737a8d-8044-4759-b32d-6b066263d439",
+     "name": "Jack Ma",
+     "image": "https://i.imgur.com/QXPPd12.jpg",
+     "other": "#21"
+    },
+    {
+     "persistedFaceId": "8af7e9b1-681b-4c20-a338-957288f11e2b",
+     "name": "Hui Ka Yan",
+     "image": "https://i.imgur.com/CJVxLFB.jpg",
+     "other": "#22"
+    },
+    {
+     "persistedFaceId": "877f812f-9789-4d6c-8717-3a5205a8f061",
+     "name": "Sheldon Adelson",
+     "image": "https://i.imgur.com/Ruoi8M5.jpg",
+     "other": "#24"
+    },
+    {
+     "persistedFaceId": "8c21df10-3e27-47b6-8ec3-08a59375a9ae",
+     "name": "Michael Dell",
+     "image": "https://i.imgur.com/97Ojhl4.jpg",
+     "other": "#25"
+    },
+    {
+     "persistedFaceId": "d3f506f6-367e-4d1d-90f6-79bf15a4a88c",
+     "name": "Phil Knight",
+     "image": "https://i.imgur.com/fla0Sgv.jpg",
+     "other": "#26"
+    },
+    {
+     "persistedFaceId": "ecf2cb8c-3ff2-4e5a-8b4f-731289a5a2d9",
+     "name": "David Thomson",
+     "image": "https://i.imgur.com/cgWW39N.jpg",
+     "other": "#27"
+    },
+    {
+     "persistedFaceId": "9bfba58a-76d0-44a0-9418-6ebffc7b08d9",
+     "name": "Li Ka-shing",
+     "image": "https://i.imgur.com/jJpa4cx.jpg",
+     "other": "#28"
+    },
+    {
+     "persistedFaceId": "0b01db7f-fd08-4f1e-8386-6e19684d71a0",
+     "name": "Lee Shau Kee",
+     "image": "https://i.imgur.com/gqoJFRU.jpg",
+     "other": "#29"
+    },
+    {
+     "persistedFaceId": "c22586b9-3f3d-4c49-a6c2-5cbdf62a8b76",
+     "name": "Fran\u00e7ois Pinault",
+     "image": "https://i.imgur.com/GRNJHj0.jpg",
+     "other": "#30"
+    },
+    {
+     "persistedFaceId": "06832ffa-708e-476e-b8ec-4e8550a4bd26",
+     "name": "Joseph Safra",
+     "image": "https://i.imgur.com/BUiB3fG.jpg",
+     "other": "#31"
+    },
+    {
+     "persistedFaceId": "98db481c-74d2-46d8-9e34-0c869729aeac",
+     "name": "Jacqueline Mars",
+     "image": "https://i.imgur.com/koPWrRE.jpg",
+     "other": "#33"
+    },
+    {
+     "persistedFaceId": "c4e90188-9991-4a85-b708-942b7e06d853",
+     "name": "John Mars",
+     "image": "https://i.imgur.com/LMaemxX.jpg",
+     "other": "#33"
+    },
+    {
+     "persistedFaceId": "fe2b37d7-5a73-4f9a-b445-c9692d4d4afe",
+     "name": "Jorge Paulo Lemann",
+     "image": "https://i.imgur.com/3ydVOVA.jpg",
+     "other": "#35"
+    },
+    {
+     "persistedFaceId": "b9b994de-4666-42bf-b351-6900c5c35910",
+     "name": "Azim Premji",
+     "image": "https://i.imgur.com/Hk0KrcR.jpg",
+     "other": "#36"
+    },
+    {
+     "persistedFaceId": "89709270-f1b8-45f0-b64e-ecec3b0ed058",
+     "name": "Giovanni Ferrero",
+     "image": "https://i.imgur.com/gvM7dZV.jpg",
+     "other": "#39"
+    },
+    {
+     "persistedFaceId": "ca399065-03b1-4045-8402-92a9de09cc30",
+     "name": "Elon Musk",
+     "image": "https://i.imgur.com/CKQpHNw.jpg",
+     "other": "#40"
+    },
+    {
+     "persistedFaceId": "5ead3a17-7491-4fb6-a845-ff0102d95e07",
+     "name": "Tadashi Yanai",
+     "image": "https://i.imgur.com/MuDfbVA.jpg",
+     "other": "#41"
+    },
+    {
+     "persistedFaceId": "2e418497-978a-4ab7-84e6-54031a4c9438",
+     "name": "Yang Huiyan",
+     "image": "https://i.imgur.com/EbnWzvd.jpg",
+     "other": "#42"
+    },
+    {
+     "persistedFaceId": "c18b7272-83b4-4783-8ae6-6edd06e109fd",
+     "name": "Masayoshi Son",
+     "image": "https://i.imgur.com/D13ZzjI.jpg",
+     "other": "#43"
+    },
+    {
+     "persistedFaceId": "3f1cb245-9df4-4dba-9c41-8aca925bc23b",
+     "name": "Vladimir Lisin",
+     "image": "https://i.imgur.com/Q8wfIYT.jpg",
+     "other": "#45"
+    },
+    {
+     "persistedFaceId": "50f80a10-41b5-43cc-9cf9-5e607cc1bbb4",
+     "name": "Susanne Klatten",
+     "image": "https://i.imgur.com/2fbJra8.jpg",
+     "other": "#46"
+    },
+    {
+     "persistedFaceId": "5044943b-8609-4290-917a-671e1fc1143f",
+     "name": "Vagit Alekperov",
+     "image": "https://i.imgur.com/yp0pgv8.jpg",
+     "other": "#47"
+    },
+    {
+     "persistedFaceId": "37ae6b52-74e5-4d5c-8081-eb8fa30de53d",
+     "name": "Alexey Mordashov",
+     "image": "https://i.imgur.com/tXJt4eZ.jpg",
+     "other": "#48"
+    },
+    {
+     "persistedFaceId": "70e657f8-7798-49e6-9dad-c9d065333da8",
+     "name": "Gennady Timchenko",
+     "image": "https://i.imgur.com/CCLmZF6.jpg",
+     "other": "#49"
+    },
+    {
+     "persistedFaceId": "e5bb55c2-0e25-4faf-b6a6-cf783e0ecc81",
+     "name": "He Xiangjian",
+     "image": "https://i.imgur.com/jMbVKp1.jpg",
+     "other": "#50"
+    },
+    {
+     "persistedFaceId": "738006e3-dd33-43e9-8afc-89a95ec6a26c",
+     "name": "Rupert Murdoch",
+     "image": "https://i.imgur.com/vRjtibJ.jpg",
+     "other": "#52"
+    },
+    {
+     "persistedFaceId": "8c11def1-29a1-433b-9088-66e7a5e53e39",
+     "name": "Dietrich Mateschitz",
+     "image": "https://i.imgur.com/20XWJoX.jpg",
+     "other": "#53"
+    },
+    {
+     "persistedFaceId": "fdbde841-05c8-42f0-af03-c21572f17cfd",
+     "name": "R. Budi Hartono",
+     "image": "https://i.imgur.com/df2dc8I.jpg",
+     "other": "#54"
+    },
+    {
+     "persistedFaceId": "c6fa4f03-a53b-471b-adc2-f84a40f625cd",
+     "name": "Laurene Powell Jobs",
+     "image": "https://i.imgur.com/ypMyJwN.jpg",
+     "other": "#54"
+    },
+    {
+     "persistedFaceId": "edaf65c9-ce09-459f-b066-c23f85c5cbb2",
+     "name": "Michael Hartono",
+     "image": "https://i.imgur.com/kXx3CbV.jpg",
+     "other": "#56"
+    },
+    {
+     "persistedFaceId": "7b17a1e4-5826-4546-90f3-da6c960d242c",
+     "name": "Ray Dalio",
+     "image": "https://i.imgur.com/loLxoVv.jpg",
+     "other": "#57"
+    },
+    {
+     "persistedFaceId": "a6a8d0dd-a41a-47a6-be39-b92d5062198f",
+     "name": "Vladimir Potanin",
+     "image": "https://i.imgur.com/GUJpPAZ.jpg",
+     "other": "#58"
+    },
+    {
+     "persistedFaceId": "9d3f08d6-8816-49b8-812a-3c6e1d3f2363",
+     "name": "Len Blavatnik",
+     "image": "https://i.imgur.com/ZqoDiAY.jpg",
+     "other": "#59"
+    },
+    {
+     "persistedFaceId": "823479dd-43c5-4b3b-b351-03cf02d8e39b",
+     "name": "Stefan Quandt",
+     "image": "https://i.imgur.com/1jehIiy.jpg",
+     "other": "#60"
+    },
+    {
+     "persistedFaceId": "3f37defe-6b93-493f-a378-ea48f713127d",
+     "name": "Carl Icahn",
+     "image": "https://i.imgur.com/HbG7NyF.jpg",
+     "other": "#61"
+    },
+    {
+     "persistedFaceId": "4ebc68b8-8edd-4c01-92f8-f4dfc6fd9804",
+     "name": "Thomas Peterffy",
+     "image": "https://i.imgur.com/nRj9DIm.jpg",
+     "other": "#63"
+    },
+    {
+     "persistedFaceId": "8d0dc86f-2bb9-40d6-9022-bf188423176e",
+     "name": "Hinduja brothers",
+     "image": "https://i.imgur.com/0o5hVwJ.jpg",
+     "other": "#65"
+    },
+    {
+     "persistedFaceId": "4410f109-55ec-4a1c-9786-6c1b86bd989c",
+     "name": "Lee Kun-hee",
+     "image": "https://i.imgur.com/XlRQ6vX.jpg",
+     "other": "#65"
+    },
+    {
+     "persistedFaceId": "89d179f5-9a0a-41e2-8154-204f5d492f7a",
+     "name": "Donald Bren",
+     "image": "https://i.imgur.com/NFDnVdS.jpg",
+     "other": "#68"
+    },
+    {
+     "persistedFaceId": "ad369732-6b7b-4dc2-9931-e2a134175f99",
+     "name": "Takemitsu Takizaki",
+     "image": "https://i.imgur.com/HGHc4gW.jpg",
+     "other": "#69"
+    },
+    {
+     "persistedFaceId": "80a2ebb4-ac65-448d-9001-73b6ddc136b7",
+     "name": "Zhang Yiming",
+     "image": "https://i.imgur.com/I7aGoAa.jpg",
+     "other": "#70"
+    },
+    {
+     "persistedFaceId": "b0b79059-7cf1-4bde-b813-867e7fc7e636",
+     "name": "Abigail Johnson",
+     "image": "https://i.imgur.com/QVvPtkv.jpg",
+     "other": "#71"
+    },
+    {
+     "persistedFaceId": "806df4fd-692d-4ddb-98c8-1f9a248c6e09",
+     "name": "Stefan Persson",
+     "image": "https://i.imgur.com/LFP9gdY.jpg",
+     "other": "#71"
+    },
+    {
+     "persistedFaceId": "6848f489-8cc7-4000-ae13-ea44485e3aef",
+     "name": "Petr Kellner",
+     "image": "https://i.imgur.com/1e9ArG3.jpg",
+     "other": "#73"
+    },
+    {
+     "persistedFaceId": "b7ce4f0f-9aa8-47c4-b4bc-12b6d7e8b823",
+     "name": "Iris Fontbona",
+     "image": "https://i.imgur.com/1zwKvU9.jpg",
+     "other": "#74"
+    },
+    {
+     "persistedFaceId": "0039fbb6-7cc0-452a-bf81-bdcc64a516ce",
+     "name": "Dhanin Chearavanont",
+     "image": "https://i.imgur.com/CRXOQo4.jpg",
+     "other": "#75"
+    },
+    {
+     "persistedFaceId": "bf31fbe3-22cd-4bab-ad5e-3ff7256d7b7e",
+     "name": "Gina Rinehart",
+     "image": "https://i.imgur.com/0QdV7dB.jpg",
+     "other": "#75"
+    },
+    {
+     "persistedFaceId": "603f6540-48e8-478c-9455-5058ee1bec0b",
+     "name": "Kwong Siu-hing",
+     "image": "https://i.imgur.com/AG8HGK2.jpg",
+     "other": "#78"
+    },
+    {
+     "persistedFaceId": "19993e53-5fb0-4849-b2e0-dec4ec55bc1a",
+     "name": "Mikhail Fridman",
+     "image": "https://i.imgur.com/RJ0T9Jd.jpg",
+     "other": "#79"
+    },
+    {
+     "persistedFaceId": "92cd08db-7947-4366-988b-4298de30b870",
+     "name": "Pallonji Mistry",
+     "image": "https://i.imgur.com/uMa1S0a.jpg",
+     "other": "#79"
+    },
+    {
+     "persistedFaceId": "b5c62a25-8fe0-404f-aaa4-4fd92085e377",
+     "name": "William Ding",
+     "image": "https://i.imgur.com/XbyiWsF.jpg",
+     "other": "#81"
+    },
+    {
+     "persistedFaceId": "0855513d-e933-4a5a-ad08-c03f46a67662",
+     "name": "Lui Che Woo",
+     "image": "https://i.imgur.com/xiTyQDI.jpg",
+     "other": "#82"
+    },
+    {
+     "persistedFaceId": "38b7e0a5-e46c-447d-9fb5-2b54aafede16",
+     "name": "Shiv Nadar",
+     "image": "https://i.imgur.com/Wob97G6.jpg",
+     "other": "#82"
+    },
+    {
+     "persistedFaceId": "2e7c4f48-32f0-4108-981f-13f47e5f0607",
+     "name": "Emmanuel Besnier",
+     "image": "https://i.imgur.com/DH2wlcq.jpg",
+     "other": "#88"
+    },
+    {
+     "persistedFaceId": "f57490e9-d5ce-406d-ad11-a1266db8820b",
+     "name": "Charlene de Carvalho-Heineken",
+     "image": "https://i.imgur.com/RfBUnmv.jpg",
+     "other": "#89"
+    },
+    {
+     "persistedFaceId": "69c530de-5cef-48de-96a9-72d9fc9f2da8",
+     "name": "Andrey Melnichenko",
+     "image": "https://i.imgur.com/peiWCGO.jpg",
+     "other": "#90"
+    },
+    {
+     "persistedFaceId": "ad2214de-adf4-4e32-8dbc-323b667d05d3",
+     "name": "Li Shufu",
+     "image": "https://i.imgur.com/jxC2hit.jpg",
+     "other": "#91"
+    },
+    {
+     "persistedFaceId": "66bb2da8-9836-4bde-a673-b1227cf7e8cf",
+     "name": "Lakshmi Mittal",
+     "image": "https://i.imgur.com/2QuCUnd.jpg",
+     "other": "#91"
+    },
+    {
+     "persistedFaceId": "a19e24f7-80d8-44b5-b4d3-72ee79447dbf",
+     "name": "Heinz Hermann Thiele",
+     "image": "https://i.imgur.com/Fzx0U4w.jpg",
+     "other": "#91"
+    },
+    {
+     "persistedFaceId": "1ca323ef-4af3-4d7b-8d8e-a6618a077c99",
+     "name": "Colin Huang",
+     "image": "https://i.imgur.com/4cpQ0UF.jpg",
+     "other": "#94"
+    },
+    {
+     "persistedFaceId": "ce593c43-f733-4bea-9192-f787d0e5ee78",
+     "name": "Hasso Plattner",
+     "image": "https://i.imgur.com/lJmUZn4.jpg",
+     "other": "#94"
+    },
+    {
+     "persistedFaceId": "09a6df85-4586-42b1-80a1-483a7d9bb041",
+     "name": "Georg Schaeffler",
+     "image": "https://i.imgur.com/8kg3omO.jpg",
+     "other": "#96"
+    },
+    {
+     "persistedFaceId": "13288a49-14e4-4fdf-a238-b80ecc4c3a4b",
+     "name": "German Larrea Mota Velasco",
+     "image": "https://i.imgur.com/QQfAzet.jpg",
+     "other": "#98"
+    },
+    {
+     "persistedFaceId": "06ca37e2-2d72-4156-bd8d-8adf11929625",
+     "name": "Zhang Zhidong",
+     "image": "https://i.imgur.com/nFrqMMW.jpg",
+     "other": "#98"
+    },
+    {
+     "persistedFaceId": "a53a7ae4-753f-4402-8276-f5d8e78cbb3d",
+     "name": "Stephen Schwarzman",
+     "image": "https://i.imgur.com/v9FX0TE.jpg",
+     "other": "#100"
+    },
+    {
+     "persistedFaceId": "175fc962-6cfd-4881-b507-7141aea31d44",
+     "name": "Klaus-Michael Kuehne",
+     "image": "https://i.imgur.com/rwwK5AH.jpg",
+     "other": "#101"
+    },
+    {
+     "persistedFaceId": "0a384ea9-a56d-419b-828d-4415dd594b25",
+     "name": "Eric Schmidt",
+     "image": "https://i.imgur.com/5eVmWf9.jpg",
+     "other": "#101"
+    },
+    {
+     "persistedFaceId": "1e134813-02a0-4b17-aa1c-9cb48df91220",
+     "name": "Harold Hamm",
+     "image": "https://i.imgur.com/VTbPRRM.jpg",
+     "other": "#105"
+    },
+    {
+     "persistedFaceId": "eda4486c-4c47-458d-9527-d7db00792875",
+     "name": "Alisher Usmanov",
+     "image": "https://i.imgur.com/hpODJkm.jpg",
+     "other": "#106"
+    },
+    {
+     "persistedFaceId": "97e5f91e-75c8-456e-89fd-56d92e1da043",
+     "name": "Thomas Frist, Jr.",
+     "image": "https://i.imgur.com/dEsNPtq.jpg",
+     "other": "#107"
+    },
+    {
+     "persistedFaceId": "cacfee68-059d-4690-9554-6ab001ca3621",
+     "name": "Stefano Pessina",
+     "image": "https://i.imgur.com/hEjqFqR.jpg",
+     "other": "#107"
+    },
+    {
+     "persistedFaceId": "54db28d6-923b-453b-86ec-d8f088c69dbb",
+     "name": "James Ratcliffe",
+     "image": "https://i.imgur.com/8hceSKC.jpg",
+     "other": "#110"
+    },
+    {
+     "persistedFaceId": "06d072b9-2330-4e17-8b2d-5724219469bd",
+     "name": "Robert & Philip Ng",
+     "image": "https://i.imgur.com/4rksb5p.jpg",
+     "other": "#112"
+    },
+    {
+     "persistedFaceId": "0e534ad9-4a26-4df7-93c6-a9864393928e",
+     "name": "Hans Rausing",
+     "image": "https://i.imgur.com/hRWxadm.jpg",
+     "other": "#112"
+    },
+    {
+     "persistedFaceId": "7d5737f1-7d40-4ce5-ad91-806d6da44350",
+     "name": "David Duffield",
+     "image": "https://i.imgur.com/uBKe9F0.jpg",
+     "other": "#114"
+    },
+    {
+     "persistedFaceId": "00c00471-ec7b-42f8-b803-da6976cc7548",
+     "name": "Uday Kotak",
+     "image": "https://i.imgur.com/7LQL0Rs.jpg",
+     "other": "#114"
+    },
+    {
+     "persistedFaceId": "e8c0ad68-4bfc-4bbc-bc0c-b71b402d4a7b",
+     "name": "Donald Newhouse",
+     "image": "https://i.imgur.com/ar65B8t.jpg",
+     "other": "#114"
+    },
+    {
+     "persistedFaceId": "2b12fcfd-1413-4080-9ecf-7b78973451f2",
+     "name": "Ken Griffin",
+     "image": "https://i.imgur.com/YoCOJjK.jpg",
+     "other": "#117"
+    },
+    {
+     "persistedFaceId": "10594128-eeee-4dee-9b92-04dbdaea742e",
+     "name": "David Tepper",
+     "image": "https://i.imgur.com/fpPs56L.jpg",
+     "other": "#118"
+    },
+    {
+     "persistedFaceId": "5a20bc84-e86b-46e3-81fe-2478301199d7",
+     "name": "Viktor Vekselberg",
+     "image": "https://i.imgur.com/WPJv618.jpg",
+     "other": "#119"
+    },
+    {
+     "persistedFaceId": "4ae98bf4-ebf2-49f2-817e-33689906ec5c",
+     "name": "Pierre Omidyar",
+     "image": "https://i.imgur.com/QHkgB16.jpg",
+     "other": "#120"
+    },
+    {
+     "persistedFaceId": "5ea670c8-449e-4f41-be09-70dbf443751a",
+     "name": "Reinhold Wuerth",
+     "image": "https://i.imgur.com/eX353Tq.jpg",
+     "other": "#121"
+    },
+    {
+     "persistedFaceId": "792bf073-149c-4e86-8e9a-b9a6c00f0993",
+     "name": "Kumar Birla",
+     "image": "https://i.imgur.com/FujZAdK.jpg",
+     "other": "#122"
+    },
+    {
+     "persistedFaceId": "027e655c-5262-4c88-b1f4-67be5632da8e",
+     "name": "Radhakishan Damani",
+     "image": "https://i.imgur.com/ak6xsGV.jpg",
+     "other": "#122"
+    },
+    {
+     "persistedFaceId": "a7a3a0a3-bef4-43bf-9abf-76be85f88d36",
+     "name": "Dustin Moskovitz",
+     "image": "https://i.imgur.com/GqWeshx.jpg",
+     "other": "#122"
+    },
+    {
+     "persistedFaceId": "2ec8d282-b386-4325-9db3-373b3da680c4",
+     "name": "Ricardo Salinas Pliego",
+     "image": "https://i.imgur.com/f6Y54Jc.jpg",
+     "other": "#122"
+    },
+    {
+     "persistedFaceId": "6ee017a8-638f-4d9f-a6e9-4eecd4b4887a",
+     "name": "Wang Wenyin",
+     "image": "https://i.imgur.com/V5H1Sjf.jpg",
+     "other": "#127"
+    },
+    {
+     "persistedFaceId": "d7747eb1-002e-4bf1-83a8-95cd85b17623",
+     "name": "Philip Anschutz",
+     "image": "https://i.imgur.com/sNuDYJQ.jpg",
+     "other": "#128"
+    },
+    {
+     "persistedFaceId": "2d19bc8d-b77d-4d9d-8b75-be85187e3140",
+     "name": "John Fredriksen",
+     "image": "https://i.imgur.com/y53X18G.jpg",
+     "other": "#129"
+    },
+    {
+     "persistedFaceId": "9ecf8263-206b-4b98-a8b2-d7b1a9d2f8b5",
+     "name": "Luis Carlos Sarmiento",
+     "image": "https://i.imgur.com/ooRm6jq.jpg",
+     "other": "#129"
+    },
+    {
+     "persistedFaceId": "08979f4a-efd4-455e-a5bb-4804b68e0d99",
+     "name": "Alexander Otto",
+     "image": "https://i.imgur.com/dd0dmZl.jpg",
+     "other": "#132"
+    },
+    {
+     "persistedFaceId": "8e24e635-9e14-48e1-9e15-4e31137dee52",
+     "name": "Gianluigi & Rafaela Aponte",
+     "image": "https://i.imgur.com/DrtgNTt.jpg",
+     "other": "#133"
+    },
+    {
+     "persistedFaceId": "e0984785-f177-4ece-aabf-efdf10bb5402",
+     "name": "John Menard, Jr.",
+     "image": "https://i.imgur.com/WzUSW9K.jpg",
+     "other": "#133"
+    },
+    {
+     "persistedFaceId": "4ac5a4ab-d0fe-4a68-85f7-1eb3bbb9e815",
+     "name": "Rodolphe Saad\u00e9",
+     "image": "https://i.imgur.com/TFQSlK8.jpg",
+     "other": "#133"
+    },
+    {
+     "persistedFaceId": "6e98b3b7-d1e6-406b-91e1-450685114684",
+     "name": "Aliko Dangote",
+     "image": "https://i.imgur.com/9rR7iKF.jpg",
+     "other": "#136"
+    },
+    {
+     "persistedFaceId": "4b764294-86f8-410b-9525-e9c8afa56016",
+     "name": "Walter P.J. Droege",
+     "image": "https://i.imgur.com/XW4dx0W.jpg",
+     "other": "#137"
+    },
+    {
+     "persistedFaceId": "16ad94ed-5c2a-4421-8028-caf8a2c9b934",
+     "name": "Marcel Herrmann Telles",
+     "image": "https://i.imgur.com/dDsiRfi.jpg",
+     "other": "#138"
+    },
+    {
+     "persistedFaceId": "b764e7b3-f748-46e1-af80-d1cd59dfdb56",
+     "name": "German Khan",
+     "image": "https://i.imgur.com/7cPaF4t.jpg",
+     "other": "#140"
+    },
+    {
+     "persistedFaceId": "19db9f52-db56-4ed5-8e41-82d3951f1096",
+     "name": "Gordon Moore",
+     "image": "https://i.imgur.com/7RLBLjg.jpg",
+     "other": "#140"
+    },
+    {
+     "persistedFaceId": "5d1b2ace-211c-48d9-a43b-84f46a5f4d9d",
+     "name": "Eduardo Saverin",
+     "image": "https://i.imgur.com/mQrKGhl.jpg",
+     "other": "#140"
+    },
+    {
+     "persistedFaceId": "8d8649d1-ac80-4046-9fd6-e5decf718883",
+     "name": "Charles Ergen",
+     "image": "https://i.imgur.com/SiANdTp.jpg",
+     "other": "#143"
+    },
+    {
+     "persistedFaceId": "01a40e6b-0bcd-4387-805a-79bf4571f719",
+     "name": "Jan Koum",
+     "image": "https://i.imgur.com/oD8TEA4.jpg",
+     "other": "#143"
+    },
+    {
+     "persistedFaceId": "1e417abe-74ce-4417-889c-eab264e3b811",
+     "name": "Lei Jun",
+     "image": "https://i.imgur.com/y6OGPyq.jpg",
+     "other": "#143"
+    },
+    {
+     "persistedFaceId": "3f84f86f-9e0c-4208-883c-6923ca13d051",
+     "name": "Robin Li",
+     "image": "https://i.imgur.com/FRHr0g6.jpg",
+     "other": "#143"
+    },
+    {
+     "persistedFaceId": "4801b12a-1608-4676-84f4-1a7591fca690",
+     "name": "Joseph Tsai",
+     "image": "https://i.imgur.com/y5SLtKf.jpg",
+     "other": "#147"
+    },
+    {
+     "persistedFaceId": "895a1c0e-92fb-402c-b994-45c8084411d0",
+     "name": "Eyal Ofer",
+     "image": "https://i.imgur.com/560sZwe.jpg",
+     "other": "#149"
+    },
+    {
+     "persistedFaceId": "b44ee815-9225-4720-be7f-1eaa9ec246da",
+     "name": "Ronald Perelman",
+     "image": "https://i.imgur.com/qu9DpzF.jpg",
+     "other": "#149"
+    },
+    {
+     "persistedFaceId": "78be7e89-9e57-4893-a279-ca17d0331764",
+     "name": "Quek Leng Chan",
+     "image": "https://i.imgur.com/kcWpT7j.jpg",
+     "other": "#149"
+    },
+    {
+     "persistedFaceId": "e931e56e-7c3c-4671-bfcf-b7b9c9eaebd9",
+     "name": "Wu Yajun",
+     "image": "https://i.imgur.com/XZ9Zyc1.jpg",
+     "other": "#149"
+    },
+    {
+     "persistedFaceId": "9574f289-b622-486e-bcf8-fc7a565c4bc4",
+     "name": "Xu Shihui",
+     "image": "https://i.imgur.com/lAqrLVX.jpg",
+     "other": "#153"
+    },
+    {
+     "persistedFaceId": "d6431ec9-f399-4b6e-a1f0-67592705738a",
+     "name": "Mike Adenuga",
+     "image": "https://i.imgur.com/uzlqIDE.jpg",
+     "other": "#156"
+    },
+    {
+     "persistedFaceId": "69f9671a-3d73-40f1-b836-95daf9e4ab2d",
+     "name": "Harry Triguboff",
+     "image": "https://i.imgur.com/EBibpQm.jpg",
+     "other": "#156"
+    },
+    {
+     "persistedFaceId": "b8dbaf84-b115-4395-bc71-2578b99650f8",
+     "name": "Andrew Beal",
+     "image": "https://i.imgur.com/VncUqnL.jpg",
+     "other": "#158"
+    },
+    {
+     "persistedFaceId": "682c22ff-4a91-4a05-b49a-d3702a484ce2",
+     "name": "Graeme Hart",
+     "image": "https://i.imgur.com/PkzKPhI.jpg",
+     "other": "#158"
+    },
+    {
+     "persistedFaceId": "e9a0be89-2dc8-4ff9-acb2-43479d594e28",
+     "name": "Hui Wing Mau",
+     "image": "https://i.imgur.com/gdP6nY7.jpg",
+     "other": "#160"
+    },
+    {
+     "persistedFaceId": "da8069d7-d765-4143-8b08-ec2f2ab23d44",
+     "name": "Sun Hongbin",
+     "image": "https://i.imgur.com/EfzzUfC.jpg",
+     "other": "#160"
+    },
+    {
+     "persistedFaceId": "212efe21-3b20-4626-9a4c-88cd1c577e6e",
+     "name": "Micky Arison",
+     "image": "https://i.imgur.com/f6ky4kG.jpg",
+     "other": "#162"
+    },
+    {
+     "persistedFaceId": "a71a406b-c3ea-407f-ab05-a1b183d24562",
+     "name": "James Goodnight",
+     "image": "https://i.imgur.com/vaaofUK.jpg",
+     "other": "#162"
+    },
+    {
+     "persistedFaceId": "5e4d66ef-bb9e-4ae8-b908-7b88a38ea14b",
+     "name": "Viktor Rashnikov",
+     "image": "https://i.imgur.com/Rk9mbKM.jpg",
+     "other": "#162"
+    },
+    {
+     "persistedFaceId": "ddf2468a-b112-471f-87b4-0e614a120ada",
+     "name": "Carlos Alberto Sicupira",
+     "image": "https://i.imgur.com/iIFziny.jpg",
+     "other": "#162"
+    },
+    {
+     "persistedFaceId": "98f352f8-aef8-4d68-995a-9b5b230cc7cd",
+     "name": "Leonid Fedun",
+     "image": "https://i.imgur.com/Ww4TAsj.jpg",
+     "other": "#167"
+    },
+    {
+     "persistedFaceId": "d90f38b7-fc4b-4c6c-ab23-8be357674122",
+     "name": "Stanley Kroenke",
+     "image": "https://i.imgur.com/UgzDOH4.jpg",
+     "other": "#167"
+    },
+    {
+     "persistedFaceId": "809fc9ba-f01d-44b6-be5b-b80e29fd65a4",
+     "name": "Jorn Rausing",
+     "image": "https://i.imgur.com/yPCx0X4.jpg",
+     "other": "#167"
+    },
+    {
+     "persistedFaceId": "59d664e1-ef06-49de-ae11-357e8afb6000",
+     "name": "Gong Hongjia",
+     "image": "https://i.imgur.com/lJhi9I6.jpg",
+     "other": "#171"
+    },
+    {
+     "persistedFaceId": "ba11b676-a382-40d4-8565-89f2532cbf4e",
+     "name": "Michael Kadoorie",
+     "image": "https://i.imgur.com/Z8BVRjk.jpg",
+     "other": "#171"
+    },
+    {
+     "persistedFaceId": "e6823687-1096-4129-bcd3-7ebe70299413",
+     "name": "Giorgio Armani",
+     "image": "https://i.imgur.com/2PbF8XY.jpg",
+     "other": "#173"
+    },
+    {
+     "persistedFaceId": "34c55ad5-464f-4245-a2bb-cea2c99d1dce",
+     "name": "Galen Weston",
+     "image": "https://i.imgur.com/Oie1Nar.jpg",
+     "other": "#174"
+    },
+    {
+     "persistedFaceId": "b5b62220-c884-4c80-95c0-c5c810e7cf5b",
+     "name": "Zong Qinghou",
+     "image": "https://i.imgur.com/fXSw0N1.jpg",
+     "other": "#174"
+    },
+    {
+     "persistedFaceId": "3ba4bc3e-fbd9-4fa0-8781-837f27563536",
+     "name": "Carl Cook",
+     "image": "https://i.imgur.com/ppbTtGn.jpg",
+     "other": "#178"
+    },
+    {
+     "persistedFaceId": "fcd42eb0-92cc-4f4f-b36d-7c25c2dd8a3b",
+     "name": "Charles Schwab",
+     "image": "https://i.imgur.com/6jqQvY5.jpg",
+     "other": "#178"
+    },
+    {
+     "persistedFaceId": "81a71919-d211-48c3-a269-fd9b95b7eb47",
+     "name": "Johann Graf",
+     "image": "https://i.imgur.com/1lkYVSj.jpg",
+     "other": "#181"
+    },
+    {
+     "persistedFaceId": "0b66b5cb-7966-4532-8778-982a9e2303e1",
+     "name": "Seo Jung-jin",
+     "image": "https://i.imgur.com/GMT52CN.jpg",
+     "other": "#181"
+    },
+    {
+     "persistedFaceId": "c9a21547-8d71-4f7d-93be-42e1b4dbcc08",
+     "name": "Ernesto Bertarelli",
+     "image": "https://i.imgur.com/Flk0xre.jpg",
+     "other": "#183"
+    },
+    {
+     "persistedFaceId": "72f94c96-b8eb-4f7f-b28b-f07b1c33ade9",
+     "name": "Michael Platt",
+     "image": "https://i.imgur.com/XVkzYQe.jpg",
+     "other": "#183"
+    },
+    {
+     "persistedFaceId": "f7f3202d-7fa1-4856-95e8-70cd4983f9d4",
+     "name": "Finn Rausing",
+     "image": "https://i.imgur.com/tu4cfZy.jpg",
+     "other": "#185"
+    },
+    {
+     "persistedFaceId": "613aa6d9-fd60-44fe-9352-06acc92beff0",
+     "name": "Edward Johnson, III.",
+     "image": "https://i.imgur.com/N6N63dP.jpg",
+     "other": "#187"
+    },
+    {
+     "persistedFaceId": "b9788aa8-08b3-4f2a-b21c-b5ee2c2c3483",
+     "name": "Patrick Drahi",
+     "image": "https://i.imgur.com/OSvKSZs.jpg",
+     "other": "#190"
+    },
+    {
+     "persistedFaceId": "48f97cac-7584-471c-8e30-b7455f932e28",
+     "name": "George Kaiser",
+     "image": "https://i.imgur.com/0gukxip.jpg",
+     "other": "#191"
+    },
+    {
+     "persistedFaceId": "82ca8a7d-b4d3-46a5-b4c2-24d2c7a575b8",
+     "name": "Stephen Ross",
+     "image": "https://i.imgur.com/wWzzBSD.jpg",
+     "other": "#191"
+    },
+    {
+     "persistedFaceId": "275a9652-23e6-4478-83b7-99e0361d0f0d",
+     "name": "Dilip Shanghvi",
+     "image": "https://i.imgur.com/SRQLWPS.jpg",
+     "other": "#191"
+    },
+    {
+     "persistedFaceId": "ca3cd334-cb95-42b5-89fb-f1d93bb205c8",
+     "name": "Alexei Kuzmichev",
+     "image": "https://i.imgur.com/UOFyBdE.jpg",
+     "other": "#195"
+    },
+    {
+     "persistedFaceId": "95f42ca7-9560-49f5-87b0-403f95afda1a",
+     "name": "Alberto Bailleres Gonzalez",
+     "image": "https://i.imgur.com/88EQ2xT.jpg",
+     "other": "#198"
+    },
+    {
+     "persistedFaceId": "2edfcea1-ad19-4b37-a245-1e63156ccee3",
+     "name": "Herbert Kohler, Jr.",
+     "image": "https://i.imgur.com/6fMeb0X.jpg",
+     "other": "#200"
+    },
+    {
+     "persistedFaceId": "817bbd33-1701-40f6-850d-a4bbc86644d0",
+     "name": "Sri Prakash Lohia",
+     "image": "https://i.imgur.com/yEn9KZK.jpg",
+     "other": "#200"
+    },
+    {
+     "persistedFaceId": "c7d7d8de-40cf-450b-8ea4-462f946f15b8",
+     "name": "Nicky Oppenheimer",
+     "image": "https://i.imgur.com/tMg0lJa.jpg",
+     "other": "#200"
+    },
+    {
+     "persistedFaceId": "86d9baf7-f68e-4d82-9d5d-0913f0ed647c",
+     "name": "Goh Cheng Liang",
+     "image": "https://i.imgur.com/j5SW06m.jpg",
+     "other": "#203"
+    },
+    {
+     "persistedFaceId": "23640877-7454-4ef2-9bfb-32e55dca01a0",
+     "name": "John Malone",
+     "image": "https://i.imgur.com/vyRibPw.jpg",
+     "other": "#203"
+    },
+    {
+     "persistedFaceId": "43fb3e38-32f3-4100-841c-8e158937aa00",
+     "name": "Christy Walton",
+     "image": "https://i.imgur.com/SLFRy3U.jpg",
+     "other": "#203"
+    },
+    {
+     "persistedFaceId": "1ea16403-1125-43df-8d4c-af49bdb28dd7",
+     "name": "Yao Zhenhua",
+     "image": "https://i.imgur.com/rbMa9Mi.jpg",
+     "other": "#203"
+    },
+    {
+     "persistedFaceId": "90a6e9cd-3c1b-4d18-aaef-9189da1174de",
+     "name": "Frederik Paulsen",
+     "image": "https://i.imgur.com/O3nDHz1.jpg",
+     "other": "#207"
+    },
+    {
+     "persistedFaceId": "8fcda024-7075-4cef-832f-a0c0d7e148b8",
+     "name": "David Green",
+     "image": "https://i.imgur.com/Q7Gnhhs.jpg",
+     "other": "#209"
+    },
+    {
+     "persistedFaceId": "74c95cb6-a3d0-4506-ae15-353c7977e679",
+     "name": "James Irving",
+     "image": "https://i.imgur.com/KHVoahn.jpg",
+     "other": "#209"
+    },
+    {
+     "persistedFaceId": "4e4f9fde-467c-41d7-a51e-09493994cb04",
+     "name": "David Shaw",
+     "image": "https://i.imgur.com/cokksrd.jpg",
+     "other": "#209"
+    },
+    {
+     "persistedFaceId": "d442520b-6e29-4afb-9c3c-ec549c964107",
+     "name": "Patrick Soon-Shiong",
+     "image": "https://i.imgur.com/Ac9Q4Q4.jpg",
+     "other": "#209"
+    },
+    {
+     "persistedFaceId": "b2175e7e-ff6f-405b-b6ac-ec20d0965b80",
+     "name": "Nusli Wadia",
+     "image": "https://i.imgur.com/L2M0LkT.jpg",
+     "other": "#209"
+    },
+    {
+     "persistedFaceId": "25a2064b-5d5b-47c1-ac85-5d1a7fef6a8b",
+     "name": "Mike Cannon-Brookes",
+     "image": "https://i.imgur.com/C6A0W75.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "9256225d-7089-43e1-a117-9e5ec6e4c554",
+     "name": "John Doerr",
+     "image": "https://i.imgur.com/0a5dZ6h.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "feb4abce-ed81-4f67-91a4-d59849900c23",
+     "name": "Scott Farquhar",
+     "image": "https://i.imgur.com/SvJlze5.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "de332e76-c83b-4899-a409-240a6d35390c",
+     "name": "John Grayken",
+     "image": "https://i.imgur.com/GAVFg8m.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "b6c667f2-abc7-48f4-8620-a2558b5ca559",
+     "name": "Jay Y. Lee",
+     "image": "https://i.imgur.com/leiwTaY.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "f86bf6dd-2cc7-4f6f-bb60-0e3a9e8b4d4e",
+     "name": "Michael Otto",
+     "image": "https://i.imgur.com/pIrOVTj.jpg",
+     "other": "#215"
+    },
+    {
+     "persistedFaceId": "a0daab44-d46c-4f37-81ea-237916be1087",
+     "name": "Jerry Jones",
+     "image": "https://i.imgur.com/hEvTrxK.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "51739eb5-c965-4403-b595-10c695da3c23",
+     "name": "Shahid Khan",
+     "image": "https://i.imgur.com/Vliw8eW.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "d125fbbf-2967-4424-a34f-49cae2d6095a",
+     "name": "Friedhelm Loh",
+     "image": "https://i.imgur.com/L2rnO3u.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "3e0f3f8c-e242-4d85-9527-c896ac943432",
+     "name": "Dmitry Rybolovlev",
+     "image": "https://i.imgur.com/Rl8d2wS.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "3341268c-8896-432d-9ed7-2a33d04adbac",
+     "name": "Melker Schorling",
+     "image": "https://i.imgur.com/djvnnMg.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "ab1a6f86-69f2-45f3-ab90-de8b6da10ffc",
+     "name": "Zhang Jindong",
+     "image": "https://i.imgur.com/s37b5vT.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "79cf65b7-af1e-431f-a7d5-eed79b1f9a92",
+     "name": "Zhang Yong",
+     "image": "https://i.imgur.com/lxK3I2x.jpg",
+     "other": "#224"
+    },
+    {
+     "persistedFaceId": "38bf8a76-e5ae-49c9-91a8-2c90f4443e09",
+     "name": "Francis Choi",
+     "image": "https://i.imgur.com/Nx1CG3a.jpg",
+     "other": "#233"
+    },
+    {
+     "persistedFaceId": "5735d4f9-17bb-4f7f-801b-f5a209d30c30",
+     "name": "Daniel Gilbert",
+     "image": "https://i.imgur.com/wFdzxUw.jpg",
+     "other": "#233"
+    },
+    {
+     "persistedFaceId": "c483433d-0485-410e-b13c-00c3d8746693",
+     "name": "Guo Guangchang",
+     "image": "https://i.imgur.com/CL2sdIq.jpg",
+     "other": "#233"
+    },
+    {
+     "persistedFaceId": "fa0e69a7-4070-489c-808f-10c312f4ff2b",
+     "name": "Teh Hong Piow",
+     "image": "https://i.imgur.com/k8QXcdD.jpg",
+     "other": "#233"
+    },
+    {
+     "persistedFaceId": "cf81d691-a17f-44ef-bb10-77419cab7ce4",
+     "name": "Marc Benioff",
+     "image": "https://i.imgur.com/GpWmxB9.jpg",
+     "other": "#239"
+    },
+    {
+     "persistedFaceId": "ab58e327-4953-4233-a82d-95a7e98c1128",
+     "name": "Kei Hoi Pang",
+     "image": "https://i.imgur.com/GSoCmFr.jpg",
+     "other": "#239"
+    },
+    {
+     "persistedFaceId": "e04112a6-de7b-43ba-9326-9e2c4cc75c37",
+     "name": "Richard Kinder",
+     "image": "https://i.imgur.com/2xnv0Fs.jpg",
+     "other": "#239"
+    },
+    {
+     "persistedFaceId": "a1f07a84-c145-4449-9792-858b8e4a1ec5",
+     "name": "Pham Nhat Vuong",
+     "image": "https://i.imgur.com/5cYN7Kv.jpg",
+     "other": "#239"
+    },
+    {
+     "persistedFaceId": "7174e844-0894-4486-b830-c62b10838351",
+     "name": "Denise Coates",
+     "image": "https://i.imgur.com/afMxZ3F.jpg",
+     "other": "#244"
+    },
+    {
+     "persistedFaceId": "6fda02a3-619e-42a2-806d-89479fd06156",
+     "name": "Kim Jung-ju",
+     "image": "https://i.imgur.com/v2ivfsj.jpg",
+     "other": "#244"
+    },
+    {
+     "persistedFaceId": "9bd6a141-e83e-4402-8ce4-e07f4d89e3b5",
+     "name": "Frank Lowy",
+     "image": "https://i.imgur.com/ZRBejsP.jpg",
+     "other": "#244"
+    },
+    {
+     "persistedFaceId": "75287418-5668-417f-a36c-de954855bc68",
+     "name": "Sunil Mittal",
+     "image": "https://i.imgur.com/tefrylq.jpg",
+     "other": "#244"
+    },
+    {
+     "persistedFaceId": "20c17fec-71f0-4c31-833d-086617868ed9",
+     "name": "John A. Sobrato",
+     "image": "https://i.imgur.com/t3kYGf3.jpg",
+     "other": "#244"
+    },
+    {
+     "persistedFaceId": "ad2e492f-ef97-46bb-a701-e8b7558329fe",
+     "name": "Leon Black",
+     "image": "https://i.imgur.com/8NgwCOa.jpg",
+     "other": "#252"
+    },
+    {
+     "persistedFaceId": "d745ca21-8938-42b6-b6d9-a12e8f5e87c9",
+     "name": "Israel Englander",
+     "image": "https://i.imgur.com/onMiY14.jpg",
+     "other": "#252"
+    },
+    {
+     "persistedFaceId": "2f7ceb4b-153b-4c04-b805-d6b05abc1504",
+     "name": "Anders Holch Povlsen",
+     "image": "https://i.imgur.com/jILSv7W.jpg",
+     "other": "#252"
+    },
+    {
+     "persistedFaceId": "dfb9770b-9202-47d0-8473-3500183c5392",
+     "name": "Nassef Sawiris",
+     "image": "https://i.imgur.com/wwTT2wO.jpg",
+     "other": "#252"
+    },
+    {
+     "persistedFaceId": "6246da58-6daf-4f9f-ad6b-e830f09efa4b",
+     "name": "Andreas von Bechtolsheim",
+     "image": "https://i.imgur.com/DrbQKki.jpg",
+     "other": "#252"
+    },
+    {
+     "persistedFaceId": "c331150b-edc0-4d4e-9da0-dcdfb92a5ad0",
+     "name": "Terry Gou",
+     "image": "https://i.imgur.com/n6LXErX.jpg",
+     "other": "#257"
+    },
+    {
+     "persistedFaceId": "901440fa-2a35-47ac-9365-77d9b03ee1fc",
+     "name": "Diane Hendricks",
+     "image": "https://i.imgur.com/dDYhmP8.jpg",
+     "other": "#257"
+    },
+    {
+     "persistedFaceId": "bbc1e386-1442-443c-9af0-5f49060d9126",
+     "name": "Suleiman Kerimov",
+     "image": "https://i.imgur.com/a0kEgAL.jpg",
+     "other": "#257"
+    },
+    {
+     "persistedFaceId": "e6463346-7168-4010-9861-87e57a42b625",
+     "name": "Alexander Abramov",
+     "image": "https://i.imgur.com/aIfsfnP.jpg",
+     "other": "#261"
+    },
+    {
+     "persistedFaceId": "e24e4039-af4f-405e-8064-d887c21c4e44",
+     "name": "Ananda Krishnan",
+     "image": "https://i.imgur.com/NAWDGBU.jpg",
+     "other": "#261"
+    },
+    {
+     "persistedFaceId": "8d38346b-ae32-4188-8a36-e68eb2b79389",
+     "name": "Margaretta Taylor",
+     "image": "https://i.imgur.com/yWaLeqc.jpg",
+     "other": "#261"
+    },
+    {
+     "persistedFaceId": "763d3d3b-9b1b-4892-b13f-9f6f9f1427a4",
+     "name": "John Overdeck",
+     "image": "https://i.imgur.com/5oySVLP.jpg",
+     "other": "#267"
+    },
+    {
+     "persistedFaceId": "20641d09-1edb-4642-8a21-cce61ccf4ade",
+     "name": "Odd Reitan",
+     "image": "https://i.imgur.com/WHAW2Sd.jpg",
+     "other": "#267"
+    },
+    {
+     "persistedFaceId": "597df854-679e-4fc8-853e-d5b18d0ac7ba",
+     "name": "David Siegel",
+     "image": "https://i.imgur.com/cXu4JQx.jpg",
+     "other": "#267"
+    },
+    {
+     "persistedFaceId": "4607f888-a36d-4819-a958-6ad817508220",
+     "name": "Rinat Akhmetov",
+     "image": "https://i.imgur.com/qTUXhlC.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "530130ff-06d8-4741-ad96-c896e1e4e55d",
+     "name": "Bubba Cathy",
+     "image": "https://i.imgur.com/4V8Fugl.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "ea39a6e7-b689-4fcc-b240-c5246d78798f",
+     "name": "Dan Cathy",
+     "image": "https://i.imgur.com/LptUVfm.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "040ad3bc-9908-4590-aaa2-e496ad1038d8",
+     "name": "Laurent Dassault",
+     "image": "https://i.imgur.com/uSOYZi0.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "3a485e94-0b55-4037-aed4-28a5991b8760",
+     "name": "Thierry Dassault",
+     "image": "https://i.imgur.com/i0bkJ59.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "32342717-3cd9-4da6-a4a3-8156e24d8139",
+     "name": "Marie-H\u00e9l\u00e8ne Habert",
+     "image": "https://i.imgur.com/xhwPxUV.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "3cf2ab01-2362-4b99-b329-0f58e1d515d8",
+     "name": "Bertil Hult",
+     "image": "https://i.imgur.com/jNo344X.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "aabbe08a-e6a7-4452-8084-266124a238c9",
+     "name": "Richard LeFrak",
+     "image": "https://i.imgur.com/PwQTSDa.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "a9095556-255c-4273-869a-a63fd33d25c8",
+     "name": "Pamela Mars",
+     "image": "https://i.imgur.com/OHMqGLn.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "cf985c76-d14f-4a35-9b57-95f8807c364d",
+     "name": "Victoria Mars",
+     "image": "https://i.imgur.com/pTtcDmH.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "808c3cda-2a78-4457-b8a9-643bfeed0cc3",
+     "name": "Jim Pattison",
+     "image": "https://i.imgur.com/SVLrEol.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "b18c00a6-a190-4717-a452-b7fe53e83e48",
+     "name": "Reinhold Schmieding",
+     "image": "https://i.imgur.com/kjMOEyO.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "3039009e-68fe-4c97-9b61-1428b0962882",
+     "name": "Tsai Eng-Meng",
+     "image": "https://i.imgur.com/9K8c4vr.jpg",
+     "other": "#272"
+    },
+    {
+     "persistedFaceId": "8c9ebb34-d126-4f9d-a303-01877d1a5ad6",
+     "name": "Milane Frantz",
+     "image": "https://i.imgur.com/zRYHhom.jpg",
+     "other": "#290"
+    },
+    {
+     "persistedFaceId": "2f7fc940-2445-4a74-85b0-a032510cecc2",
+     "name": "Savitri Jindal",
+     "image": "https://i.imgur.com/1xuRknx.jpg",
+     "other": "#290"
+    },
+    {
+     "persistedFaceId": "60122d1a-34b5-4928-a023-2122976793f0",
+     "name": "Dennis Washington",
+     "image": "https://i.imgur.com/za5PaNW.jpg",
+     "other": "#290"
+    },
+    {
+     "persistedFaceId": "14423d65-ee4c-477e-804d-156ad0ebadc1",
+     "name": "Randa Williams",
+     "image": "https://i.imgur.com/u55DbRB.jpg",
+     "other": "#290"
+    },
+    {
+     "persistedFaceId": "f0bc8add-9385-4837-8cbd-2635ca2cec55",
+     "name": "Hansjoerg Wyss",
+     "image": "https://i.imgur.com/7FJYVqW.jpg",
+     "other": "#290"
+    },
+    {
+     "persistedFaceId": "a78b6885-ebc0-4a0e-95b3-e7867d9d9ea6",
+     "name": "Chan Laiwa",
+     "image": "https://i.imgur.com/zngjMKX.jpg",
+     "other": "#298"
+    },
+    {
+     "persistedFaceId": "e5c320b4-2717-45f9-8716-3b94418d6def",
+     "name": "David Cheriton",
+     "image": "https://i.imgur.com/vUHX7jJ.jpg",
+     "other": "#298"
+    },
+    {
+     "persistedFaceId": "76f7be17-1261-459a-9990-9490afc0d95f",
+     "name": "Travis Kalanick",
+     "image": "https://i.imgur.com/NlNs1ll.jpg",
+     "other": "#298"
+    },
+    {
+     "persistedFaceId": "84da924f-8455-4d1d-b810-a84a8fddabe0",
+     "name": "Ronda Stryker",
+     "image": "https://i.imgur.com/nOAAfaR.jpg",
+     "other": "#298"
+    },
+    {
+     "persistedFaceId": "49c5fd3d-c137-47a9-be87-9115dc1ea1e9",
+     "name": "Xu Hang",
+     "image": "https://i.imgur.com/UfCl6oS.jpg",
+     "other": "#298"
+    },
+    {
+     "persistedFaceId": "278a2c28-b647-4a2e-8914-c84b4414fb3f",
+     "name": "James Dyson",
+     "image": "https://i.imgur.com/RcuxZAe.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "4bd316e4-ec3f-41c9-a54f-b75cd9660e78",
+     "name": "Nancy Walton Laurie",
+     "image": "https://i.imgur.com/eU47bg4.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "aba9bd1a-33a3-408a-a19f-dfb783e386e8",
+     "name": "Liu Yonghao",
+     "image": "https://i.imgur.com/PVeJ783.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "c04d7fd6-309a-4d01-b6d0-3792bb6fdc31",
+     "name": "John Morris",
+     "image": "https://i.imgur.com/XVWdiwS.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "a75ef2b5-e783-4ae8-88a6-8712ada9b6a5",
+     "name": "Carrie Perrodo",
+     "image": "https://i.imgur.com/zmSbfZi.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "cdfc9ac3-4c82-450a-98c3-406c813576b2",
+     "name": "Stef Wertheimer",
+     "image": "https://i.imgur.com/2GqljvE.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "71b0431b-a3ef-4c7f-b3ab-de74b2c46019",
+     "name": "Zhang Bangxin",
+     "image": "https://i.imgur.com/snLr8gM.jpg",
+     "other": "#303"
+    },
+    {
+     "persistedFaceId": "37a39c35-9f84-44be-a9b4-aa476b30866c",
+     "name": "Jim Davis",
+     "image": "https://i.imgur.com/yDxNK6K.jpg",
+     "other": "#311"
+    },
+    {
+     "persistedFaceId": "5e335190-3d92-4d19-a07e-8a7963494bd8",
+     "name": "Kwee brothers",
+     "image": "https://i.imgur.com/WKyDRSq.jpg",
+     "other": "#311"
+    },
+    {
+     "persistedFaceId": "cf02a41c-a03f-4217-a5b3-fcb24c00f59b",
+     "name": "Whitney MacMillan",
+     "image": "https://i.imgur.com/X86BJ33.jpg",
+     "other": "#311"
+    },
+    {
+     "persistedFaceId": "3ac0f3ef-41d4-4dcf-80e0-1ead56203ec2",
+     "name": "Laurence Graff",
+     "image": "https://i.imgur.com/zBuwZgD.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "fd2e92b4-8d0e-4881-aa40-4eb16d1f4d0a",
+     "name": "Henry Kravis",
+     "image": "https://i.imgur.com/PvI3qBR.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "bc98e2bb-2a3f-45f9-afbc-fd2743381551",
+     "name": "Li Xiting",
+     "image": "https://i.imgur.com/R3SnKMY.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "7c20c676-6b00-4a61-97f1-870d0651bc38",
+     "name": "George Roberts",
+     "image": "https://i.imgur.com/R6lLICZ.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "6087c24e-f3b4-49a2-b4ae-d878590c00da",
+     "name": "Johann Rupert",
+     "image": "https://i.imgur.com/75mtiM4.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "7afa8b23-3004-4f29-862c-928aacd63b0a",
+     "name": "Manuel Villar",
+     "image": "https://i.imgur.com/RZrRpnf.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "b39f1266-eae5-4d9f-88f9-aed7c99ee08c",
+     "name": "Sam Zell",
+     "image": "https://i.imgur.com/XRzzeJh.jpg",
+     "other": "#317"
+    },
+    {
+     "persistedFaceId": "c94458ca-70d4-4893-bfe3-d29ac58dc0a4",
+     "name": "Antonia Ax:son Johnson",
+     "image": "https://i.imgur.com/usgukFw.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "4a47af9f-cbd3-48c2-ad98-a7e0cb38a191",
+     "name": "Pierre Bellon",
+     "image": "https://i.imgur.com/XFrEkjB.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "9e047834-221f-4b5f-98c1-9ef8d86aa8a5",
+     "name": "Andrew Forrest",
+     "image": "https://i.imgur.com/EFE8H7n.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "963feeb4-7f67-45fe-84a3-fc3b731c7615",
+     "name": "Law Kar Po",
+     "image": "https://i.imgur.com/emQljFt.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "33d12735-20bf-4cc0-b4b7-f74fecfb3e82",
+     "name": "Lee Shin Cheng",
+     "image": "https://i.imgur.com/5oQLyC2.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "18460cb8-d87b-4218-9aa8-e464fab9239e",
+     "name": "Niels Peter Louis-Hansen",
+     "image": "https://i.imgur.com/oNRTTNL.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "7c091732-4ff2-4ead-84a7-9cefd2289976",
+     "name": "George Lucas",
+     "image": "https://i.imgur.com/e70OkEB.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "d8958c1a-2d58-41e6-bda3-b603a920d078",
+     "name": "Frank Wang",
+     "image": "https://i.imgur.com/TY2D6aL.jpg",
+     "other": "#325"
+    },
+    {
+     "persistedFaceId": "9714d3c8-693c-45ba-8d7e-6a8f2da62e2c",
+     "name": "Robert Rowling",
+     "image": "https://i.imgur.com/GKhKVRe.jpg",
+     "other": "#334"
+    },
+    {
+     "persistedFaceId": "6896f0ef-0745-4285-937b-330a1885f2d5",
+     "name": "Aloys Wobben",
+     "image": "https://i.imgur.com/zs2WJ1j.jpg",
+     "other": "#334"
+    },
+    {
+     "persistedFaceId": "81098dc2-e0f4-4b43-971f-d3582d57252a",
+     "name": "Yan Zhi",
+     "image": "https://i.imgur.com/udfwDsE.jpg",
+     "other": "#334"
+    },
+    {
+     "persistedFaceId": "d8c1c8ef-3c9b-4f48-8a02-10ee59b4222a",
+     "name": "Pyotr Aven",
+     "image": "https://i.imgur.com/RtnMlgc.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "76203949-729a-42c1-a17f-c221a1578dd4",
+     "name": "Benu Gopal Bangur",
+     "image": "https://i.imgur.com/37jrQRj.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "ac2142d9-657e-4528-bc54-7ea23d313411",
+     "name": "Bruce Kovner",
+     "image": "https://i.imgur.com/WWOST01.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "1ca57e97-bd01-45a6-a285-e14b7f87eef8",
+     "name": "Bernard Marcus",
+     "image": "https://i.imgur.com/pKTQacc.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "e75bc068-c0c3-4690-bde2-e6788c28585b",
+     "name": "Andrei Skoch",
+     "image": "https://i.imgur.com/byoGt7g.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "298d6875-2b33-415c-9d1e-774f55a7fcd2",
+     "name": "Sheldon Solow",
+     "image": "https://i.imgur.com/qtWehMP.jpg",
+     "other": "#337"
+    },
+    {
+     "persistedFaceId": "820b1dc4-e526-48b9-af06-5d7c7b60ae3d",
+     "name": "Majid Al Futtaim",
+     "image": "https://i.imgur.com/DEwdKRp.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "bc1ebf81-e22d-45b4-8ed2-f5ddb5e378cd",
+     "name": "Vincent Bollor\u00e9",
+     "image": "https://i.imgur.com/QdiOGy7.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "76898b51-fb3f-4995-a22a-f15e0e2faf04",
+     "name": "Jack Dorsey",
+     "image": "https://i.imgur.com/IcZ1dWj.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "10e33c60-2ccc-400d-84f2-abaf4b592dfb",
+     "name": "Guenther Fielmann",
+     "image": "https://i.imgur.com/I42KZuI.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "8a3b8868-a909-41c3-be35-e8f1641a493f",
+     "name": "Ivan Glasenberg",
+     "image": "https://i.imgur.com/WO8jo3B.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "19968e8a-b534-42be-9a26-d4aecc085dd8",
+     "name": "John Gokongwei, Jr.",
+     "image": "https://i.imgur.com/GSciUYw.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "560d192e-3a0e-4ba3-a3be-29551cb69bde",
+     "name": "Paul Tudor Jones, II.",
+     "image": "https://i.imgur.com/M09CfSh.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "002bf23d-b78f-45d4-b303-526169c67166",
+     "name": "Liu Yongxing",
+     "image": "https://i.imgur.com/c8lkzii.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "355516bd-3cdf-4a06-b6ce-5e88a7c650ea",
+     "name": "Wolfgang Marguerre",
+     "image": "https://i.imgur.com/1aG8TqG.jpg",
+     "other": "#343"
+    },
+    {
+     "persistedFaceId": "bbc037ab-6234-4fd9-b4b3-85575e73e665",
+     "name": "Shari Arison",
+     "image": "https://i.imgur.com/EHLJK6S.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "0bf5f416-85b0-4902-9de1-634e6c1e84a7",
+     "name": "Jean-Michel Besnier",
+     "image": "https://i.imgur.com/2FXKPTp.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "cfe752b3-f96f-4391-8f33-824c9cb61381",
+     "name": "Chen Lip Keong",
+     "image": "https://i.imgur.com/Ww2iwCI.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "69bc51c6-447f-4b3d-8896-3827c5cfe6f6",
+     "name": "Martha Ingram",
+     "image": "https://i.imgur.com/KIAMIVk.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "ec158bb9-677a-4abe-ad3b-06f0fb798f5e",
+     "name": "Charles Johnson",
+     "image": "https://i.imgur.com/PuF0JLF.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "112377eb-62dc-45f3-bcd0-6673c69b3bc7",
+     "name": "Joe Lewis",
+     "image": "https://i.imgur.com/qDepsvq.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "e2ee0501-6511-421a-a574-e36a7623922b",
+     "name": "Alain Merieux",
+     "image": "https://i.imgur.com/SjZxsBc.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "b76ac9c0-13e5-4478-bf3a-96b022368eb0",
+     "name": "Robert F. Smith",
+     "image": "https://i.imgur.com/NEXrbAM.jpg",
+     "other": "#355"
+    },
+    {
+     "persistedFaceId": "394b73ac-45c8-4c85-ab00-33064c65c590",
+     "name": "Robert Bass",
+     "image": "https://i.imgur.com/UVX4fWQ.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "b0c2f121-c4cc-47e0-b124-1d5832de61ec",
+     "name": "Rene Benko",
+     "image": "https://i.imgur.com/y3gIBJy.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "44719b52-989f-418d-910e-3819789ae6ee",
+     "name": "Bernard Broermann",
+     "image": "https://i.imgur.com/xiVuyF5.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "31d61db5-d74a-49ba-9540-255f7aaf2037",
+     "name": "Clive Calder",
+     "image": "https://i.imgur.com/yuidobX.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "3e2ddb0d-98fb-4ed4-84aa-aae831bcce73",
+     "name": "Jiang Rensheng",
+     "image": "https://i.imgur.com/q9lcCkd.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "5630f0f3-9944-40a1-8cd1-3009e50e76fd",
+     "name": "Nathan Kirsh",
+     "image": "https://i.imgur.com/pMjMhkF.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "fbf3e695-c913-4bfb-8866-66c6f2db2930",
+     "name": "Ted Lerner",
+     "image": "https://i.imgur.com/rbBhZjI.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "6dea5aa1-61cb-40fb-906b-1cb3ca50c42a",
+     "name": "Li Shuirong",
+     "image": "https://i.imgur.com/dG1mA7o.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "ec2ad971-a002-43d8-b7d2-7cf56c84b5c0",
+     "name": "Pan Sutong",
+     "image": "https://i.imgur.com/B5of0Z9.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "1ff6115b-a9c1-4a17-84ac-13edd6de5658",
+     "name": "J. Christopher Reyes",
+     "image": "https://i.imgur.com/IY4LEI8.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "ec248eaf-9d85-416b-b321-e99ecc7d1bf0",
+     "name": "Takahisa Takahara",
+     "image": "https://i.imgur.com/TqSoBuI.jpg",
+     "other": "#365"
+    },
+    {
+     "persistedFaceId": "50c38053-576b-4f20-a24d-579781f4f27d",
+     "name": "Bajaj brothers",
+     "image": "https://i.imgur.com/9UijoC5.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "c4763444-5397-42df-96e7-4b316073020f",
+     "name": "David Filo",
+     "image": "https://i.imgur.com/zOnDb8l.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "cb7e1499-4e23-4a78-a16c-8e2c988bab71",
+     "name": "Ludwig Merckle",
+     "image": "https://i.imgur.com/yabnikC.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "a3b93412-c62e-47fd-8b05-40acd13e111e",
+     "name": "Hiroshi Mikitani",
+     "image": "https://i.imgur.com/Zohw60S.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "d4bdbb25-0e6b-4fcf-ba10-d7bb81329902",
+     "name": "Robert Miller",
+     "image": "https://i.imgur.com/pLnZnUz.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "84c2ad93-bb82-4858-a975-bfe02195e67a",
+     "name": "Enrique Razon, Jr.",
+     "image": "https://i.imgur.com/UK9Rt8u.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "21d3024e-7bae-44f6-b0f6-2beb6a54ae84",
+     "name": "Robert Rich, Jr.",
+     "image": "https://i.imgur.com/uBMHPp9.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "12f521b2-c1b4-48ee-a970-017e080d842d",
+     "name": "Leonard Stern",
+     "image": "https://i.imgur.com/A5g7fNU.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "885c95b0-b640-4b5e-bd2d-993043bb019d",
+     "name": "Wang Xing",
+     "image": "https://i.imgur.com/AGOlypw.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "ec127eb3-25d8-47ff-9417-3c6a92d4bf88",
+     "name": "Dirk Ziff",
+     "image": "https://i.imgur.com/8PwCAph.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "ad904a45-2480-4e8c-92ae-432a593125a9",
+     "name": "Robert Ziff",
+     "image": "https://i.imgur.com/O7JvwTl.jpg",
+     "other": "#379"
+    },
+    {
+     "persistedFaceId": "803fcd20-23de-4a13-a335-40bcc0163ad7",
+     "name": "Dona Bertarelli",
+     "image": "https://i.imgur.com/Z9gzKkN.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "fcadda2c-1019-434d-ab2d-ca20eccf58ff",
+     "name": "Arthur Blank",
+     "image": "https://i.imgur.com/XWQSGwm.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "8540fd16-5233-43e0-9127-49243fa67cb5",
+     "name": "Ray Lee Hunt",
+     "image": "https://i.imgur.com/v65PEyW.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "47712b15-491e-4514-851b-721f576683e7",
+     "name": "Kjeld Kirk Kristiansen",
+     "image": "https://i.imgur.com/jvAXgpj.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "e358f5f4-40c7-4535-98dc-2ad760265fc3",
+     "name": "Akira Mori",
+     "image": "https://i.imgur.com/VoYCkqO.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "faf521aa-43a8-4b93-a228-282b1afd960d",
+     "name": "Karsanbhai Patel",
+     "image": "https://i.imgur.com/3gdOOTU.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "53b21bdf-a008-4950-bebf-010423559da2",
+     "name": "Alexandra Schoerghuber",
+     "image": "https://i.imgur.com/MtOYF8T.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "629cdb40-b46f-490d-8af6-d59ab83968ef",
+     "name": "Yasumitsu Shigeta",
+     "image": "https://i.imgur.com/fzaKa0w.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "62357f51-ba5c-4f0b-8383-b69f06c9eebf",
+     "name": "Kushal Pal Singh",
+     "image": "https://i.imgur.com/UPDdfcT.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "bc6ebfe6-d491-4cec-9fe1-9349471fd75e",
+     "name": "Jeff Skoll",
+     "image": "https://i.imgur.com/3MbTryX.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "65b6b37c-ecb1-4b4b-9346-a601ef8f8950",
+     "name": "David Sun",
+     "image": "https://i.imgur.com/eyXuGiD.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "77874d37-5036-42a4-b0b9-41b6810d2df5",
+     "name": "Agnete Kirk Thinggaard",
+     "image": "https://i.imgur.com/SqQMsIg.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "0ce7d00d-40f1-4d63-8006-a24f4fbc54b1",
+     "name": "John Tu",
+     "image": "https://i.imgur.com/XHt9ADG.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "754f3ecd-802e-4bfc-b311-6ab07efa8efe",
+     "name": "M.A. Yusuff Ali",
+     "image": "https://i.imgur.com/7u7kDI5.jpg",
+     "other": "#394"
+    },
+    {
+     "persistedFaceId": "1c0716bc-3b1c-4061-b20e-9aa7c03ff5d7",
+     "name": "Abdulla bin Ahmad Al Ghurair",
+     "image": "https://i.imgur.com/xb4fN70.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "ee335c68-d2d6-4d30-96fe-375fc8808bd0",
+     "name": "Garrett Camp",
+     "image": "https://i.imgur.com/t3OlOxu.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "828fdcfb-3718-42ef-9c2c-0078d71d1e6f",
+     "name": "Stanley Druckenmiller",
+     "image": "https://i.imgur.com/nD6zyQn.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "45fa709f-274e-43a3-a665-525b42e16c66",
+     "name": "Pansy Ho",
+     "image": "https://i.imgur.com/bu8d5I9.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "0fb0d303-5b87-4d6d-81f1-bd0a8dacedc1",
+     "name": "Richard Li",
+     "image": "https://i.imgur.com/u3cfHbk.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "066a0eb2-9140-490e-8819-bbf66c2b505a",
+     "name": "Sumner Redstone",
+     "image": "https://i.imgur.com/8YX1UhH.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "e1d7fdfd-168d-4c0f-978d-dfed8c1a17c6",
+     "name": "Martin Viessmann",
+     "image": "https://i.imgur.com/JH4jvaO.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "eb311d54-ca7b-432a-8161-709315d94fea",
+     "name": "Les Wexner",
+     "image": "https://i.imgur.com/qXWgbcZ.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "48d1c0dc-9ada-4a16-994d-6681203f30e1",
+     "name": "Zhang Jin",
+     "image": "https://i.imgur.com/Qufv5cK.jpg",
+     "other": "#413"
+    },
+    {
+     "persistedFaceId": "a618a26f-60c6-4a79-b10c-3838896e2fa2",
+     "name": "Rocco Commisso",
+     "image": "https://i.imgur.com/tuW4euJ.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "7ba6f712-ee05-498f-adbd-6c59c4107d08",
+     "name": "Michael Herz",
+     "image": "https://i.imgur.com/B0khvTV.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "da341d50-e86a-4310-937b-00551a7a1963",
+     "name": "Wolfgang Herz",
+     "image": "https://i.imgur.com/XkyYEoW.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "04005c69-fad2-41dd-a457-05626ef5023e",
+     "name": "Sumet Jiaravanon",
+     "image": "https://i.imgur.com/LCTTpqv.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "998ebfd6-0491-42db-847a-4cebcf598c26",
+     "name": "Vladimir Kim",
+     "image": "https://i.imgur.com/9RvTPvq.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "9b22150b-caea-485b-b67d-d40766756c9f",
+     "name": "Lars Larsen",
+     "image": "https://i.imgur.com/mFjKzvG.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "c05bbe8f-9c52-444e-9c02-7744456dc1f4",
+     "name": "Terrence Pegula",
+     "image": "https://i.imgur.com/6dHG7QA.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "2325a08d-5146-48fa-98ab-a17bd6eb99f8",
+     "name": "Sergei Popov",
+     "image": "https://i.imgur.com/HkLttj2.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "b36063d1-df05-4683-99d2-ed870b774c16",
+     "name": "Mark Scheinberg",
+     "image": "https://i.imgur.com/b9X4yQa.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "bb119ec1-6910-4440-bb1f-92a0b3972537",
+     "name": "Walter Scott, Jr.",
+     "image": "https://i.imgur.com/z3V9LPO.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "f8ef8a9c-3a12-4147-ac58-08b33f0cf89b",
+     "name": "Tahir",
+     "image": "https://i.imgur.com/piGJetJ.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "322978cd-170d-4513-843f-cdf6528098e8",
+     "name": "Zhang Shiping",
+     "image": "https://i.imgur.com/eFEy9oF.jpg",
+     "other": "#424"
+    },
+    {
+     "persistedFaceId": "43ab8d41-2f46-4930-970e-8d1954e224bb",
+     "name": "Rahul Bajaj",
+     "image": "https://i.imgur.com/FTSEMQ6.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "6b2cee6c-d33a-49a0-9d91-39a93b98de3f",
+     "name": "Che Jianxing",
+     "image": "https://i.imgur.com/D1dHiAz.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "ea5da1fd-c65c-43b6-a6e4-be005f9d0d87",
+     "name": "Chen Bang",
+     "image": "https://i.imgur.com/4P72PVP.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "f1bd89d9-3373-4ca2-9fd2-1d019d59c4e0",
+     "name": "Jaran Chiaravanont",
+     "image": "https://i.imgur.com/RSz6nCX.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "8e6dac3c-49d5-4b77-a094-f57dfdd57ef2",
+     "name": "Montri Jiaravanont",
+     "image": "https://i.imgur.com/NBKQ18u.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "932ce9dc-ac8b-4d51-a385-6b717afa4f4f",
+     "name": "Andrei Kozitsyn",
+     "image": "https://i.imgur.com/1iRILW6.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "cd5416bd-ac9d-4adf-82be-871f15de4f60",
+     "name": "Patrick Lee",
+     "image": "https://i.imgur.com/9Xaqghb.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "db5d33f0-4a39-4830-a954-f8b2b1719d2a",
+     "name": "Lim Kok Thay",
+     "image": "https://i.imgur.com/d9XNvKV.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "3b534606-4d6f-410f-8ded-68552afacfd4",
+     "name": "Ajay Piramal",
+     "image": "https://i.imgur.com/bQwYH3N.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "c796f787-add5-40d4-9db0-257afb7d40d8",
+     "name": "Sarath Ratanavadi",
+     "image": "https://i.imgur.com/o7Yz4ku.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "9e991767-61c5-41b1-bf0a-d387ef2439b6",
+     "name": "John Sall",
+     "image": "https://i.imgur.com/oRZGbJA.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "2b8d083d-038a-40cc-b4b9-5209bbb494e3",
+     "name": "Thomas Schmidheiny",
+     "image": "https://i.imgur.com/ybSl3iZ.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "3db84e96-b168-4d77-88a9-6aeeaa41e173",
+     "name": "Andreas Struengmann",
+     "image": "https://i.imgur.com/3Y1d5yP.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "9180f6b3-98cc-4e9a-b494-8fea190b1282",
+     "name": "Thomas Struengmann",
+     "image": "https://i.imgur.com/KlRa0gf.jpg",
+     "other": "#436"
+    },
+    {
+     "persistedFaceId": "8ebe94db-5a98-49d7-9bd1-22e5047561c4",
+     "name": "Igor Altushkin",
+     "image": "https://i.imgur.com/GONICyZ.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "3795006d-c385-4d70-a49e-a65b0fda9fbb",
+     "name": "Juan Francisco Beckmann Vidal",
+     "image": "https://i.imgur.com/qXetFNL.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "e133b5eb-a55b-4c02-9e1f-9c5771b9c457",
+     "name": "Chung Mong-koo",
+     "image": "https://i.imgur.com/TTtmmLA.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "adb11036-e49f-4b9d-aa13-793bf53987c7",
+     "name": "Vikram Lal",
+     "image": "https://i.imgur.com/YTdZI37.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "54391811-8e16-462d-9fee-ce94a4d27ca8",
+     "name": "Magdalena Martullo-Blocher",
+     "image": "https://i.imgur.com/37IbgE1.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "f9df5615-0da8-48fb-abb6-64f2533104ba",
+     "name": "Isaac Perlmutter",
+     "image": "https://i.imgur.com/QJCjN3P.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "b8b058d8-c350-496f-a594-22eb31062f72",
+     "name": "Qin Yinglin",
+     "image": "https://i.imgur.com/IWa4BKE.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "175fb8df-97b1-4376-a71c-74850ec8c6d0",
+     "name": "Trevor Rees-Jones",
+     "image": "https://i.imgur.com/M9RxCA5.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "94e81c5c-f46d-4631-800a-5c8b32334b21",
+     "name": "Julian Robertson, Jr.",
+     "image": "https://i.imgur.com/oPXnaTc.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "b80b8edd-58d8-4fb9-b9a8-c353cbc53d25",
+     "name": "Kjell Inge Rokke",
+     "image": "https://i.imgur.com/DZ6rGwG.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "4faa2122-391b-4569-bf06-fb0fba43bcc3",
+     "name": "Gary Rollins",
+     "image": "https://i.imgur.com/xR5XmzM.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "78b4bf00-8685-4f2b-85cf-d86cb0885312",
+     "name": "Henry Samueli",
+     "image": "https://i.imgur.com/UCUFWh1.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "a9af6bf0-2e7d-48c4-8c74-25f7970ea355",
+     "name": "Wang Chuanfu",
+     "image": "https://i.imgur.com/GyH7aok.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "ff2813b8-c195-4ef5-a52e-dd19f578516c",
+     "name": "Wang Yusuo",
+     "image": "https://i.imgur.com/tyw3kWo.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "cafe5fb7-75e8-4aa5-aec1-8ee7167ef1f1",
+     "name": "Zhou Hongyi",
+     "image": "https://i.imgur.com/khEStqm.jpg",
+     "other": "#452"
+    },
+    {
+     "persistedFaceId": "241d3615-77e3-419e-880a-1d26cffd83ac",
+     "name": "Rahel Blocher",
+     "image": "https://i.imgur.com/rg0w4iP.jpg",
+     "other": "#472"
+    },
+    {
+     "persistedFaceId": "922e6d67-6ab7-4b20-8c82-388c4810584a",
+     "name": "Frits Goldschmeding",
+     "image": "https://i.imgur.com/fdSJABG.jpg",
+     "other": "#472"
+    },
+    {
+     "persistedFaceId": "a3930412-3aac-4a5f-b137-af991a7d1812",
+     "name": "Marc Ladreit de Lacharriere",
+     "image": "https://i.imgur.com/MrJJ9l7.jpg",
+     "other": "#472"
+    },
+    {
+     "persistedFaceId": "fbb3ad4c-1752-49a8-938c-2984ed926366",
+     "name": "Frank VanderSloot",
+     "image": "https://i.imgur.com/p8PzmYm.jpg",
+     "other": "#472"
+    },
+    {
+     "persistedFaceId": "e07d55c6-246a-4f76-9aa9-e2f07dcbeaf8",
+     "name": "Richard Branson",
+     "image": "https://i.imgur.com/nCmLfrr.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "1050f137-2b23-4daf-8290-8f87f2d00f75",
+     "name": "Mark Cuban",
+     "image": "https://i.imgur.com/AmKhSGS.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "258adba2-b645-4158-b153-c7bddac1f576",
+     "name": "Dagmar Dolby",
+     "image": "https://i.imgur.com/Qs4qcRe.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "24a6315b-9d6c-48d8-8f20-1d1ccd6a21ad",
+     "name": "Paul Gauselmann",
+     "image": "https://i.imgur.com/Eixi4mw.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "28bd4736-6fb7-4d20-9ee1-22ca81f87558",
+     "name": "Marian Ilitch",
+     "image": "https://i.imgur.com/0WQCd4F.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "2579ec84-abfb-4816-af88-ceeb2e1fa74d",
+     "name": "Masatoshi Ito",
+     "image": "https://i.imgur.com/SbSzNs7.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "7d2623bd-0599-42a5-8be2-edb6af2c1ee3",
+     "name": "Jeremy Jacobs, Sr.",
+     "image": "https://i.imgur.com/525iok1.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "760c8db8-892a-4b3f-b458-d98023133489",
+     "name": "Micky Jagtiani",
+     "image": "https://i.imgur.com/bo36ctV.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "ff7bfe6a-002d-4b7e-ba29-badbbc555a1f",
+     "name": "Kwon Hyuk-bin",
+     "image": "https://i.imgur.com/Kw5QaVw.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "b6aa0a4d-690b-4274-baae-8fa0161afd92",
+     "name": "Edwin Leong",
+     "image": "https://i.imgur.com/mwDjpnR.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "3ace2888-b7bc-46fe-b350-16fd5552a790",
+     "name": "Shigenobu Nagamori",
+     "image": "https://i.imgur.com/opjQiaG.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "0b178a4e-2a92-413e-89c2-7852689dc995",
+     "name": "Adam Neumann",
+     "image": "https://i.imgur.com/kZkCs1Y.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "1d1e4157-3d8b-47bd-9308-793b46941a98",
+     "name": "Xavier Niel",
+     "image": "https://i.imgur.com/0MqkljI.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "56df9aa4-8274-4edd-9095-5ef5ef593b57",
+     "name": "Axel Oberwelland",
+     "image": "https://i.imgur.com/BB4YL6P.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "b0d299bf-e380-4aa3-877d-da715c922551",
+     "name": "H. Ross Perot, Sr.",
+     "image": "https://i.imgur.com/40vozii.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "74762ac6-095c-431a-ad5e-f59ed72feb31",
+     "name": "Thomas Pritzker",
+     "image": "https://i.imgur.com/Fba0pCu.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "a93d8c0c-6df8-45b0-abee-c428d693505e",
+     "name": "Paolo & Gianfelice Mario Rocca",
+     "image": "https://i.imgur.com/WTLGHaP.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "a379a62a-e88c-4a6e-9a05-1e04ce027507",
+     "name": "Carlos Rodriguez-Pastor",
+     "image": "https://i.imgur.com/ZHY7WDD.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "29f51827-0342-46a1-9061-98c32babd432",
+     "name": "Randall Rollins",
+     "image": "https://i.imgur.com/GOdLDjN.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "dd310775-755d-4a13-8ef8-5435d512fc53",
+     "name": "Fred Smith",
+     "image": "https://i.imgur.com/buMxZbR.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "87a791f1-504b-4d23-8076-dede9b67342d",
+     "name": "Wang Zhenhua",
+     "image": "https://i.imgur.com/Rg0sQqj.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "41a07d7b-ac66-4474-93ff-4dec1825e692",
+     "name": "Kelcy Warren",
+     "image": "https://i.imgur.com/yBTvz8K.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "2c09741b-05b3-49a2-ac3a-7b6460e55413",
+     "name": "Russ Weiner",
+     "image": "https://i.imgur.com/M9dESFH.jpg",
+     "other": "#478"
+    },
+    {
+     "persistedFaceId": "815983e3-fb26-4257-8092-4bbeec0783ef",
+     "name": "Ben Ashkenazy",
+     "image": "https://i.imgur.com/tyTRDAf.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "b5cb6b17-7741-4dd8-a419-33c79b16cedf",
+     "name": "Anthony Bamford",
+     "image": "https://i.imgur.com/whapwCl.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "3c3ad1de-a389-4c44-a6bc-4a0937cb64f4",
+     "name": "Bert Beveridge",
+     "image": "https://i.imgur.com/8VYopAw.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "394d9f2a-917c-4cc3-a40c-3c862b2dff4f",
+     "name": "Kapil & Rahul Bhatia",
+     "image": "https://i.imgur.com/I4VJhGs.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "aadb560c-971a-4d75-9253-6673bf2a1d3d",
+     "name": "Neil Bluhm",
+     "image": "https://i.imgur.com/3wrauQm.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "5af3b55a-29b6-4cee-8958-67d8d765c582",
+     "name": "Rick Caruso",
+     "image": "https://i.imgur.com/YyfWsdS.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "b639d7dc-1ebf-4986-9141-2a582bded3a8",
+     "name": "Andrew Currie",
+     "image": "https://i.imgur.com/SadzqXr.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "44ee9670-7197-40e3-9a56-14e5e9a5dbe6",
+     "name": "Fang Wei",
+     "image": "https://i.imgur.com/vsGWLP4.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "f99d5d2a-baca-4a1e-b632-c1a0216175de",
+     "name": "Dan Friedkin",
+     "image": "https://i.imgur.com/CqECXpy.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "93104eb6-72db-4f8c-af1d-92520df805f1",
+     "name": "John Gandel",
+     "image": "https://i.imgur.com/U1vIRkA.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "114bd904-9ba5-4cbd-8419-9080d23f2fe9",
+     "name": "Tom Gores",
+     "image": "https://i.imgur.com/t32pr5d.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "7b57efd5-cbf8-4742-9fa4-91ace8f05869",
+     "name": "Reed Hastings",
+     "image": "https://i.imgur.com/nzCmNOT.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "2afd67de-0097-4b81-89b4-d1aa622bf11a",
+     "name": "Denis O'Brien",
+     "image": "https://i.imgur.com/igQ1ZQv.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "0ffff895-b031-4cb0-9b97-11323f44f471",
+     "name": "Igor Olenicoff",
+     "image": "https://i.imgur.com/PtsON2y.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "2fa99da2-5b07-42b6-b618-b4063c305b79",
+     "name": "Dan Olsson",
+     "image": "https://i.imgur.com/OWBThgz.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "c96c2cb9-a24b-4242-bdad-9d117006c411",
+     "name": "John Reece",
+     "image": "https://i.imgur.com/iBBqwJg.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "cb43af87-e451-4185-bb7e-2bd48c514610",
+     "name": "Rita Tong Liu",
+     "image": "https://i.imgur.com/HgakUSA.jpg",
+     "other": "#504"
+    },
+    {
+     "persistedFaceId": "d46f7823-95f4-4948-a415-4de9a8cef1e5",
+     "name": "John Brown",
+     "image": "https://i.imgur.com/ljQ2HF4.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "0b5d7eef-3a06-44ee-bf71-24c842cb665f",
+     "name": "Ashwin Dani",
+     "image": "https://i.imgur.com/EeNpfTP.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "db4a2626-88f9-460f-b4e5-c0f35b88ce7b",
+     "name": "Ronald Lauder",
+     "image": "https://i.imgur.com/iVd2Miw.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "de551421-9598-4063-a711-999a8a6281dc",
+     "name": "Liang Wengen",
+     "image": "https://i.imgur.com/YrHfP1g.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "08fff66e-7cb1-4e6f-9bb9-de380105f809",
+     "name": "Lin Li",
+     "image": "https://i.imgur.com/sftSnqj.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "7cb049fa-034c-40b9-b52d-8fb6db7f5b08",
+     "name": "Lin Shu-Hong",
+     "image": "https://i.imgur.com/680yBjn.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "53d1f154-4764-4abb-bb4f-6a01112cb76d",
+     "name": "Fredrik Lundberg",
+     "image": "https://i.imgur.com/cDZtgPm.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "712e5063-b5f0-4164-a7fd-3ec5fd1e692f",
+     "name": "Gabe Newell",
+     "image": "https://i.imgur.com/rnHczz2.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "d97c5e5a-04d6-499c-a98d-f04c8b1ba310",
+     "name": "Ravi Pillai",
+     "image": "https://i.imgur.com/RwGMWcx.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "1551d600-5a78-41c4-9b79-4d7185e3ded0",
+     "name": "Friede Springer",
+     "image": "https://i.imgur.com/6h3YP5G.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "650476bc-f418-41e1-bcac-3aa992d109d1",
+     "name": "Harry Stine",
+     "image": "https://i.imgur.com/Rmr7ssg.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "bcef9e3d-689d-4ae4-9f54-bb3eb60c9d5e",
+     "name": "Tony Tan Caktiong",
+     "image": "https://i.imgur.com/8Ma5J4M.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "91cf8e52-ffaa-454b-9684-c0d05461ac9a",
+     "name": "Yitzhak Tshuva",
+     "image": "https://i.imgur.com/u06P4NI.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "b41609fd-9193-4579-9241-d2c334dd6df1",
+     "name": "Steven Udvar-Hazy",
+     "image": "https://i.imgur.com/WmcNIYI.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "5aa017b5-c5a5-4eb7-914b-142082c119b0",
+     "name": "Wang Wenxue",
+     "image": "https://i.imgur.com/GFCrrAv.jpg",
+     "other": "#529"
+    },
+    {
+     "persistedFaceId": "6c5536be-3790-4e72-aa4f-1ad3aea944a6",
+     "name": "Anil Agarwal",
+     "image": "https://i.imgur.com/iGObIj3.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "a9a1cd5e-7392-42b1-87a4-1daf93af6964",
+     "name": "Giuseppe De'Longhi",
+     "image": "https://i.imgur.com/PDzVtsj.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "a3b93d66-da69-43b0-bc78-5ba0bd7b0f45",
+     "name": "Gustaf Douglas",
+     "image": "https://i.imgur.com/2bR4Grb.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "9131248d-a249-4e2e-bc72-c5b96ee68ae1",
+     "name": "Archie Aldis Emmerson",
+     "image": "https://i.imgur.com/D4Ad2gS.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "5da2e606-c51a-470d-abd4-896bddd4992c",
+     "name": "Juan Carlos Escotet",
+     "image": "https://i.imgur.com/yopV8yH.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "b3184c29-020d-4989-ad3f-b0f8384b9cfc",
+     "name": "Jensen Huang",
+     "image": "https://i.imgur.com/RRUyNP3.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "42ffbeed-bb39-4378-aa2f-a75fcd86c339",
+     "name": "Erman Ilicak",
+     "image": "https://i.imgur.com/h9PBfLK.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "74ab22c4-7f9e-4db1-9085-b5cce21b822f",
+     "name": "H. Fisk Johnson",
+     "image": "https://i.imgur.com/dEBn7LR.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "2aa780f2-dd19-4b42-9ac5-91bdc8cf26fd",
+     "name": "S. Curtis Johnson",
+     "image": "https://i.imgur.com/xrVhQ48.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "463bde19-9b62-4cdf-b8fd-441dc3ebcf24",
+     "name": "Helen Johnson-Leipold",
+     "image": "https://i.imgur.com/cRncr9S.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "4ef35ac3-73c7-4bae-aed1-ee29b53c29cb",
+     "name": "Viatcheslav Kantor",
+     "image": "https://i.imgur.com/DebDteM.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "22955e90-e4c8-4b5f-8a1c-625c29c351c2",
+     "name": "Barry Lam",
+     "image": "https://i.imgur.com/ZDOFk0i.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "0632ca28-8662-4a0a-add0-55a89938492d",
+     "name": "Janice McNair",
+     "image": "https://i.imgur.com/wTA5LgO.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "ec6948b9-9543-4a3a-9188-e3704ed0ecd8",
+     "name": "Ira Rennert",
+     "image": "https://i.imgur.com/x5fi56r.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "c9e73f5e-19ca-4b99-8efe-020cee1867dd",
+     "name": "Teddy Sagi",
+     "image": "https://i.imgur.com/wOykJGf.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "65e1c840-890c-4236-b997-1a34263b5af6",
+     "name": "Roger Wang",
+     "image": "https://i.imgur.com/pygodN4.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "cbaecb21-ca81-435b-b08a-e729ed923744",
+     "name": "Wei Jianjun",
+     "image": "https://i.imgur.com/xLA1h6o.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "b8cf5c37-122b-4d4f-af67-689e7d03fcb8",
+     "name": "Yao Liangsong",
+     "image": "https://i.imgur.com/UyK6kKf.jpg",
+     "other": "#546"
+    },
+    {
+     "persistedFaceId": "ec7004ee-6733-467d-b59d-96e9904fb44e",
+     "name": "Nathan Blecharczyk",
+     "image": "https://i.imgur.com/tR858xH.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "cecdaff2-157d-4bde-959b-ad96bfce937d",
+     "name": "Alain Bouchard",
+     "image": "https://i.imgur.com/p0gxEK1.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "2b6b0d72-1fbb-4536-bba6-7a77e68ab8ab",
+     "name": "Brian Chesky",
+     "image": "https://i.imgur.com/diKIybm.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "5c3605fc-75bb-44a4-92f8-46a9e7225bbc",
+     "name": "Miguel Fluxa Rossello",
+     "image": "https://i.imgur.com/UlBByx4.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "d600574e-8d98-4722-8b20-124eba7ea598",
+     "name": "Yakir Gabay",
+     "image": "https://i.imgur.com/NP3Nyxx.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "f331ce68-df61-4894-983e-b324786c7323",
+     "name": "Joe Gebbia",
+     "image": "https://i.imgur.com/sk3IOBQ.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "ebba3a1f-d64a-462d-9321-19184ad1373a",
+     "name": "Mikhail Gutseriev",
+     "image": "https://i.imgur.com/B0s6fod.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "61716e40-1d77-4bc8-8254-e2e977702863",
+     "name": "Andreas Halvorsen",
+     "image": "https://i.imgur.com/XnBhtpF.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "b430b3fe-6528-4dc4-befd-8998be2efc9e",
+     "name": "Samvel Karapetyan",
+     "image": "https://i.imgur.com/Dx3Zm3u.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "26a6863c-e9ce-4366-b61a-8290c2d3ed5c",
+     "name": "Lai Meisong",
+     "image": "https://i.imgur.com/uEtdXmX.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "b6641731-2714-4734-86a8-a7be6a537e53",
+     "name": "Douglas Leone",
+     "image": "https://i.imgur.com/eGNf57V.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "0292b563-5a96-495c-8040-a544c3d60a02",
+     "name": "Li Wa",
+     "image": "https://i.imgur.com/VW97qbe.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "1476a74a-4092-4688-ba37-342d3ea0bb18",
+     "name": "Pan Zhengmin",
+     "image": "https://i.imgur.com/U4JiYnO.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "48e68f04-17df-445f-8593-752e29d50358",
+     "name": "Issad Rebrab",
+     "image": "https://i.imgur.com/5vvfrdN.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "cc514cd0-0fbc-4b74-b12e-b0498a14fe62",
+     "name": "Richard Schulze",
+     "image": "https://i.imgur.com/lxt3I8V.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "64cc3534-6aaf-4770-8003-95d6cd54eeb0",
+     "name": "Steven Spielberg",
+     "image": "https://i.imgur.com/oTENWFh.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "ee84a883-28e6-47be-a57a-fff2be7b46e2",
+     "name": "Suh Kyung-bae",
+     "image": "https://i.imgur.com/msUL0eO.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "51d8010a-7dfa-49b5-89fc-785902477e69",
+     "name": "Chairul Tanjung",
+     "image": "https://i.imgur.com/UOVnT7P.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "330109a8-6947-4598-9e7c-92925e845c35",
+     "name": "Murat Ulker",
+     "image": "https://i.imgur.com/rHgJEs8.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "31edbc70-8056-44c6-a8b3-267a3935295a",
+     "name": "Zhou Jianping",
+     "image": "https://i.imgur.com/GoYMbrB.jpg",
+     "other": "#568"
+    },
+    {
+     "persistedFaceId": "bf204e5a-c5c0-447e-b999-3e2050267578",
+     "name": "Brian Acton",
+     "image": "https://i.imgur.com/cBPFaSi.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "83e01036-8fe0-4875-ae63-c1146ae3dfab",
+     "name": "Rafael Del Pino y Calvo-Sotelo",
+     "image": "https://i.imgur.com/mgUFDGH.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "9aca9dc8-fe34-441f-b1b1-958b1393e25d",
+     "name": "Oleg Deripaska",
+     "image": "https://i.imgur.com/DBKGuUm.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "0a876198-64ce-4b29-b288-741b8f627791",
+     "name": "Judy Faulkner",
+     "image": "https://i.imgur.com/7Av25u7.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "8f9f314a-66d0-408f-b90d-525c02bf0fd4",
+     "name": "Jaime Gilinski Bacal",
+     "image": "https://i.imgur.com/GWZ59Zy.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "ef122def-d6cc-4785-9054-bf3f99a2492f",
+     "name": "Peter Hargreaves",
+     "image": "https://i.imgur.com/rtCvk50.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "fd0e4fe5-d617-4e01-8d42-ab81610f091d",
+     "name": "Lin Bin",
+     "image": "https://i.imgur.com/DdXoM4z.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "28205ff1-b0e4-47e5-82e7-624bc0e60b6f",
+     "name": "Masahiro Miki",
+     "image": "https://i.imgur.com/AVckB2S.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "b6c7de85-9038-4b39-b188-a88c67bb71ce",
+     "name": "Michael Milken",
+     "image": "https://i.imgur.com/6itKU6M.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "c1acafc9-d140-4431-a9a7-e9185f6ee677",
+     "name": "Yuri Milner",
+     "image": "https://i.imgur.com/IMI0L6w.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "2e11a055-225a-43f2-8c95-fecbcd00f9b5",
+     "name": "James Packer",
+     "image": "https://i.imgur.com/nUE9Wyv.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "c2dd76b4-6349-4e11-9930-80a8de38e0ae",
+     "name": "Qiu Guanghe",
+     "image": "https://i.imgur.com/jSjiRPp.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "a0aebd78-3802-457a-a216-45339289c2b7",
+     "name": "Mitchell Rales",
+     "image": "https://i.imgur.com/Ki1KH8p.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "5df64e3e-4295-40fb-8020-e521ff423007",
+     "name": "Bernard Saul, II.",
+     "image": "https://i.imgur.com/8MGT38N.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "c9247f69-2f2f-4479-8025-2b023ae2ed29",
+     "name": "Donald Sterling",
+     "image": "https://i.imgur.com/NuuTJPc.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "5492fdde-6cb1-4ada-987b-ebb6f8d754d0",
+     "name": "Chip Wilson",
+     "image": "https://i.imgur.com/yerAJMD.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "daf18caa-fdb0-4415-9c3f-719fd98bbda0",
+     "name": "Zhang Xin & Pan Shiyi",
+     "image": "https://i.imgur.com/jpH4Lrj.jpg",
+     "other": "#597"
+    },
+    {
+     "persistedFaceId": "012359bd-df41-4ea6-9a17-aaf9d753676f",
+     "name": "Andrej Babis",
+     "image": "https://i.imgur.com/3ScKTjm.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "64487acb-c6f4-47f6-a479-b142880ffae3",
+     "name": "Ursula Bechtolsheimer-Kipp",
+     "image": "https://i.imgur.com/0TdAyT2.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "2e9712bc-2272-42a1-83a0-e8d7fa897a1b",
+     "name": "Chu Mang Yee",
+     "image": "https://i.imgur.com/GjUPAgb.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "6edf09e7-0bed-4450-b81c-ff74cfe03890",
+     "name": "Scott Cook",
+     "image": "https://i.imgur.com/8Xd2Vjy.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "bce7c55d-b4cc-4c0b-b5c3-93d063ccc4ed",
+     "name": "Ralph Dommermuth",
+     "image": "https://i.imgur.com/IBbbLGY.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "a8fce4bd-7f3b-44d3-9bd1-c12b6744a59a",
+     "name": "Ken Fisher",
+     "image": "https://i.imgur.com/RHwuGyz.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "f1957a91-5d1f-4aa3-ad95-6ca502ca69fb",
+     "name": "Tom Golisano",
+     "image": "https://i.imgur.com/ijPOHoB.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "5544282d-7655-4d84-abf3-3aa4ca6a5fd8",
+     "name": "Martin Haefner",
+     "image": "https://i.imgur.com/6LIy5GH.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "9518debf-ce10-4e2d-b87d-bf6c502fb2a4",
+     "name": "Joshua Harris",
+     "image": "https://i.imgur.com/oyd69pD.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "99ece34a-a48f-41b5-a2cb-1e2f8619713d",
+     "name": "Zarakh Iliev",
+     "image": "https://i.imgur.com/sUFekJQ.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "ac8230c7-0ef4-4afe-9674-c19cbf2521b8",
+     "name": "Min Kao",
+     "image": "https://i.imgur.com/eiM4Gub.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "8ede4a9e-111a-4999-8226-a00b082ce8e4",
+     "name": "Li Ge",
+     "image": "https://i.imgur.com/aZNMPQC.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "16781939-4db8-4b27-b135-60ada1b77ced",
+     "name": "Lu Zhiqiang",
+     "image": "https://i.imgur.com/3s0zo5G.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "8fad1e75-b8a0-4a49-8528-c2334456db86",
+     "name": "Kiran Mazumdar-Shaw",
+     "image": "https://i.imgur.com/6H07dll.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "b5995786-e03d-4c5a-83f0-9e3621385e15",
+     "name": "Pawan Munjal",
+     "image": "https://i.imgur.com/wASxkDH.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "f619d990-aaa3-469f-a461-830559164237",
+     "name": "Nie Tengyun",
+     "image": "https://i.imgur.com/5iYQaME.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "49e8e94c-3429-4563-9176-855b8e13a21b",
+     "name": "Akio Nitori",
+     "image": "https://i.imgur.com/91Z120y.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "0249ceee-af65-4ae7-a0f3-614635d03a46",
+     "name": "Daniel Och",
+     "image": "https://i.imgur.com/AYFWlVW.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "2dde1fb7-4be4-4ff1-822f-18306123f1a1",
+     "name": "Prajogo Pangestu",
+     "image": "https://i.imgur.com/3FHTrQ6.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "71f9d477-73a9-4318-a90b-7944480f0868",
+     "name": "Howard Schultz",
+     "image": "https://i.imgur.com/wL19JIV.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "878eb4c8-593b-4dc5-8891-13a58d0b96cd",
+     "name": "Shaul Shani",
+     "image": "https://i.imgur.com/ebvBRIq.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "65610bb0-72c4-4ec4-8677-cfdb9c85b829",
+     "name": "Radovan Vitek",
+     "image": "https://i.imgur.com/zBwTNHs.jpg",
+     "other": "#617"
+    },
+    {
+     "persistedFaceId": "f29952b1-38e6-4764-b891-36c9b02d7569",
+     "name": "Charles Cohen",
+     "image": "https://i.imgur.com/suO92S7.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "1b58de70-d6c5-422e-9d49-40b600e1d464",
+     "name": "Ding Shizhong",
+     "image": "https://i.imgur.com/UF1m4Hg.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "21ad625d-a0f1-4c69-af42-7b098701b49c",
+     "name": "Murali Divi",
+     "image": "https://i.imgur.com/wKsg3im.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "dd161df9-3ce2-48e7-a63d-7aa2cca7b0f5",
+     "name": "Jeff Greene",
+     "image": "https://i.imgur.com/ugqE9P8.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "de6de088-d2e4-4952-8abc-93749c5dba27",
+     "name": "Ken Langone",
+     "image": "https://i.imgur.com/vCCVggm.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "bb3c66a3-8c35-4c7f-950e-51109904a887",
+     "name": "Lau Cho Kun",
+     "image": "https://i.imgur.com/9PWrZCG.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "9b4ad8d7-b15f-4217-aae6-bcd1cd20da6a",
+     "name": "Arnon Milchan",
+     "image": "https://i.imgur.com/xp996vA.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "480044ac-e0ef-459b-9299-ce6b39fb0f73",
+     "name": "Katharina Otto-Bernstein",
+     "image": "https://i.imgur.com/usDGHDa.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "169bf1b1-21e9-468e-9fef-e8105ef136e8",
+     "name": "Rodger Riney",
+     "image": "https://i.imgur.com/Voo2YDj.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "002ed4a9-2d6e-4507-bf83-dabe606b6cc5",
+     "name": "Alejandro Santo Domingo",
+     "image": "https://i.imgur.com/N9khHuM.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "728a735e-030e-4e7e-8f0e-9e37b661f295",
+     "name": "Andres Santo Domingo",
+     "image": "https://i.imgur.com/aKYWG7o.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "f496bb3d-687d-40e6-8cab-9169be16fbd9",
+     "name": "Vivek Chaand Sehgal",
+     "image": "https://i.imgur.com/ReMS9pn.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "211c4a29-7be5-4415-8b4f-6ace271cf425",
+     "name": "Herb Simon",
+     "image": "https://i.imgur.com/aR2In6r.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "925b0ecf-ea05-4925-83c2-9b431c3cfc10",
+     "name": "Jon Stryker",
+     "image": "https://i.imgur.com/bCTD6rI.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "4401e18b-1574-4d4c-8b8a-bc850358ec8f",
+     "name": "Bulat Utemuratov",
+     "image": "https://i.imgur.com/Gk4OaF1.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "fc73f402-37e4-4a17-a439-679deae5e289",
+     "name": "Meg Whitman",
+     "image": "https://i.imgur.com/hKA4Off.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "950059c7-fb2b-4d85-bf33-683a1c93aff6",
+     "name": "Arne Wilhelmsen",
+     "image": "https://i.imgur.com/SE2kkiy.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "95bae580-6ed3-4438-93c2-1c476f749d54",
+     "name": "Zhang Li",
+     "image": "https://i.imgur.com/4upRfUj.jpg",
+     "other": "#645"
+    },
+    {
+     "persistedFaceId": "6366bbb1-c7ed-4608-89dc-5bf0a1eb5919",
+     "name": "David Bonderman",
+     "image": "https://i.imgur.com/g2umE98.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "8c8ec9ce-6fcf-4855-8eee-2699b188bcc4",
+     "name": "Vanich Chaiyawan",
+     "image": "https://i.imgur.com/xOqC7Sl.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "3adb7aca-a323-4a4d-a34b-1f53cb21af24",
+     "name": "Pollyanna Chu",
+     "image": "https://i.imgur.com/9EBXIdt.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "3194f156-75e3-4386-854f-ee221626681b",
+     "name": "Martin Ebner",
+     "image": "https://i.imgur.com/gk29YVU.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "7ce2d5d7-8175-4518-aea6-ef953220da80",
+     "name": "Jane Goldman",
+     "image": "https://i.imgur.com/zmtz8Q9.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "d5c0a8a7-b018-4949-91e4-c61a897200e5",
+     "name": "Amy Goldman Fowler",
+     "image": "https://i.imgur.com/Neu7Laf.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "764ff6a4-57e7-4c82-8b69-b76bed383933",
+     "name": "Guenter Herz",
+     "image": "https://i.imgur.com/mAlgzVr.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "536d6f8a-3986-4ece-a85a-691d86adb306",
+     "name": "Amos Hostetter, Jr.",
+     "image": "https://i.imgur.com/DJMw1Rk.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "0ef0fa96-29b0-4f6d-bc33-8cd99d718c63",
+     "name": "Arthur Irving",
+     "image": "https://i.imgur.com/jIU1Q0G.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "b983949c-caf6-4b42-9201-07be51151c69",
+     "name": "Joe Mansueto",
+     "image": "https://i.imgur.com/73SFttl.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "f54b0da4-ca7e-4b8f-9f07-3561eac9ca84",
+     "name": "Michael Moritz",
+     "image": "https://i.imgur.com/ogzjxoN.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "3dada0f0-e055-4a5a-bd79-3477169e6bff",
+     "name": "Jay Paul",
+     "image": "https://i.imgur.com/KArRAIS.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "970a1f39-42e1-4aa7-b422-55fb7f8de7f6",
+     "name": "Michael Pieper",
+     "image": "https://i.imgur.com/HaaVpZ9.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "32ee81d6-6f2c-4afb-b0d5-a8644d5c160e",
+     "name": "Prasert Prasarttong-Osoth",
+     "image": "https://i.imgur.com/pc3lEaz.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "90b730df-8d7e-495e-abe0-70ddbc4597a8",
+     "name": "Anthony Pritzker",
+     "image": "https://i.imgur.com/8s63c1g.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "aaa34c0b-84c7-46bf-b5b8-552f3becbb41",
+     "name": "Nicolas Puech",
+     "image": "https://i.imgur.com/u0wSLhi.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "0b6170f7-654e-462b-ae2c-822aa3219aea",
+     "name": "Maria-Elisabeth Schaeffler-Thumann",
+     "image": "https://i.imgur.com/6BYQafZ.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "129d4606-7e6e-4eb1-94a6-0d7ef0ae3cdd",
+     "name": "Romesh T. Wadhwani",
+     "image": "https://i.imgur.com/WI0pSET.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "ead29347-7f28-4f7c-b92e-5c2fd53f3e7a",
+     "name": "Zhang Hongwei",
+     "image": "https://i.imgur.com/aqUhWJO.jpg",
+     "other": "#667"
+    },
+    {
+     "persistedFaceId": "70d84f2d-4b30-42f2-bf0e-bbfac0a69221",
+     "name": "Suhail Bahwan",
+     "image": "https://i.imgur.com/Emgk5Nk.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "048888c4-87e2-4100-b212-27579e0ea1a4",
+     "name": "Sid Bass",
+     "image": "https://i.imgur.com/6mBbmx9.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "b04573b4-430a-42c9-81c4-6b56452b553f",
+     "name": "Cao Longxiang",
+     "image": "https://i.imgur.com/mub5Ju3.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "9e855633-9072-472b-859a-517b9172dab6",
+     "name": "Chey Tae-won",
+     "image": "https://i.imgur.com/CbLv5d8.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "01378194-68b4-40c7-ba98-85d20987c171",
+     "name": "John Coates",
+     "image": "https://i.imgur.com/bAqBoUi.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "530f6f06-ae4c-4c1c-8732-000e0a232bca",
+     "name": "Antonio Del Valle Ruiz",
+     "image": "https://i.imgur.com/VD7VTc9.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "0ced7e58-3f82-4d45-8439-3c2802a7bb00",
+     "name": "Luca Garavoglia",
+     "image": "https://i.imgur.com/mzPqUIx.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "eabb0180-8cdb-49e3-abfb-78f4f6bcc0b9",
+     "name": "Ernest Garcia, II.",
+     "image": "https://i.imgur.com/MRIerEZ.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "c9141eb2-25bd-453c-9fb3-cfd339f8e5d8",
+     "name": "Igor Kesaev",
+     "image": "https://i.imgur.com/REncrQa.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "8f81cd0c-dd1d-419f-9cb0-077e33cdb5cf",
+     "name": "Jane Lauder",
+     "image": "https://i.imgur.com/4CaF6XX.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "6e923601-5285-4793-b67c-eff5337cd3ac",
+     "name": "Liu Zhongtian",
+     "image": "https://i.imgur.com/emtsG16.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "fd86f130-dcfd-4d8d-829d-e5a80b2183ba",
+     "name": "Vincent McMahon",
+     "image": "https://i.imgur.com/eKHpmwq.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "8b8c0f4f-97e2-42e0-8467-05b9a13764c8",
+     "name": "Alexander Ponomarenko",
+     "image": "https://i.imgur.com/FdFXGFg.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "84339c12-82c4-41be-8be8-88e605bf2ca3",
+     "name": "J.B. Pritzker",
+     "image": "https://i.imgur.com/N1RXELR.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "c79fe816-251c-49dd-908a-a543c498be28",
+     "name": "Dirk Rossmann",
+     "image": "https://i.imgur.com/0LwoGWB.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "f0c676b4-b02d-45ce-be03-ac5b2813fc86",
+     "name": "Lynn Schusterman",
+     "image": "https://i.imgur.com/2aI2zjl.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "f6c8a7bb-c31e-4e04-a5f4-793591196491",
+     "name": "Paul Singer",
+     "image": "https://i.imgur.com/2D27M6x.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "d1432813-0805-4b27-8524-2fce0667ed45",
+     "name": "Alexander Skorobogatko",
+     "image": "https://i.imgur.com/Fc4GNFP.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "e21e6e73-5efd-4a43-bd5d-da1213ebc449",
+     "name": "Michal Solowow",
+     "image": "https://i.imgur.com/bELlhzu.jpg",
+     "other": "#691"
+    },
+    {
+     "persistedFaceId": "30164509-523c-42e8-a9d5-8c26887baff5",
+     "name": "Clifford Asness",
+     "image": "https://i.imgur.com/uhpkZFs.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "a30a8393-544d-4cf6-8959-3396d9c246a4",
+     "name": "Carl Bennet",
+     "image": "https://i.imgur.com/LPnYJSv.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "e94ce747-e2cb-4c18-8e57-ba19113db212",
+     "name": "John Catsimatidis",
+     "image": "https://i.imgur.com/i4LrZd8.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "089233b1-f8c3-4ce4-a91e-db813a66e119",
+     "name": "Richard Chandler",
+     "image": "https://i.imgur.com/k9lJibZ.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "69783a9c-ca97-4c31-9ce6-641599d2f40f",
+     "name": "Mahendra Choksi",
+     "image": "https://i.imgur.com/Vk2caVd.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "aa040abf-490a-4f37-abd6-e864158bcc31",
+     "name": "Don Hankey",
+     "image": "https://i.imgur.com/ByTjUII.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "26e3de14-30f5-4678-be44-77a2c74c9044",
+     "name": "Christopher Hohn",
+     "image": "https://i.imgur.com/c61kAUs.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "c0d40c9f-032d-4a01-a094-86656ef3cd27",
+     "name": "Huang Chulong",
+     "image": "https://i.imgur.com/3b35BYL.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "344b97ff-1068-4f38-b98d-b9da95e3fe2c",
+     "name": "Karel Komarek",
+     "image": "https://i.imgur.com/0IS5lGB.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "108aaf6a-20cf-4129-ac07-c79b2e01464c",
+     "name": "Timur Kulibaev",
+     "image": "https://i.imgur.com/TkwglkR.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "1882ebd6-1947-4c7c-9de3-75f7193f4d0e",
+     "name": "Dinara Kulibaeva",
+     "image": "https://i.imgur.com/v8wznrL.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "898698c6-4022-4d11-a594-3e2b1f0c3af5",
+     "name": "Li Sze Lim",
+     "image": "https://i.imgur.com/vJ2Kepe.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "75029b63-29d1-411a-b3bb-38294a1432ce",
+     "name": "John Middleton",
+     "image": "https://i.imgur.com/LhBR9cv.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "f1297d9f-6327-44f3-9b8a-6688a4755fe8",
+     "name": "Elisabeth Mohn",
+     "image": "https://i.imgur.com/gHEL3bL.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "339f33e3-65b0-4b30-89f1-95a4a52645eb",
+     "name": "Joao Moreira Salles",
+     "image": "https://i.imgur.com/umHqLsf.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "cfd77710-ec83-47d4-96ae-0b360a549328",
+     "name": "Pedro Moreira Salles",
+     "image": "https://i.imgur.com/wvhSu9C.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "e4d938a5-b00e-4173-bc1d-d30e6ee62ff9",
+     "name": "Walther Moreira Salles Junior",
+     "image": "https://i.imgur.com/jwhsgmD.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "f0ef2d05-7aee-4203-8fbb-5d7315c8bc01",
+     "name": "Jean (Gigi) Pritzker",
+     "image": "https://i.imgur.com/HAeBrec.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "8447b86d-fbd0-40c2-95df-4fa6e8be3297",
+     "name": "Gil Shwed",
+     "image": "https://i.imgur.com/NMDyw1r.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "6e9e7215-bab9-4f81-856a-856eb56556a6",
+     "name": "Kerry Stokes",
+     "image": "https://i.imgur.com/iXkUluD.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "8154fd04-df0b-43ef-8c58-872ba22e2560",
+     "name": "Donald Trump",
+     "image": "https://i.imgur.com/ovmAZ39.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "028da127-2fda-4ff5-b594-a0a1b6adf012",
+     "name": "Don Vultaggio",
+     "image": "https://i.imgur.com/hHOZHXk.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "c1dd9791-0b44-4c97-adde-c82e77239909",
+     "name": "Mark Walter",
+     "image": "https://i.imgur.com/qlbz2h8.jpg",
+     "other": "#715"
+    },
+    {
+     "persistedFaceId": "623ecfec-41e5-49be-ada5-c35dac42fa42",
+     "name": "Juergen Blickle",
+     "image": "https://i.imgur.com/hIVfY1c.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "082ed566-cfc8-4f89-a014-50a4ff976725",
+     "name": "Jim Breyer",
+     "image": "https://i.imgur.com/3C22grv.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "5cf3fc81-5e82-4a01-a38e-cae4e31ec4b8",
+     "name": "Pierre Chen",
+     "image": "https://i.imgur.com/ouu1PLK.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "819b6589-fd81-4306-b256-3fa20b5fa55e",
+     "name": "Leon G. Cooperman",
+     "image": "https://i.imgur.com/CZWZZGU.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "ab662b1e-6823-4533-970e-dbb96d9529a0",
+     "name": "Andre Esteves",
+     "image": "https://i.imgur.com/oZbjmtE.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "10fecd72-8b1d-4056-a129-ef38e90c7770",
+     "name": "Bob Gaglardi",
+     "image": "https://i.imgur.com/ro76jLq.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "0815e5e7-e227-4980-b5bc-f5cb108d2e2e",
+     "name": "Jeffery Hildebrand",
+     "image": "https://i.imgur.com/6BAmCXa.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "f6840760-02a6-4261-a002-19ac3bbf4eaf",
+     "name": "James Jannard",
+     "image": "https://i.imgur.com/wWlu5PM.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "1339a6b6-84b4-4028-9de8-4fbf1cea921e",
+     "name": "Kwek Leng Beng",
+     "image": "https://i.imgur.com/s1zOZzD.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "12a90e1d-542a-4050-8e5a-1dd13ba682f6",
+     "name": "Joseph Liemandt",
+     "image": "https://i.imgur.com/J96tipx.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "39091632-efbf-47c2-a51b-3e5f49434d07",
+     "name": "Arturo Moreno",
+     "image": "https://i.imgur.com/oJpFQNo.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "8aa062f4-1b92-4f4a-867e-b8301611a739",
+     "name": "Georg Nemetschek",
+     "image": "https://i.imgur.com/h2S7Lpy.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "c3fb415a-385a-4db8-ad00-572f61a65ac7",
+     "name": "Horst Paulmann",
+     "image": "https://i.imgur.com/11nlVpp.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "ccff99a0-a74e-4a36-ac97-8280e5312475",
+     "name": "Alberto Roemmers",
+     "image": "https://i.imgur.com/typEBaZ.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "7bbeec52-4b11-4b83-9e0c-aa92984e92a9",
+     "name": "Juan Roig",
+     "image": "https://i.imgur.com/hPLqleX.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "7acf9a24-2215-485c-a906-201f0c5887d3",
+     "name": "Marc Rowan",
+     "image": "https://i.imgur.com/nB704Pz.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "4b40b719-ea67-410e-809f-be04d9957bc4",
+     "name": "Michael Rubin",
+     "image": "https://i.imgur.com/R6R3ZYD.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "114d072d-c731-42a3-92e0-06ce510b0518",
+     "name": "Patrick Ryan",
+     "image": "https://i.imgur.com/HHr9gIv.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "6556f976-b1cb-4b3c-a886-93ce907dd6a7",
+     "name": "Alvaro Saieh Bendeck",
+     "image": "https://i.imgur.com/lqT9X6m.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "b6e5d0f7-b538-4e0b-bc84-fd20143abfde",
+     "name": "Lynsi Snyder",
+     "image": "https://i.imgur.com/P4HRqyS.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "18abac89-6597-4e4f-a4cc-91622c8ab756",
+     "name": "David Steward",
+     "image": "https://i.imgur.com/Rom5bwD.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "22788994-3e74-4575-80d3-e87d1a27b2c0",
+     "name": "Hans Peter Wild",
+     "image": "https://i.imgur.com/ba5EMHq.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "d557b401-cccd-49a6-92fe-efb60cbe954e",
+     "name": "Steve Wynn",
+     "image": "https://i.imgur.com/fThki0y.jpg",
+     "other": "#745"
+    },
+    {
+     "persistedFaceId": "e5cb8bf5-b8ea-4cc7-aae3-bd67f9d7df1e",
+     "name": "Ramon Ang",
+     "image": "https://i.imgur.com/rD5WouJ.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "a055a93c-dc38-48be-9440-6026f69fe97c",
+     "name": "Michael Ashley",
+     "image": "https://i.imgur.com/D3peno7.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "38759f2a-5ccd-4075-9e74-41122963a6e2",
+     "name": "Yvonne Bauer",
+     "image": "https://i.imgur.com/IbXGon6.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "cf19423e-454f-4282-ba53-9ae9dd2d7ef7",
+     "name": "Timothy Boyle",
+     "image": "https://i.imgur.com/t2z3kec.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "617a21dd-c34d-4f4e-b6c6-c4fa99884f04",
+     "name": "Edward DeBartolo, Jr.",
+     "image": "https://i.imgur.com/PUa6sTd.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "c1c559ee-1e8c-4531-aa34-c6634db25ac0",
+     "name": "Rakesh Gangwal",
+     "image": "https://i.imgur.com/i5KFrkt.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "edfe4766-0729-497c-adfb-cdee232dbe37",
+     "name": "Peter Gilgan",
+     "image": "https://i.imgur.com/NN4LfA3.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "54a9b5df-d6aa-4ee3-9af1-deb51fbe219a",
+     "name": "Daniel Kretinsky",
+     "image": "https://i.imgur.com/fAyx5ra.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "82fb590d-7321-4a63-ba61-76501777dcdd",
+     "name": "Martin Lorentzon",
+     "image": "https://i.imgur.com/zNW6Hiz.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "432f75a1-8ae8-487b-8254-e46b6a4c740f",
+     "name": "Luo Jye",
+     "image": "https://i.imgur.com/lSzCS4x.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "5623ab0d-0da4-4631-9dc0-d1beecf1a39e",
+     "name": "Thomas Siebel",
+     "image": "https://i.imgur.com/ZRVH5Ir.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "38c379ab-c563-49e2-b727-4056462d5640",
+     "name": "Charles Simonyi",
+     "image": "https://i.imgur.com/c3Hg5Hw.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "fe29e60f-7f65-4161-a287-4192fdf8b3c7",
+     "name": "Thomas Straumann",
+     "image": "https://i.imgur.com/nBHciSX.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "3512749e-c5f6-46d9-9415-2c293876fe6f",
+     "name": "Su Hua",
+     "image": "https://i.imgur.com/FOh6XdX.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "751f170c-613f-4ca8-9c23-530230adb9be",
+     "name": "Tung Chee Chen",
+     "image": "https://i.imgur.com/8aZDKjT.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "24ede0d0-4f99-450b-9507-cad09297e64f",
+     "name": "Wang Linpeng",
+     "image": "https://i.imgur.com/IQ9R7Ky.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "f1a3bc3e-3981-4489-9667-8dad7e3fea19",
+     "name": "Mortimer Zuckerman",
+     "image": "https://i.imgur.com/V2fGgRL.jpg",
+     "other": "#775"
+    },
+    {
+     "persistedFaceId": "efa6e557-6865-4bb6-ae27-f32f535ca2e2",
+     "name": "Patrizio Bertelli",
+     "image": "https://i.imgur.com/iV1zSwK.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "87d9a8b8-722d-4f4b-add1-d5c07ea603e6",
+     "name": "Fong Yun Wah",
+     "image": "https://i.imgur.com/5mVnPAS.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "64de5b06-e581-4724-b198-aa5ee07d9de1",
+     "name": "Geng Jianming",
+     "image": "https://i.imgur.com/fr999vn.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "508a2c76-f4d9-4750-b128-f43006774520",
+     "name": "Jonathan Gray",
+     "image": "https://i.imgur.com/Gv8xxPF.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "8bc4c690-59d7-4447-8f95-535f6649a058",
+     "name": "Johnelle Hunt",
+     "image": "https://i.imgur.com/Eyf5IkV.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "3abc86e6-9ad1-4113-a51a-04ae1a318fe8",
+     "name": "Rakesh Jhunjhunwala",
+     "image": "https://i.imgur.com/iOKXFoG.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "ac75907a-650b-45f2-995a-ec136a286e94",
+     "name": "Dmitry Kamenshchik",
+     "image": "https://i.imgur.com/zwXT2Uq.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "2b66d37b-e4f4-410e-b629-53586490f73b",
+     "name": "Lim Sung-ki",
+     "image": "https://i.imgur.com/5IBDhZ2.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "6e5f7de6-611d-4692-8338-2b1226285910",
+     "name": "Mangal Prabhat Lodha",
+     "image": "https://i.imgur.com/w8zudMe.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "0414eecd-f68e-415a-b4b7-b61eab08a5b3",
+     "name": "Daniel Loeb",
+     "image": "https://i.imgur.com/XkX7RbF.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "2fcea058-4603-4537-b8dc-c11ee3594007",
+     "name": "Kalanithi Maran",
+     "image": "https://i.imgur.com/DnwMznq.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "143a411b-8d9e-40f9-8533-da1a5b6db3b0",
+     "name": "Philip Niarchos",
+     "image": "https://i.imgur.com/vITThmT.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "60d7cb23-1327-4dc7-b73f-2644240198c9",
+     "name": "Miuccia Prada",
+     "image": "https://i.imgur.com/TkkZiiK.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "d73fe698-1c10-46ba-a263-b107d77b2921",
+     "name": "P.V. Ramprasad Reddy",
+     "image": "https://i.imgur.com/XDpjwQv.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "5f7bef66-f96b-49a9-a60c-f8d5e4b6e3c8",
+     "name": "J. Joe Ricketts",
+     "image": "https://i.imgur.com/A8dV3ik.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "6d37eec0-477d-4600-b20f-f3188e8ea189",
+     "name": "Shashi & Ravi Ruia",
+     "image": "https://i.imgur.com/9bJJp4f.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "8a37db1b-847b-4ac1-8400-ea6cbe0028f7",
+     "name": "Thomas Secunda",
+     "image": "https://i.imgur.com/X8x7DJ9.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "1b1a7c16-19c1-4849-bcb7-14839ba1e7df",
+     "name": "B.R. Shetty",
+     "image": "https://i.imgur.com/av2cdD4.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "2669a60e-ccd5-4718-bda5-622d6847936b",
+     "name": "Tse Ping",
+     "image": "https://i.imgur.com/0PDawzd.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "63054df6-ca5d-4ab5-839b-184f812ef3c7",
+     "name": "William Wrigley, Jr.",
+     "image": "https://i.imgur.com/UR9pLmJ.jpg",
+     "other": "#804"
+    },
+    {
+     "persistedFaceId": "8a2dcf12-e9a9-48f8-bde7-af9128476272",
+     "name": "Mohed Altrad",
+     "image": "https://i.imgur.com/b4EOb2L.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "0ee2dc3b-cd53-4895-a026-8e4a710a085f",
+     "name": "Carlos Ardila L\u00fclle",
+     "image": "https://i.imgur.com/sMmqw0Z.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "284d3aaa-2a81-4edc-af3d-531069c4d983",
+     "name": "Riley Bechtel",
+     "image": "https://i.imgur.com/SRTaewZ.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "bbdd6567-9b22-4895-90f2-475f2d1ff0b4",
+     "name": "Stephen Bechtel, Jr.",
+     "image": "https://i.imgur.com/5KhmTUx.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "aab4dda2-b997-48bc-b33f-646a6600ad3d",
+     "name": "Rainer Blickle",
+     "image": "https://i.imgur.com/9YeUehg.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "c6ba6c69-633c-4d95-9143-27cc1a07f5a4",
+     "name": "William Conway, Jr.",
+     "image": "https://i.imgur.com/YfpeHw9.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "e8e20157-acb8-4ab2-91b8-af833a552cee",
+     "name": "Smita Crishna-Godrej",
+     "image": "https://i.imgur.com/fBSlJSR.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "017ddb95-2d02-4ab5-9a7f-6cc3c51e4752",
+     "name": "Daniel D'Aniello",
+     "image": "https://i.imgur.com/l37005P.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "998c1fe8-c9a0-4115-8027-d1151403abea",
+     "name": "Feng Hailiang",
+     "image": "https://i.imgur.com/87Yf9gD.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "d2781411-bd8b-430f-a6b8-9675f73e4519",
+     "name": "Gerald Ford",
+     "image": "https://i.imgur.com/cqtGq6k.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "e9b75a01-aeb5-4d50-9e9a-1b24f048faad",
+     "name": "Adi Godrej",
+     "image": "https://i.imgur.com/mzgUA8t.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "63fac1d1-8133-4252-a276-e3a3566ec117",
+     "name": "Jamshyd Godrej",
+     "image": "https://i.imgur.com/sHbruRO.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "c1e1a287-1e51-4844-ba05-687f9ce68972",
+     "name": "Nadir Godrej",
+     "image": "https://i.imgur.com/qDdvP1f.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "a94bc242-22fb-427f-b5e6-6f7ca1ff47eb",
+     "name": "Mitchell Goldhar",
+     "image": "https://i.imgur.com/pYezasa.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "3d21caed-d12a-44e1-bbb3-eaa39b64183d",
+     "name": "Otto Happel",
+     "image": "https://i.imgur.com/IZRAJi1.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "befe2553-8e4b-4599-8216-7269a197c97a",
+     "name": "Jimmy Haslam",
+     "image": "https://i.imgur.com/V0KCbsn.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "575b78c9-8a7c-4a5b-9343-c8bd1a9877b6",
+     "name": "John Henry",
+     "image": "https://i.imgur.com/5mOglbN.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "b5e1f7b3-33c3-4cde-b074-e5e58f13ad91",
+     "name": "James Irsay",
+     "image": "https://i.imgur.com/fvoqFDt.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "192c4246-92d4-48b9-8ec6-72989361701e",
+     "name": "Spiro Latsis",
+     "image": "https://i.imgur.com/h7Zee7x.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "f795672b-237d-40bf-be2f-e898108170b9",
+     "name": "Rishad Naoroji",
+     "image": "https://i.imgur.com/rbRm5hS.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "93e3bc30-349e-4f89-9605-2df046f5a3e3",
+     "name": "Park Yeon-cha",
+     "image": "https://i.imgur.com/5d0dF97.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "1a05754e-e871-4e8e-a72e-a150138f7ce9",
+     "name": "Qi Shi",
+     "image": "https://i.imgur.com/WE3KEyp.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "e7e8fa82-e5c4-4ffe-b037-d8b857014565",
+     "name": "Jeff Rothschild",
+     "image": "https://i.imgur.com/4Jdsr5J.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "dd2823b5-623a-40aa-919c-22df3b804dcf",
+     "name": "David Rubenstein",
+     "image": "https://i.imgur.com/Rtkr6KW.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "1b297b2d-5041-4437-a654-36700f4efaa4",
+     "name": "Phil Ruffin",
+     "image": "https://i.imgur.com/LGKWHQ5.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "b1a733bf-dac8-4ded-a576-a866a37dfcd2",
+     "name": "Richard Sands",
+     "image": "https://i.imgur.com/WWlMNei.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "07441a67-3048-4e92-9142-4519ab86e80a",
+     "name": "Robert Sands",
+     "image": "https://i.imgur.com/JwvEWWS.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "4eb2350f-e0ac-4a04-881e-27a1835e0a2e",
+     "name": "E. Joe Shoen",
+     "image": "https://i.imgur.com/kjO1FS8.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "c622f024-91bb-43f7-b291-a867dfc64a9b",
+     "name": "Eric Smidt",
+     "image": "https://i.imgur.com/QwJpb37.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "aab1c224-8204-414c-840e-e8c2bb4ebfbb",
+     "name": "Zygmunt Solorz-Zak",
+     "image": "https://i.imgur.com/XWV4WPv.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "82c2e4d5-2a70-4abd-b663-0a8494747be9",
+     "name": "Andrew Tan",
+     "image": "https://i.imgur.com/0UMD9xu.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "8dca3925-b144-4713-958d-69ef544eef94",
+     "name": "Micree Zhan",
+     "image": "https://i.imgur.com/52uEZ4y.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "d9ff34b6-7385-4228-a083-26391f894cdd",
+     "name": "Zhang Wenzhong",
+     "image": "https://i.imgur.com/mlCkGWC.jpg",
+     "other": "#838"
+    },
+    {
+     "persistedFaceId": "6b728295-75f7-42c3-b0ec-28af05a97f89",
+     "name": "Juan Abello",
+     "image": "https://i.imgur.com/cv3JEAi.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "497d0230-bb8d-4f54-8bb0-7f1452ea441a",
+     "name": "Giuliana Benetton",
+     "image": "https://i.imgur.com/u2vf7kh.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "ae8e640d-19ef-4643-8213-712103a84584",
+     "name": "Luciano Benetton",
+     "image": "https://i.imgur.com/QcfjjXS.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "fb8f01ff-c4c4-487e-95fb-70094185e078",
+     "name": "Choo Chong Ngen",
+     "image": "https://i.imgur.com/IMU3tA2.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "b19d5838-3ec2-44dc-9bc2-e0691931574b",
+     "name": "Gustavo Denegri",
+     "image": "https://i.imgur.com/dQjUwjj.png",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "4cb9b8a8-f3be-4cbb-a243-45e88d01677b",
+     "name": "Ennio Doris",
+     "image": "https://i.imgur.com/gtai4lg.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "d3275106-7adb-4913-b990-2a4ead7f2ee6",
+     "name": "John Dorrance, III.",
+     "image": "https://i.imgur.com/Fo4aMB8.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "47ac858a-db93-480d-965b-95d2b6fc07fc",
+     "name": "Charles Edelstenne",
+     "image": "https://i.imgur.com/RrcAE0w.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "fdb8bf43-cabe-462f-b37a-da73e3607ede",
+     "name": "Alfredo Egydio Arruda Villela Filho",
+     "image": "https://i.imgur.com/8U7HT7H.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "f88d1d1b-e32a-474e-a5c7-413020750e20",
+     "name": "Doris Fisher",
+     "image": "https://i.imgur.com/x1emIlN.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "008611e9-a97f-45a1-bd9c-74b99012e432",
+     "name": "John Fisher",
+     "image": "https://i.imgur.com/6CmWgMT.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "31a6572a-dd68-4f0b-81b8-da37a590a166",
+     "name": "Fu Liquan",
+     "image": "https://i.imgur.com/sXoVI24.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "200863b2-856e-4060-85a1-2819e783550d",
+     "name": "Noam Gottesman",
+     "image": "https://i.imgur.com/NsMdOcC.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "197a16c0-6fe3-4c29-aadf-79e994de97fa",
+     "name": "Michael Hintze",
+     "image": "https://i.imgur.com/LtD8iTM.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "5d9f9901-984a-4a5b-a6dd-7356b8dfb0ce",
+     "name": "Randal Kirk",
+     "image": "https://i.imgur.com/Bft8AiM.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "22dbf81d-8ff7-4d89-8e18-3a929c44b161",
+     "name": "Kurt Krieger",
+     "image": "https://i.imgur.com/64If9Sm.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "b488c8ca-ec77-4399-980d-53593af8eeb0",
+     "name": "Li Liufa",
+     "image": "https://i.imgur.com/68hOC1A.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "b62198a4-e7f5-48c0-95d3-7ccc47481129",
+     "name": "Aloke Lohia",
+     "image": "https://i.imgur.com/8Qd0iEz.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "d9c0652d-db7a-42d0-9b17-91af06ae662c",
+     "name": "Or Wai Sheun",
+     "image": "https://i.imgur.com/HaFpDoy.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "978124cb-9f45-49c4-9925-b506081812ef",
+     "name": "Ou Zongrong",
+     "image": "https://i.imgur.com/OClATpn.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "ad59fdca-eb0d-4ec3-9726-fbaebd3ac4b5",
+     "name": "Sean Parker",
+     "image": "https://i.imgur.com/Xg6QOWa.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "8b3114d9-b080-4861-9446-bf46bae5ec35",
+     "name": "Jorge Perez",
+     "image": "https://i.imgur.com/cLmBRAk.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "7b13e725-7fd0-4cb2-9a55-233044de38da",
+     "name": "John Pritzker",
+     "image": "https://i.imgur.com/9A1mPOO.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "7b0ffbee-b2bb-41fd-8427-5eef0165689e",
+     "name": "Penny Pritzker",
+     "image": "https://i.imgur.com/Qb5HKRo.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "396ea9a8-1603-4183-b2e4-24c455d29350",
+     "name": "Horst Julius Pudwill",
+     "image": "https://i.imgur.com/oVFrKKh.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "6fef1759-0c20-456e-a9da-5126ce5d3056",
+     "name": "T. Denny Sanford",
+     "image": "https://i.imgur.com/sDk94yP.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "a8fc92d4-1eee-42a5-a7c3-1b56a5ca0e3b",
+     "name": "Vijay Shekhar Sharma",
+     "image": "https://i.imgur.com/n5mnJ7O.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "219a55c0-e2b7-4c10-95ed-95f67f3438b3",
+     "name": "Wang Wenjing",
+     "image": "https://i.imgur.com/nYE0jLl.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "efc4cb96-74d8-4932-b330-aab32ff28a37",
+     "name": "Jerry Yang",
+     "image": "https://i.imgur.com/JhGmJxP.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "4ab67671-ac8b-47ef-9510-a7988f450a7d",
+     "name": "Ye Chenghai",
+     "image": "https://i.imgur.com/1ysf33h.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "c76ccd63-c2c1-4d8a-9458-118848ea064a",
+     "name": "Samuel Yin",
+     "image": "https://i.imgur.com/kHX0D8f.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "689c8e60-4a0c-4c20-abb0-85ba3103141b",
+     "name": "Zuo Hui",
+     "image": "https://i.imgur.com/49yOLXq.jpg",
+     "other": "#877"
+    },
+    {
+     "persistedFaceId": "2b7441ab-db6f-4ec0-92ef-5c70f2457ffb",
+     "name": "Somphote Ahunai",
+     "image": "https://i.imgur.com/GSAsazi.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "18a8a9b8-2b23-4389-9121-20c7d392840a",
+     "name": "George Argyros",
+     "image": "https://i.imgur.com/wuWKEEv.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "edcf4f78-d296-468a-8073-9559703e6a15",
+     "name": "John Arrillaga",
+     "image": "https://i.imgur.com/Xcvt4lm.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "2c26ebd7-3b5f-4803-be86-0e0d098bfff4",
+     "name": "Bill Austin",
+     "image": "https://i.imgur.com/4NMVLdB.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "4b4fb3c5-f0fd-430b-97bd-e702b8e34356",
+     "name": "Subhash Chandra",
+     "image": "https://i.imgur.com/fhfPtxM.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "065dcf76-e7cc-464e-a1c8-5aae6f095070",
+     "name": "Jason Chang",
+     "image": "https://i.imgur.com/ro3R8dY.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "65f17fba-4705-428e-8e11-81f6af01fa17",
+     "name": "John Paul DeJoria",
+     "image": "https://i.imgur.com/0nqjnfL.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "0f143280-ec35-4686-b56e-af14bdded61f",
+     "name": "Joseph Grendys",
+     "image": "https://i.imgur.com/XbGf2DD.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "51e09286-e33a-483d-a00b-f85c45e449e2",
+     "name": "Ji Qi",
+     "image": "https://i.imgur.com/OobeChf.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "3643665f-08ab-4824-a347-da7e4d88c62d",
+     "name": "Adam Kwok",
+     "image": "https://i.imgur.com/TUByv9w.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "db3dc654-ebee-4965-8dd8-7de357b920ed",
+     "name": "Thomas Kwok",
+     "image": "https://i.imgur.com/tpr3nsg.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "515b2a8c-a572-43ad-86f8-a6a57baa25c2",
+     "name": "Aerin Lauder",
+     "image": "https://i.imgur.com/6ELVnEU.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "9747d00d-b421-4049-8b25-6d4c14876e22",
+     "name": "Eric Lefkofsky",
+     "image": "https://i.imgur.com/PaGVNur.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "6e2768b0-edcb-4764-bd6f-3ef94c1e1c9a",
+     "name": "Liang Xinjun",
+     "image": "https://i.imgur.com/Cu40ovn.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "78cf41fa-f36e-4a43-adf3-7caaf06fd4b6",
+     "name": "Peter Lim",
+     "image": "https://i.imgur.com/wFKcUQP.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "1d59484f-a046-4710-81b7-b629e49218e3",
+     "name": "Alexander Mamut",
+     "image": "https://i.imgur.com/IEo8xNy.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "9ec96b5d-4269-46fb-a75c-1938d32f9500",
+     "name": "Sergio Mantegazza",
+     "image": "https://i.imgur.com/lqxvl0F.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "f12663b4-74d1-4b98-93c4-90769de001fa",
+     "name": "Jose Roberto Marinho",
+     "image": "https://i.imgur.com/BFsozK8.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "d8f535fe-b54e-4f33-8ad2-59c23e4f7a81",
+     "name": "Roberto Irineu Marinho",
+     "image": "https://i.imgur.com/cpg4yF2.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "13b2e37f-9306-4c37-92f9-9468fbd86f0a",
+     "name": "Strive Masiyiwa",
+     "image": "https://i.imgur.com/SmJWQjg.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "68001ec8-6f83-40fa-b46f-25b240d21742",
+     "name": "Hans Melchers",
+     "image": "https://i.imgur.com/E50aYef.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "bee76a00-b740-4eb4-897d-b1ebe07b8424",
+     "name": "Taha Mikati",
+     "image": "https://i.imgur.com/bQoeycm.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "52ceffd0-2db7-4d0c-82cb-4ef65936f523",
+     "name": "Pan Weiming",
+     "image": "https://i.imgur.com/aJaWhON.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "12fbc8ee-a850-489c-82b6-8ee442c2adb7",
+     "name": "Bob Parsons",
+     "image": "https://i.imgur.com/O54Dfyc.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "12182e43-2223-412c-ba95-fb2bd3f4b33c",
+     "name": "Helmut Sohmen",
+     "image": "https://i.imgur.com/5EnPqk4.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "9bd0ab16-a3d4-402f-b1be-7d351037d9ec",
+     "name": "Warren Stephens",
+     "image": "https://i.imgur.com/sB8tmWk.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "bef2d21d-2d72-451b-a71e-4aeea8ac7ba8",
+     "name": "Alexander Svetakov",
+     "image": "https://i.imgur.com/YPI4Ybr.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "8bd9a004-0401-453e-be55-4d174f80102f",
+     "name": "Peter Thiel",
+     "image": "https://i.imgur.com/WJ5QyHu.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "2c33650a-a26f-4e17-b664-01162658c016",
+     "name": "Daniel Tsai",
+     "image": "https://i.imgur.com/gKjjtP9.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "f1007a33-06f0-491b-9a6f-e36ddcc29751",
+     "name": "Sunil Vaswani",
+     "image": "https://i.imgur.com/ewsdDXA.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "4b1a06e4-ba69-4393-ab8d-8df664cec9cf",
+     "name": "Oprah Winfrey",
+     "image": "https://i.imgur.com/61pqvlb.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "b47b8b7b-a1b6-4dea-a531-88cd946d26ff",
+     "name": "Wu Shaoxun",
+     "image": "https://i.imgur.com/v29fG0p.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "3e8c3dd5-bfe7-4eb0-b900-101a08fd2696",
+     "name": "Takao Yasuda",
+     "image": "https://i.imgur.com/rXGy4bU.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "bb8bbcd0-0869-4431-86cf-4f568c8336be",
+     "name": "Denise York",
+     "image": "https://i.imgur.com/ETtIQRV.jpg",
+     "other": "#916"
+    },
+    {
+     "persistedFaceId": "0c06a381-90ed-408e-9ae1-5e60c2b13b76",
+     "name": "Aneel Bhusri",
+     "image": "https://i.imgur.com/dpabECt.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "301557e3-9627-4b6b-ac7f-c5162464a47c",
+     "name": "Norman Braman",
+     "image": "https://i.imgur.com/pNSvQy2.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "abbf1d01-ee81-43db-8db3-612e349ef550",
+     "name": "Otto Philipp Braun",
+     "image": "https://i.imgur.com/3rJVMdr.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "991fd30e-7eec-45a8-bc85-ca7baf6ef6ff",
+     "name": "Kylie Jenner",
+     "image": "https://i.imgur.com/jQRear5.jpg",
+     "other": "#2057"
+    },
+    {
+     "persistedFaceId": "b95b09a4-1e52-4153-a5fb-c7da58dc14c9",
+     "name": "John Caudwell",
+     "image": "https://i.imgur.com/tFR1WFO.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "c9e51fa3-6f10-4eaa-b59a-7c2e0982ba22",
+     "name": "Jean Coutu",
+     "image": "https://i.imgur.com/H1fKV7a.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "f43805a0-b5a2-46e1-a23b-13befd6e4450",
+     "name": "Ray Davis",
+     "image": "https://i.imgur.com/7r9SnjL.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "ab51d571-52fb-46e2-9f49-74c6139858c4",
+     "name": "Ana Lucia de Mattos Barretto Villela",
+     "image": "https://i.imgur.com/HAXWGi6.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "090ab151-9297-466d-8680-73bc1b409822",
+     "name": "Kenneth Feld",
+     "image": "https://i.imgur.com/OrYlHWo.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "eb63d94a-01bc-48ba-81bd-01dea4b2e048",
+     "name": "Alfred Gantner",
+     "image": "https://i.imgur.com/tnBGBwR.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "8d9ec5f2-1ebc-4c94-8e64-accadb5de332",
+     "name": "Philippe Ginestet",
+     "image": "https://i.imgur.com/8OkXkua.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "c3874a5a-55d0-4259-817e-7816e42fcbb0",
+     "name": "Torstein Hagen",
+     "image": "https://i.imgur.com/L0guAV3.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "7e70d585-dbb4-4113-b4ac-604ebaed27fb",
+     "name": "Kuan Kam Hon",
+     "image": "https://i.imgur.com/8UGiYyT.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "a15efb74-460f-4d3c-adb9-918107b7a64d",
+     "name": "Kuok Khoon Hong",
+     "image": "https://i.imgur.com/aoNOJEv.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "ba295745-81c9-4e79-942a-44cf971638c3",
+     "name": "Louis Le Duff",
+     "image": "https://i.imgur.com/rg3aaT7.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "0bbad441-7843-4944-9b58-f03793a11f9b",
+     "name": "Low Tuck Kwong",
+     "image": "https://i.imgur.com/Ee6r9Yj.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "805a32fd-83ae-4479-bc51-b30cc4aeb7ed",
+     "name": "Robert Miller",
+     "image": "https://i.imgur.com/2WIAfKP.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "8276f2ad-a086-4970-9b96-3c5755491dc1",
+     "name": "Patrice Motsepe",
+     "image": "https://i.imgur.com/EFpBT4y.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "e8ed7b7d-14f6-4fdb-9fbf-c46d6111c9e6",
+     "name": "N.R. Narayana Murthy",
+     "image": "https://i.imgur.com/XIFo6Xb.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "eb28335c-a30c-4bbc-938f-8ac92e0e9d3d",
+     "name": "Hussain Sajwani",
+     "image": "https://i.imgur.com/MDhOvGY.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "916988ef-3485-4640-b528-d8a750becc58",
+     "name": "Song Zuowen",
+     "image": "https://i.imgur.com/m74aNuw.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "b8ba1969-5878-4016-a72d-428017784933",
+     "name": "Mark Stevens",
+     "image": "https://i.imgur.com/MMjWxDc.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "3c5f09a4-5037-45fc-89c1-c9e07cb09914",
+     "name": "Pat Stryker",
+     "image": "https://i.imgur.com/X8QF3Fg.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "a923aa34-d06e-4efa-9551-22508c37629e",
+     "name": "Hans Sy",
+     "image": "https://i.imgur.com/B0VpMaR.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "390b4c61-f1ae-4420-993b-8ecc39c345dd",
+     "name": "Herbert Sy",
+     "image": "https://i.imgur.com/Sgv8pZn.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "94d4683a-38e9-40a4-bfb1-a3a3aa7fd438",
+     "name": "Sunny Varkey",
+     "image": "https://i.imgur.com/37YZ8dp.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "35bf62e0-b16c-444b-9648-fb48b05c9f89",
+     "name": "Jitendra Virwani",
+     "image": "https://i.imgur.com/Gl1hEqj.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "7123efe1-568d-4f84-b5d6-905ca4f1f680",
+     "name": "Lang Walker",
+     "image": "https://i.imgur.com/Bb9n4OB.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "1229a3e3-0122-4a1e-abc7-14606a638e08",
+     "name": "Herbert Wertheim",
+     "image": "https://i.imgur.com/sduHAy5.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "979675ff-87f5-4a57-b198-1f2b5a33bd9f",
+     "name": "Richard White",
+     "image": "https://i.imgur.com/N7S3w25.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "fbc01a17-0eed-4abe-b2fb-1580162fbf08",
+     "name": "Urs Wietlisbach",
+     "image": "https://i.imgur.com/TGPmNj2.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "c8a89dd7-071d-4701-bf59-740af0d5f673",
+     "name": "Yeung Kin-man",
+     "image": "https://i.imgur.com/MzoqluT.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "b425a1f4-abaa-42f2-bfb8-6b63e4bfbdfb",
+     "name": "Anita Zucker",
+     "image": "https://i.imgur.com/zjpr1DX.jpg",
+     "other": "#962"
+    },
+    {
+     "persistedFaceId": "b0f2f1db-95f4-4c12-a6ad-b4674d667b69",
+     "name": "Andrey Andreev",
+     "image": "https://i.imgur.com/c1tTM79.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "fe45df69-37b7-4f61-aaf6-df14ef52feb6",
+     "name": "Koos Bekker",
+     "image": "https://i.imgur.com/NCK4BnP.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "4e852fb1-2d6b-47a2-b4ce-51df2272e84f",
+     "name": "Vivek Chand Burman",
+     "image": "https://i.imgur.com/Zx9QCuJ.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "86aedf65-744d-4100-9120-6715fa5a2b8b",
+     "name": "Bennett Dorrance",
+     "image": "https://i.imgur.com/q8XiHhk.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "2ec41833-6eee-4fd1-b56d-d3a5b5f666cb",
+     "name": "Walter Faria",
+     "image": "https://i.imgur.com/gFAD27r.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "d6406301-b2f4-4566-a65a-41a99685287f",
+     "name": "Carlo Fidani",
+     "image": "https://i.imgur.com/ZYfWxT2.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "bb0fb754-a107-4e0a-b41a-d58c9bc0ddb3",
+     "name": "Fiona Geminder",
+     "image": "https://i.imgur.com/Sg58PFv.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "a392695d-12a4-44c3-95f8-f8555f049b08",
+     "name": "Stein Erik Hagen",
+     "image": "https://i.imgur.com/RSy8grR.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "9241fb03-d13d-49fc-b611-faaad6c462f6",
+     "name": "Christian Haub",
+     "image": "https://i.imgur.com/fwdYXjt.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "52cc1eb5-acf0-4db4-a16a-028c62ddc50c",
+     "name": "Lawrence Ho",
+     "image": "https://i.imgur.com/1nSWt1d.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "4e80fcef-bb31-4ae5-a4af-981229be243c",
+     "name": "Drew Houston",
+     "image": "https://i.imgur.com/mD54b2k.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "12c220bc-49d5-4112-b613-28c296e2fd9c",
+     "name": "Alijan Ibragimov",
+     "image": "https://i.imgur.com/r4TO3Dd.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "c68c157a-4526-47f6-b900-4246098812a2",
+     "name": "Brad Kelley",
+     "image": "https://i.imgur.com/DkoRsFG.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "ac427c95-c11a-4820-afa9-a4133b421db5",
+     "name": "Alicia Koplowitz",
+     "image": "https://i.imgur.com/7Gd51wE.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "5082dec3-f5d0-49f5-acfa-4f6a206d0781",
+     "name": "Li Gaiteng",
+     "image": "https://i.imgur.com/2wMKXtk.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "112dff04-edbd-4e18-ac01-7532066c6cca",
+     "name": "Vincent Lo",
+     "image": "https://i.imgur.com/l33XH00.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "040e4ba1-562f-4d52-9227-8d1cee4dbb08",
+     "name": "Mohamed Mansour",
+     "image": "https://i.imgur.com/ULh4gAp.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "c3be4e16-1db9-414b-bdd9-6110c36307af",
+     "name": "Harsh Mariwala",
+     "image": "https://i.imgur.com/uELb819.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "acdecbaa-ef50-4ce0-b877-4a185ce53b9a",
+     "name": "Drayton McLane, Jr.",
+     "image": "https://i.imgur.com/iAqWab4.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "371afe21-b59b-4c3d-9f35-c09af52e90a5",
+     "name": "Vadim Moshkovich",
+     "image": "https://i.imgur.com/lGRzbQz.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "88f0d571-9847-41e5-b46b-4878ca551a95",
+     "name": "H. Ross Perot, Jr.",
+     "image": "https://i.imgur.com/sd0dKAL.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "c9264ddc-15f8-4801-97ee-23b3c8cfa11c",
+     "name": "Daniel Pritzker",
+     "image": "https://i.imgur.com/nGpImxy.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "ef045034-6827-4c7f-9137-02567e378f9a",
+     "name": "Rajan Raheja",
+     "image": "https://i.imgur.com/NuDntiB.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "4b8699a5-e64a-442a-ac4a-6e5bb41e24d5",
+     "name": "Stewart Rahr",
+     "image": "https://i.imgur.com/yIWnOnW.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "26ef7eef-b67d-42e8-8eb8-ba63f3674cd6",
+     "name": "P.P. Reddy",
+     "image": "https://i.imgur.com/q0rBhJo.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "c0913de1-0786-40ec-b287-abb2f4ccbfd0",
+     "name": "Mochtar Riady",
+     "image": "https://i.imgur.com/qwncEDA.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "1b8aa559-7b33-448e-87be-b6911fb54b49",
+     "name": "Stephan Schmidheiny",
+     "image": "https://i.imgur.com/fUgGBUM.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "4e4e838a-95b8-4539-927e-b9795ccf8b37",
+     "name": "Erik Selin",
+     "image": "https://i.imgur.com/fYk0tPt.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "db4d433c-287a-4713-bf63-03f93f92ff3c",
+     "name": "Shin Chang-jae",
+     "image": "https://i.imgur.com/OYXRFS4.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "0425ad7e-bb62-43fa-a152-a3e300f63166",
+     "name": "Peter Spuhler",
+     "image": "https://i.imgur.com/pINFbhM.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "d2b8ce6b-65d3-493e-b610-ce0863535bfd",
+     "name": "Sun Guangxin",
+     "image": "https://i.imgur.com/3fBPkjV.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "1b5e36d9-1250-476c-ad1d-1729c5bc8fbb",
+     "name": "Sze Man Bok",
+     "image": "https://i.imgur.com/PTh5hsd.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "60b2685d-2e6a-4f3b-9426-801a5c4c29aa",
+     "name": "Torbjorn Tornqvist",
+     "image": "https://i.imgur.com/GSTXSdl.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "85ae9ecf-a8aa-462d-80a0-4b584041cbaa",
+     "name": "Alan Trefler",
+     "image": "https://i.imgur.com/K3od2AO.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "c12768f9-b6ec-47a7-8cbf-7ae332766587",
+     "name": "Tung Chee Hwa",
+     "image": "https://i.imgur.com/rUkVloQ.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "2b0fb95d-7497-4a59-abe7-fe2b38ff3e0d",
+     "name": "Yu Minhong",
+     "image": "https://i.imgur.com/enmrY9k.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "ee67e6bb-adb3-4d61-b905-ffd6d7aec380",
+     "name": "Zhang Fan",
+     "image": "https://i.imgur.com/NvdjCVE.jpg",
+     "other": "#1008"
+    },
+    {
+     "persistedFaceId": "05995c5e-c62e-493d-bef2-8c13f786e2b9",
+     "name": "Maurice Alter",
+     "image": "https://i.imgur.com/YiD1lWZ.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "08c1f26f-e27b-441d-9c88-dcff664955a1",
+     "name": "An Kang",
+     "image": "https://i.imgur.com/62JyuFy.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "bfdbeabb-26b9-49d0-b8d5-b6a2a1d40190",
+     "name": "Roberto Angelini Rossi",
+     "image": "https://i.imgur.com/G1sveN4.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "4efae57b-4ff5-42b2-8ef3-5f02385f9702",
+     "name": "Bang Jun-hyuk",
+     "image": "https://i.imgur.com/pAFcAvq.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "fbacb362-f544-4f99-a054-592493cedc5f",
+     "name": "Ron Baron",
+     "image": "https://i.imgur.com/T4OR7AV.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "07a6e976-20b4-4883-be3e-0a322fea468e",
+     "name": "Edward Bass",
+     "image": "https://i.imgur.com/4Rn19bD.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "bb238f9f-5642-4674-b9c9-7dc68c0ad040",
+     "name": "Cheng Yixiao",
+     "image": "https://i.imgur.com/xHYbt1x.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "282d7cb5-08ec-43b0-9bed-e5e80503fed6",
+     "name": "Cho Tak Wong",
+     "image": "https://i.imgur.com/lSKnwY3.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "1a3f553d-87fa-4e53-9c10-8e872d69c553",
+     "name": "Jim Coulter",
+     "image": "https://i.imgur.com/rpiNmS4.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "91830307-a460-4ac9-8ab0-205b7449a635",
+     "name": "Jose Luis Cutrale",
+     "image": "https://i.imgur.com/vuSdmNi.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "9675d0d0-9302-4162-ac69-5ce667703fdc",
+     "name": "James Dinan",
+     "image": "https://i.imgur.com/asbXNj6.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "dff6c7a3-ff19-4fc4-9afd-f93fe85989f9",
+     "name": "Daniel Ek",
+     "image": "https://i.imgur.com/tWyLqg8.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "6a42b643-24ed-4ea6-aca5-38c06ac27033",
+     "name": "Alceu Elias Feldmann",
+     "image": "https://i.imgur.com/TJoBDDT.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "0e3fca76-e618-4c49-83b9-681a8373baf0",
+     "name": "Luis Frias",
+     "image": "https://i.imgur.com/iqCCkcm.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "bf8d7d6d-f253-4606-8ad3-4acc17b03d75",
+     "name": "Senapathy Gopalakrishnan",
+     "image": "https://i.imgur.com/5VNiHdF.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "1eff7082-9367-47ae-9daf-107ffed7e5e7",
+     "name": "Alec Gores",
+     "image": "https://i.imgur.com/gHdW9Ab.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "0e969987-8d3f-4f2a-8c3b-6d3b6d1a9e2c",
+     "name": "Carlos Hank Rhon",
+     "image": "https://i.imgur.com/m4u8S31.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "12bbe3db-1a1c-42c7-b26c-66ff42b4f534",
+     "name": "Huang Shih Tsai",
+     "image": "https://i.imgur.com/S3XlK0C.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "22cdf495-6bd4-4b48-baee-cbd60caaeb0b",
+     "name": "Baba Kalyani",
+     "image": "https://i.imgur.com/0EH6dKp.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "ea514df2-daed-48be-b541-8e0e00b7d833",
+     "name": "Kim Beom-su",
+     "image": "https://i.imgur.com/SuhwkD8.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "fc860b06-1139-4643-a49c-11022ff1e076",
+     "name": "Stephen Lansdown",
+     "image": "https://i.imgur.com/yXF2DhZ.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "b4524c39-4c17-4448-975a-e5f69d672759",
+     "name": "Lin Chen-hai",
+     "image": "https://i.imgur.com/4jPymn4.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "fe07f03e-00cd-444e-8a53-e7bdbe365033",
+     "name": "Scott Lin",
+     "image": "https://i.imgur.com/h4wkd0j.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "03dea79c-33b8-42b7-a80d-286742a48269",
+     "name": "Liu Ming Hui",
+     "image": "https://i.imgur.com/PIqLSCK.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "8d8b4e04-1948-4f8f-b4a3-544db3f8e0ea",
+     "name": "Lu Xiangyang",
+     "image": "https://i.imgur.com/1RLldfr.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "e669e0ab-011a-4bad-943f-e3f589b6dd3a",
+     "name": "Clayton Mathile",
+     "image": "https://i.imgur.com/75rkYuW.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "cd52046c-33da-4bb9-8cf4-ac757e61720d",
+     "name": "Jorge Moll Filho",
+     "image": "https://i.imgur.com/uHwXuT8.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "4cb58cc9-2c65-4180-aa3b-0719f34551c4",
+     "name": "Masahiro Noda",
+     "image": "https://i.imgur.com/sRZuTgB.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "a5ebec71-1abf-4aad-ac9e-b10a51184f27",
+     "name": "Dmitry Pumpyansky",
+     "image": "https://i.imgur.com/k8eDyOK.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "62f50818-7da1-47aa-a17d-c2819e2a79bc",
+     "name": "Phillip T. (Terry) Ragon",
+     "image": "https://i.imgur.com/uvtzZJ5.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "1a432105-ce9c-4b43-81f8-5a97e0f3fb29",
+     "name": "Krit Ratanarak",
+     "image": "https://i.imgur.com/qcOZf7y.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "20593753-e2c2-41c7-9223-a3abcf67b2b4",
+     "name": "P.V.Krishna Reddy",
+     "image": "https://i.imgur.com/tIH6s4c.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "0c6fdeb7-cea8-4e4a-b9e1-539882c97f84",
+     "name": "Nevaldo Rocha",
+     "image": "https://i.imgur.com/A9065ET.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "d21dd269-b5a8-4cbd-ab69-b40b1abf9401",
+     "name": "Remo Ruffini",
+     "image": "https://i.imgur.com/jiG6bSh.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "eca142fc-d0c3-4592-99a7-221f5c45c8a9",
+     "name": "Monika Schoeller",
+     "image": "https://i.imgur.com/ZHs5of9.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "a8c5c00a-e888-4445-9f16-d5352cb0ac8e",
+     "name": "Klaus-Peter Schulenberg",
+     "image": "https://i.imgur.com/IRIX5Yl.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "40568f14-1b96-4ed0-85cc-5f250e8fbc61",
+     "name": "Shen Wenrong",
+     "image": "https://i.imgur.com/dxLLdIT.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "390344ec-7080-451d-a168-89fc8f790623",
+     "name": "Brian Sheth",
+     "image": "https://i.imgur.com/r4mY7dV.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "b174f28a-3077-483e-8e16-0c3ee6315a00",
+     "name": "Dan Snyder",
+     "image": "https://i.imgur.com/91fP5w7.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "a98814cd-0a90-4b4a-b149-8cd96ba1d197",
+     "name": "Henry Sy, Jr.",
+     "image": "https://i.imgur.com/S53s8Vs.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "4057e43a-3d76-4d78-8be5-813768a1ec71",
+     "name": "Teresita Sy-Coson",
+     "image": "https://i.imgur.com/0PIoZpK.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "44a79191-9c8c-4d17-8ad7-b107e3bc991c",
+     "name": "Katsumi Tada",
+     "image": "https://i.imgur.com/M5MY2Gv.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "aaa9a1a0-5385-4d3a-8f29-e3c865f90ba6",
+     "name": "Oleg Tinkov",
+     "image": "https://i.imgur.com/uuOzFQp.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "6fd9b4f6-6648-426f-b700-4454357a1896",
+     "name": "T.Y. Tsai",
+     "image": "https://i.imgur.com/blVY9U0.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "bc628903-8d89-4c2c-a6fc-018b811eeab2",
+     "name": "Stefan von Holtzbrinck",
+     "image": "https://i.imgur.com/2neOmCq.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "0d487567-3b97-41b6-9440-318d9d595b8a",
+     "name": "Jon Yarbrough",
+     "image": "https://i.imgur.com/EykGHox.jpg",
+     "other": "#1057"
+    },
+    {
+     "persistedFaceId": "2b069168-88a0-49da-b391-58301008c17f",
+     "name": "Mika Anttonen",
+     "image": "https://i.imgur.com/H2Xucmv.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "cff97412-a0b4-4838-9936-73d9671f23f0",
+     "name": "Shyam & Hari Bhartia",
+     "image": "https://i.imgur.com/lxIp5gZ.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "6729fe32-ca7b-476e-94f1-0d215eb01b3e",
+     "name": "Thor Bjorgolfsson",
+     "image": "https://i.imgur.com/jHZAq6h.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "32d10749-9248-40c6-bdd9-e43cc141a3c7",
+     "name": "Anand Burman",
+     "image": "https://i.imgur.com/OoQrTXc.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "140d9acb-7128-4165-bc8a-f5ab3504d4a4",
+     "name": "Chang Yun Chung",
+     "image": "https://i.imgur.com/ZcJ1vgh.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "142e4f37-c639-40cc-b0d1-3debe934dd94",
+     "name": "Chen Hua",
+     "image": "https://i.imgur.com/U0nWX25.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "9b6b9e3f-ee1c-45d1-b0cb-82d96e823e3f",
+     "name": "Ben Chestnut",
+     "image": "https://i.imgur.com/8YMkMrW.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "ba2751b0-2f5b-42c0-90bf-3fbbc45513b4",
+     "name": "Patokh Chodiev",
+     "image": "https://i.imgur.com/Mh07Cv6.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "ffbbe1fa-93cd-4d3a-b75c-6bea4018fb36",
+     "name": "Chu Lam Yiu",
+     "image": "https://i.imgur.com/eDJR1VL.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "189d8387-0d7a-46c5-9a06-b5d785e7cd55",
+     "name": "James Clark",
+     "image": "https://i.imgur.com/IkO2CYk.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "4dd3d25b-6a48-47e0-8a58-6ec917e27dfb",
+     "name": "John Collison",
+     "image": "https://i.imgur.com/GlXLsEO.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "b2b77e14-7233-436a-bc2c-78465ef35e6f",
+     "name": "Patrick Collison",
+     "image": "https://i.imgur.com/PEZBXfS.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "34827663-a769-47ad-8b86-1f13d07a2d6e",
+     "name": "Aloysio de Andrade Faria",
+     "image": "https://i.imgur.com/Tm25zwa.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "2a1e50dd-7c5a-4e41-b070-3c34adfa0d96",
+     "name": "Bernard Fraisse",
+     "image": "https://i.imgur.com/eyE1aMZ.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "49353432-10d2-44ee-a503-21790da1277d",
+     "name": "Sameer Gehlaut",
+     "image": "https://i.imgur.com/84ITsiU.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "cf789e1f-b309-41ee-87ad-528bf9220c4d",
+     "name": "Caroline Hagen Kjos",
+     "image": "https://i.imgur.com/kQtmblk.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "ced00504-0292-4ddf-9f49-9d5f87a7b964",
+     "name": "Bahaa Hariri",
+     "image": "https://i.imgur.com/S6I1nDX.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "d816dccc-2afc-46f8-8c73-91b401ff33f0",
+     "name": "Georg Haub",
+     "image": "https://i.imgur.com/OONw5jR.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "8ea470d0-efbd-423a-bc89-85057b69005c",
+     "name": "Huang Zhenda",
+     "image": "https://i.imgur.com/MM1eR7f.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "66a53408-1af0-475d-a841-84a40f737cb8",
+     "name": "Ravi Jaipuria",
+     "image": "https://i.imgur.com/ruyTi8e.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "be2151f2-0527-4015-80cb-a9b58bcec191",
+     "name": "Vinod Khosla",
+     "image": "https://i.imgur.com/Xe7nsvK.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "45e88126-95e2-4bb1-9c09-763ffc988268",
+     "name": "Osman Kibar",
+     "image": "https://i.imgur.com/N8QQz5N.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "3080a269-453f-4cab-81b3-1a6cc39f22fd",
+     "name": "Christian Latouche",
+     "image": "https://i.imgur.com/vidUk4W.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "5224c5f9-3f5e-4341-8f61-de07e9163179",
+     "name": "Thai Lee",
+     "image": "https://i.imgur.com/J9Jk46O.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "180563fc-bc7c-4413-adf2-971d8e69daff",
+     "name": "Liang Yunchao",
+     "image": "https://i.imgur.com/zUzzSD1.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "4aa6f404-a14f-48f3-a056-76e281fc24ae",
+     "name": "Lin Ming-hsiung",
+     "image": "https://i.imgur.com/sQh8Vx7.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "ce6dc53c-2a9e-4dd9-8408-689f63d598c1",
+     "name": "Jeffrey Lurie",
+     "image": "https://i.imgur.com/N7EqCul.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "ded32c05-9515-4d39-96f0-c3fa6eb9628d",
+     "name": "Igor Makarov",
+     "image": "https://i.imgur.com/VV73uc8.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "30ffd430-aa40-4236-acd1-2dbd71c7a630",
+     "name": "Bobby Murphy",
+     "image": "https://i.imgur.com/nlXRMiF.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "3dda4821-a07f-477d-bb3a-bedea7aae0a4",
+     "name": "Nandan Nilekani",
+     "image": "https://i.imgur.com/4nDqn9d.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "4c45ea11-8a15-45e9-9c36-7b159a6f7d05",
+     "name": "Husnu Ozyegin",
+     "image": "https://i.imgur.com/L4DqXfl.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "3c04a687-07bd-42e3-8a85-79b285af8026",
+     "name": "Alexey Repik",
+     "image": "https://i.imgur.com/OUA2O7R.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "6fd7d888-1f47-4fe3-9ccd-a6828637dcad",
+     "name": "Antony Ressler",
+     "image": "https://i.imgur.com/yxRsEME.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "b3d41464-9c51-4b29-bcce-546661d8f647",
+     "name": "Luigi Rovati",
+     "image": "https://i.imgur.com/Pgaxq5l.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "55fefbdf-b665-4e66-9c45-a52304be7f7d",
+     "name": "Shen Guojun",
+     "image": "https://i.imgur.com/6zrn1EN.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "77a9beb3-34ab-4ce5-b980-580be9a3c319",
+     "name": "Kavitark Ram Shriram",
+     "image": "https://i.imgur.com/K01GUBm.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "c251b4df-c15e-4fa5-a41f-a57986d660d2",
+     "name": "Evan Spiegel",
+     "image": "https://i.imgur.com/bPNC1DE.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "b94f8eb6-6f55-4125-bd8b-b1e501e03f4f",
+     "name": "Arvind Tiku",
+     "image": "https://i.imgur.com/5HsmnSO.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "29f7a3bd-b1b3-425c-9192-7fe73092dadc",
+     "name": "Georg von Opel",
+     "image": "https://i.imgur.com/PJAJOyk.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "4c129559-02c8-4d6d-8eb3-98ff76408841",
+     "name": "Elaine Wynn",
+     "image": "https://i.imgur.com/w49rwN3.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "9efc453d-faea-463f-9393-ac9b5427aef8",
+     "name": "Michael Ying",
+     "image": "https://i.imgur.com/04zEMTT.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "9d85b5ae-6498-4b82-a7c5-108469642f89",
+     "name": "Zhang Xiugen",
+     "image": "https://i.imgur.com/96VwavE.jpg",
+     "other": "#1116"
+    },
+    {
+     "persistedFaceId": "d2b66e1b-8009-4ba3-8a01-a7c9f9c5b556",
+     "name": "S. Daniel Abraham",
+     "image": "https://i.imgur.com/g22FTAR.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "66be1997-d5fb-4715-88ef-c68c8c79ab58",
+     "name": "Aziz Akhannouch",
+     "image": "https://i.imgur.com/Ja6SOX8.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "4b47bca5-b081-4f0d-9706-bcb606c3691e",
+     "name": "Leslie Alexander",
+     "image": "https://i.imgur.com/gqjWCUO.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "a4d426b6-1e72-4d82-b5c5-a6ae24c438fd",
+     "name": "Herbert Allen, Jr.",
+     "image": "https://i.imgur.com/cLkEZ8b.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "cfd92c0e-8c4b-411d-a751-d234401d473d",
+     "name": "Semahat Sevim Arsel",
+     "image": "https://i.imgur.com/US6QpNH.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "e2394447-e6ad-41bf-a083-808b08c071bb",
+     "name": "Thomas Bruch",
+     "image": "https://i.imgur.com/6S2KtUX.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "ace4dc80-7550-458c-8f8d-4df6c6cd0ff1",
+     "name": "Nikolai Buinov",
+     "image": "https://i.imgur.com/nCuorlz.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "5c60b3d2-abf1-463b-bc69-f18de7fd5436",
+     "name": "Chen Tei-Fu",
+     "image": "https://i.imgur.com/fBDGa6t.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "fbd467d0-cbd8-448b-b147-a86fa43382bf",
+     "name": "Chen Yung-Tai",
+     "image": "https://i.imgur.com/yYC8ReZ.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "e595c8d0-f0f3-43cd-b9bb-52a6edd258f0",
+     "name": "Steve Conine",
+     "image": "https://i.imgur.com/MyabXTG.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "2f15ec71-7d8c-4afc-88c0-444a6e0ce3cb",
+     "name": "Glenn Dubin",
+     "image": "https://i.imgur.com/U3oWUaZ.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "1fc2ca5e-151c-4be8-a8a5-9360957a2a81",
+     "name": "Frank Fertitta, III.",
+     "image": "https://i.imgur.com/YYwKP9J.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "ef4ff808-5f38-417b-b523-a4ccb0192b6d",
+     "name": "Lorenzo Fertitta",
+     "image": "https://i.imgur.com/2HcgAZU.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "9dbd912f-4b7f-482f-9371-be0b2fa2921f",
+     "name": "Phillip Frost",
+     "image": "https://i.imgur.com/Exk0pjG.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "36e3fa18-1250-459e-94be-54778f91350d",
+     "name": "Alexandre Grendene Bartelle",
+     "image": "https://i.imgur.com/s2lPzYg.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "427a67c6-4cae-432e-86f7-ebff05bc60c1",
+     "name": "Jeffrey Gundlach",
+     "image": "https://i.imgur.com/e4cckzn.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "327718ac-bfdb-44e6-a05c-d10cc1ef905f",
+     "name": "W. Herbert Hunt",
+     "image": "https://i.imgur.com/DdRKgMP.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "512f3d02-ace6-46fa-9a12-fe17f3304b1d",
+     "name": "Bruce Karsh",
+     "image": "https://i.imgur.com/fNmvYQZ.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "4410a660-4981-492f-94bf-8261cb54da51",
+     "name": "Martin Lau",
+     "image": "https://i.imgur.com/GnZycch.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "bd41d9f3-c0ff-428f-8c42-03c718ef4d24",
+     "name": "Lin Xiucheng",
+     "image": "https://i.imgur.com/JLKsy4j.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "9d97ae87-bc5b-490c-b50c-1542ce99db75",
+     "name": "Harald Link",
+     "image": "https://i.imgur.com/JZWlAte.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "52beafb5-d6d0-44e7-9e3c-ddaa51c1969e",
+     "name": "Lu Weiding",
+     "image": "https://i.imgur.com/fVk9CT3.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "109283c1-cb53-4687-82b1-2f14e098778d",
+     "name": "Rudy Ma",
+     "image": "https://i.imgur.com/S3EUHCA.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "c4fd9d2a-f643-4ca1-8259-3f03fe79acaa",
+     "name": "Howard Marks",
+     "image": "https://i.imgur.com/q94zWqi.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "a65ae1f2-edd3-43b1-8e1e-eca938803781",
+     "name": "Wang Wenbiao",
+     "image": "https://i.imgur.com/t0x77Wo.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "cf40e810-b4ca-4844-bf8f-a961984e0f30",
+     "name": "Eddie & Sol Zakay",
+     "image": "https://i.imgur.com/JJ5PgOD.jpg",
+     "other": "#1168"
+    },
+    {
+     "persistedFaceId": "e188afa4-5d50-458d-a791-ad7e98a0082c",
+     "name": "Aras Agalarov",
+     "image": "https://i.imgur.com/Zgz2xiN.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "86be7661-41ba-475c-aebd-df89aafdad04",
+     "name": "Albert Berner",
+     "image": "https://i.imgur.com/YAXqtLK.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "0e27598e-29c9-4592-a37c-fc6861bf4260",
+     "name": "Ahmet Calik",
+     "image": "https://i.imgur.com/Z1kI416.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "5724887c-92fd-42f6-ba93-8208ef43ef5d",
+     "name": "Chen Jianhua",
+     "image": "https://i.imgur.com/AGf1sjF.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "57ddb7c6-b052-4bcf-8860-32a042531e17",
+     "name": "Dermot Desmond",
+     "image": "https://i.imgur.com/dpXFBJa.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "81f084bd-1ff6-41da-8e1a-696753bad831",
+     "name": "Mohammed Dewji",
+     "image": "https://i.imgur.com/MwnhIqv.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "3c18f21b-f44d-4597-aaca-7df550026027",
+     "name": "Abhay Firodia",
+     "image": "https://i.imgur.com/8y2S0Th.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "24d8b005-614a-48ba-898b-a138ed71a72d",
+     "name": "Maria Franca Fissolo",
+     "image": "https://i.imgur.com/KWLbGAE.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "883eaa7e-067f-4e53-a065-f9f3ed5d5719",
+     "name": "Gao Dekang",
+     "image": "https://i.imgur.com/dkuKbLn.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "9fa20c79-1482-45c3-87ae-8759bd3cfe71",
+     "name": "Serge Godin",
+     "image": "https://i.imgur.com/Lxzvxbv.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "7c10311e-b6e2-4211-90c9-87c7463b0c60",
+     "name": "Sam Goi",
+     "image": "https://i.imgur.com/uv9ddSf.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "4e9096e2-4ff8-41b8-950b-abcbc9126cce",
+     "name": "David Hains",
+     "image": "https://i.imgur.com/Vho6KPM.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "bd6fb497-6f1c-4375-a4e6-a408837a3571",
+     "name": "Chang-Woo Han",
+     "image": "https://i.imgur.com/vBgnTfs.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "015556cc-53b6-4419-b376-9689c8752566",
+     "name": "William Heinecke",
+     "image": "https://i.imgur.com/3qtEZgf.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "38eb7bf6-a662-4d2d-ae72-cd712aed79bd",
+     "name": "Stanley Hubbard",
+     "image": "https://i.imgur.com/LPVaM5p.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "b6ea16c0-f4bf-4776-a990-25f29c431790",
+     "name": "Jim Kavanaugh",
+     "image": "https://i.imgur.com/MrS14y0.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "2e32e8e2-d1e3-4504-980a-4823190c735b",
+     "name": "Chris Larsen",
+     "image": "https://i.imgur.com/InHRIU5.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "75b0c8ae-ffff-4825-880e-3b9d1ef8bdb9",
+     "name": "Thomas Lau",
+     "image": "https://i.imgur.com/c5NHqrT.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "25bab1fc-86b4-490d-b04d-6196cff3f65a",
+     "name": "Kishore Mariwala",
+     "image": "https://i.imgur.com/SDPonad.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "29c349ed-b8dc-45bc-8b25-6e0299a853e7",
+     "name": "Miao Shouliang",
+     "image": "https://i.imgur.com/vfZUdAS.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "4cee34b4-4130-4c03-a20c-00441a698364",
+     "name": "Lachhman Das Mittal",
+     "image": "https://i.imgur.com/3cZbHLF.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "5ba4a1d4-4841-4397-9264-a67c85ecc63a",
+     "name": "David Murdock",
+     "image": "https://i.imgur.com/bPPnAVy.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "1ec233ef-e323-496d-81bb-17cac7a67447",
+     "name": "Nan Cunhui",
+     "image": "https://i.imgur.com/9V94ybo.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "f699c622-9976-4e04-bae1-8187d4304444",
+     "name": "Vikas Oberoi",
+     "image": "https://i.imgur.com/9W0r4va.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "c3c175d8-4257-494a-9e71-ba0e2b088f3e",
+     "name": "Ranjan Pai",
+     "image": "https://i.imgur.com/9ftRNpg.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "48d7da3d-bd6f-4415-a912-d54dc01342f2",
+     "name": "Jennifer Pritzker",
+     "image": "https://i.imgur.com/zUdyqaw.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "7fc8dadf-9964-4ad9-9ac2-d7b3558aa21c",
+     "name": "Linda Pritzker",
+     "image": "https://i.imgur.com/3Z3kybG.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "bd2d3e76-ec41-462f-8abf-8dc484832dab",
+     "name": "Larry Robbins",
+     "image": "https://i.imgur.com/PI2F8rX.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "15a31f86-bf67-4ba9-8fc8-30efc94ff970",
+     "name": "Jean Salata",
+     "image": "https://i.imgur.com/336NmBo.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "fe0f9ff8-70d6-47d2-b132-0f2aebc2ab2d",
+     "name": "Karl Scheufele, III.",
+     "image": "https://i.imgur.com/9Acyg5Z.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "3c92dac4-a347-4268-9af8-e53f25be77ac",
+     "name": "Hilton Schlosberg",
+     "image": "https://i.imgur.com/a9GdYw4.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "e6a53e85-f697-4690-8273-3569032e7701",
+     "name": "William Stone",
+     "image": "https://i.imgur.com/h9EXFmO.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "5fbaa2fa-a072-4e14-92ef-c56b752a79a3",
+     "name": "Alain Taravella",
+     "image": "https://i.imgur.com/zzRELYH.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "86aafc05-5c36-4ac7-bf0b-b2fce863800f",
+     "name": "Leena Tewari",
+     "image": "https://i.imgur.com/f6xK9So.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "5d509115-5e66-46bd-baa2-51967c561a09",
+     "name": "John Tyson",
+     "image": "https://i.imgur.com/y85zl90.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "76ca3957-46df-4a1d-8bc4-5fef33a4d96e",
+     "name": "David Zalik",
+     "image": "https://i.imgur.com/zG4MoLW.jpg",
+     "other": "#1227"
+    },
+    {
+     "persistedFaceId": "8eddc0b1-52f4-4819-92d9-f45feb74f231",
+     "name": "Melih Abdulhayoglu",
+     "image": "https://i.imgur.com/1hJDdjE.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "25e09720-f984-46f5-9d7a-3e2150bfe221",
+     "name": "Jaime Botin",
+     "image": "https://i.imgur.com/rwdeemD.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "e612a393-7f85-4816-8d2d-b1b5e6c9962b",
+     "name": "Julio Bozano",
+     "image": "https://i.imgur.com/swGM65d.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "85701eb0-c06e-4bcb-a3f5-033b98145948",
+     "name": "Chen Kaixuan",
+     "image": "https://i.imgur.com/Dv542Ie.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "dfedc226-9d75-4eac-83f5-937dcae049e6",
+     "name": "Vivien Chen",
+     "image": "https://i.imgur.com/0ekl421.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "56012d9a-1c9c-4f41-99ab-5b03b9f3fa45",
+     "name": "Chin Jong Hwa",
+     "image": "https://i.imgur.com/m1vuPjC.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "f9a8e517-d95a-4f1b-abcd-1b5aed2db144",
+     "name": "Christopher Cline",
+     "image": "https://i.imgur.com/w62TK0K.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "f22de1a5-23b6-4f83-9a48-c94012f42a09",
+     "name": "Jack Cowin",
+     "image": "https://i.imgur.com/g7CoIHZ.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "f018be4f-4b75-408f-a897-b56444b48f6d",
+     "name": "John de Mol",
+     "image": "https://i.imgur.com/Ehpgksq.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "16cb709a-3888-4e4b-a52b-192eb9e77418",
+     "name": "Robert Duggan",
+     "image": "https://i.imgur.com/EWSGkLy.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "edaaa63c-5e8b-479a-bc94-7905f878d677",
+     "name": "James France",
+     "image": "https://i.imgur.com/L4W33mi.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "b2b11ba5-0566-4ee5-a409-8a20f75b5c68",
+     "name": "Valentin Gapontsev",
+     "image": "https://i.imgur.com/odNfWz6.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "15952284-5ed3-42fc-b809-ac4011c216bf",
+     "name": "Harsh Goenka",
+     "image": "https://i.imgur.com/Zccffhu.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "0000ecfe-a2c7-4ffa-a8df-58c98dea1b70",
+     "name": "Sergei Gordeev",
+     "image": "https://i.imgur.com/gryCqaC.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "2aa09e56-91a1-4bfe-ac8c-baa20f460242",
+     "name": "Suat Gunsel",
+     "image": "https://i.imgur.com/E86xG4l.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "d344f021-7be1-4747-9ff2-51a5c2a17d6e",
+     "name": "Hortensia Herrero",
+     "image": "https://i.imgur.com/3KZ2buA.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "5faea42b-fe12-4be2-8dc6-2c67a773686a",
+     "name": "Jiang Weiping",
+     "image": "https://i.imgur.com/ABalqA9.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "9c3a4a26-29b3-4285-8b05-6c2290fd6b29",
+     "name": "Michael Jordan",
+     "image": "https://i.imgur.com/iw1bOrZ.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "59ae76cc-9d17-4a80-aff7-3aa2aaef9ab9",
+     "name": "Keeree Kanjanapas",
+     "image": "https://i.imgur.com/3ZoJjDc.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "d0c1af77-401b-441e-8199-435c7a3b0157",
+     "name": "William Koch",
+     "image": "https://i.imgur.com/juF3UiE.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "6f730001-cf40-4e03-a78f-1ee6a5b9e306",
+     "name": "Koo Kwang-mo",
+     "image": "https://i.imgur.com/h5upuoy.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "1af1ea5e-b134-4aab-aab9-a26173ed755e",
+     "name": "Christopher Kwok",
+     "image": "https://i.imgur.com/kL5Pf1P.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "63adf1c6-30c7-4ed4-80a7-40810822b294",
+     "name": "Raymond Kwok",
+     "image": "https://i.imgur.com/5zacuEx.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "7035d1fd-bd82-4dad-979b-34de9da45089",
+     "name": "Marc Lasry",
+     "image": "https://i.imgur.com/0znrvwr.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "426ab1c2-f393-420a-827c-11081bfdb929",
+     "name": "Lee Boo-jin",
+     "image": "https://i.imgur.com/ppMSL3S.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "4f28ba07-095a-43c0-9392-ec108d13f88e",
+     "name": "Michael Lee-Chin",
+     "image": "https://i.imgur.com/VMJJQCV.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "2967906b-1774-453f-964c-a4657b24f6a2",
+     "name": "Li Li",
+     "image": "https://i.imgur.com/Fm92vwr.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "20120696-68cf-4ba5-8171-0ffd36013f90",
+     "name": "David Lichtenstein",
+     "image": "https://i.imgur.com/6pB9iB2.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "676d0ef8-2fa7-4f2f-b3e9-43d65356f22e",
+     "name": "Yusaku Maezawa",
+     "image": "https://i.imgur.com/ZaycGuA.jpg",
+     "other": "#1281"
+    },
+    {
+     "persistedFaceId": "ddaa09d7-2b19-49d6-b62d-98ce70b7c023",
+     "name": "Manuel Moroun",
+     "image": "https://i.imgur.com/CfwhWZw.jpg",
+     "other": "#1281"
+    }
+   ]
