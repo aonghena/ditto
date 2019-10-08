@@ -40,7 +40,20 @@ input, select, button {
     z-index: 2;
 }
 
-img{
-    widows: 250;
-    height: 250px;
+#faceMatchTable {
+    margin: 0 auto;
+}
+
+#imageResultContainer{
+    padding-top: 20px;
+    display: flex;
+}
+
+.imageResult{
+    width: 400px;
+    height: 400px;
+}
+
+#userPhoto {
+    padding-right: 50px;
 }
