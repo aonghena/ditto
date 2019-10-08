@@ -57,3 +57,11 @@ input, select, button {
 #userPhoto {
     padding-right: 50px;
 }
+
+#innerImgTable {
+    width: 100%;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
