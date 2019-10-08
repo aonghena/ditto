@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/asset/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Ditto</title>
+</head>
+
+<body>
+    <div id="bgImg">
+    </div>
+    <div id="container">
+    </div>
+    <div id="content">
+        <form method="POST" action="/find">
+            <table id="faceMatchTable">
+                <tr>
+                    <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
+                </tr>
+                <tr>
+                    <td>
+                        <select>
+                            <option value="1">Billionaires</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="text" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
+                        <button type="submit"><i class="fa fa-search"></i></button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <div id="imageResultContainer">
+            <img id="userPhoto" class="imageResult" src="<%=face%>">
+            <img id="resultPhoto1" class="imageResult" src="<%=faceTo%>">
+        </div>
+    </div>
+</body>
+
+</html>
