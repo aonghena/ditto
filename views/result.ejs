@@ -26,15 +26,34 @@
                         </select>
                     </td>
                     <td>
-                        <input type="text" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
+                        <input type="text" placeholder="URL of Photo" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
                         <button type="submit"><i class="fa fa-search"></i></button>
                     </td>
                 </tr>
             </table>
         </form>
         <div id="imageResultContainer">
-            <img id="userPhoto" class="imageResult" src="<%=face%>">
-            <img id="resultPhoto1" class="imageResult" src="<%=faceTo%>">
+            <table id="imageResultTable">
+                <tr>
+                    <th>
+                        <img id="userPhoto" class="imageResult" src="<%=face%>">
+                    </th>
+                    <th>
+                        <img id="resultPhoto1" class="imageResult" src="<%=faceTo%>">
+                    </th>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><table id="innerImgTable">
+                        <tr>
+                            <td><%=faceName%></td>
+                        </tr>
+                        <tr>
+                            <td>You are a <strong><%=confidenceLevel%>%</strong> match look alike</td>
+                        </tr>
+                    </table></td>
+                </tr>
+            </table>
         </div>
     </div>
 </body>
