@@ -19,7 +19,7 @@ app.use('/asset', express.static("asset"));
 
 app.get('/', function(req, res){
     console.log(req.query);
-    res.render('index', {qs: req.query, face: "", faceTo: ""});//filled these bc I didn't know a better way atm
+    res.render('index', {qs: req.query});
 });
 
 //just outputs top face for now
@@ -29,6 +29,7 @@ app.post('/find', urlencodedParser,async function(req, res){
     var faceList = await find(faceId, 'billion');
     var topResult = faceList[0]['persistedFaceId'];
     console.log(topResult);
+    console.log(faceList[0]);
     var topImage = "";
     //This is used to search through json for url to use
     for (var i = 0; i < microsoftList.length; i++){
@@ -38,7 +39,7 @@ app.post('/find', urlencodedParser,async function(req, res){
            break;
         }
       }
-    res.render('index', {qs: req.query, face: face, faceTo: topImage});
+    res.render('result', {qs: req.query, face: face, faceTo: topImage}); // new change
 });
 
 
