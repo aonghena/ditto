@@ -15,7 +15,7 @@
     </div>
     <div id="content">
         <form method="POST" action="/find">
-            <table>
+            <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
                 </tr>
@@ -26,14 +26,12 @@
                         </select>
                     </td>
                     <td>
-                        <input type="text" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
+                        <input type="text" placeholder="URL of Photo" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
                         <button type="submit"><i class="fa fa-search"></i></button>
                     </td>
                 </tr>
             </table>
         </form>
-        <img src="<%=face%>">
-        <img src="<%=faceTo%>">
     </div>
 </body>
 
