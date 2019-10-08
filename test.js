@@ -28,18 +28,20 @@ app.post('/find', urlencodedParser,async function(req, res){
     var faceId = await detect(face, 'billion');
     var faceList = await find(faceId, 'billion');
     var topResult = faceList[0]['persistedFaceId'];
+    var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
     console.log(topResult);
     console.log(faceList[0]);
     var topImage = "";
+    var topImageName = "";
     //This is used to search through json for url to use
     for (var i = 0; i < microsoftList.length; i++){
         if (microsoftList[i].persistedFaceId == topResult){
             topImage = microsoftList[i].image;
-
+            topImageName = microsoftList[i].name;
            break;
         }
       }
-    res.render('result', {qs: req.query, face: face, faceTo: topImage}); // new change
+    res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
 });
 
 
