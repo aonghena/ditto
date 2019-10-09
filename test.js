@@ -26,26 +26,26 @@ app.get('/', function(req, res){
 app.post('/find', urlencodedParser,async function(req, res){
     var face = req.body.faceInput;
     var faceId = await detect(face, 'billion');
-    console.log(faceId);
+    //Invalid URL
     if(faceId == ""){
         res.render('result', {qs: "", face: "https://i.imgur.com/HxFCozp.jpg", faceTo: "https://i.imgur.com/HxFCozp.jpg", faceName: "", confidenceLevel: ""});
     }else{
-    var faceList = await find(faceId, 'billion');
-    var topResult = faceList[0]['persistedFaceId'];
-    var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
-    console.log(topResult);
-    console.log(faceList[0]);
-    var topImage = "";
-    var topImageName = "";
-    //This is used to search through json for url to use
-    for (var i = 0; i < microsoftList.length; i++){
-        if (microsoftList[i].persistedFaceId == topResult){
-            topImage = microsoftList[i].image;
-            topImageName = microsoftList[i].name;
-           break;
+        var faceList = await find(faceId, 'billion');
+        var topResult = faceList[0]['persistedFaceId'];
+        var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
+        console.log(topResult);
+        console.log(faceList[0]);
+        var topImage = "";
+        var topImageName = "";
+        //This is used to search through json for url to use
+        for (var i = 0; i < microsoftList.length; i++){
+            if (microsoftList[i].persistedFaceId == topResult){
+                topImage = microsoftList[i].image;
+                topImageName = microsoftList[i].name;
+            break;
+            }
         }
-      }
-    res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
+        res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
 }});
 
 

@@ -52,10 +52,12 @@ input, select, button {
 .imageResult{
     width: 400px;
     height: 400px;
+    border-radius: 10px;
 }
 
 #userPhoto {
     padding-right: 50px;
+    border-radius: 10px;
 }
 
 #innerImgTable {
@@ -64,4 +66,5 @@ input, select, button {
     color: black;
     background-color: white;
     text-align: center;
+    border-radius: 10px;
 }
