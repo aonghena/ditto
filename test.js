@@ -26,11 +26,12 @@ app.get('/', function(req, res){
 app.post('/find', urlencodedParser,async function(req, res){
     var face = req.body.faceInput;
     var faceId = await detect(face, 'billion');
+    console.log(faceId.faceId)
     //Invalid URL
-    if(faceId == ""){
+    if(faceId.error != undefined){
         res.render('result', {qs: "", face: "https://i.imgur.com/HxFCozp.jpg", faceTo: "https://i.imgur.com/HxFCozp.jpg", faceName: "", confidenceLevel: ""});
     }else{
-        var faceList = await find(faceId, 'billion');
+        var faceList = await find(faceId.faceId, 'billion');
         var topResult = faceList[0]['persistedFaceId'];
         var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
         console.log(topResult);
@@ -45,6 +46,7 @@ app.post('/find', urlencodedParser,async function(req, res){
             break;
             }
         }
+        console.log(topImage)
         res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
 }});
 
@@ -61,8 +63,8 @@ async function detect(photo, faceList){
             console.log(body);
             try{
                 result = JSON.parse(body);
-                faceId = result.faceId;
-                resolve(result.faceId);
+                console.log(result[0])
+                resolve(result[0]);
             }catch(e){
                 resolve("");
             }
