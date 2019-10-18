@@ -26,9 +26,7 @@ app.get('/', function(req, res){
 app.post('/find', urlencodedParser,async function(req, res){
     var face = req.body.faceInput;
     var faceId = await detect(face, 'billion');
-    console.log(faceId.faceId)
-    //Invalid URL
-    if(faceId.error != undefined){
+    if(faceId == undefined){
         res.render('result', {qs: "", face: "https://i.imgur.com/HxFCozp.jpg", faceTo: "https://i.imgur.com/HxFCozp.jpg", faceName: "", confidenceLevel: ""});
     }else{
         var faceList = await find(faceId.faceId, 'billion');
