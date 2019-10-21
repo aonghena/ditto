@@ -14,7 +14,7 @@
     <div id="container">
     </div>
     <div id="content">
-        <form method="POST" action="/find">
+        <form method="POST" enctype="multipart/form-data"  action="/find">
             <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
@@ -26,8 +26,8 @@
                         </select>
                     </td>
                     <td>
-                        <input type="text" placeholder="URL of Photo" id="faceInput" name="faceInput" value="<%=qs.userInput%>">
-                        <button type="submit"><i class="fa fa-search"></i></button>
+                        <input type="file" id="fileInput" name="find" accept="image/png, image/jpeg">
+                        <button type="submit" value="find" ><i class="fa fa-search"></i></button>
                     </td>
                 </tr>
             </table>
