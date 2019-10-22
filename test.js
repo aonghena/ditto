@@ -36,8 +36,8 @@ async function getPhoto(req){
             console.log(typeof file.name);
             if(file.name != ""){
                 //change if runnning locally
-                file.path = __dirname + "/uploads/" + file.name.toUpperCase()
-                face = "http://157.245.127.122/" + file.name.toUpperCase() + " "
+                file.path = __dirname + "/uploads/" + file.name
+                face = "http://157.245.127.122/" + file.name
                 ///
                 face.trim()
                 resolve(face);
@@ -58,6 +58,12 @@ app.post('/find', urlencodedParser,async function(req, res){
     }
     console.log(face)
     var faceId = await detect(face);
+    //sometimes the API acts weird so we make another one just incase
+    //Short $MSFT
+    if (typeof faceId == "undefined"){
+        console.log(faceId);
+        faceId = await detect(face+" ")
+    }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
         res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: ""});
