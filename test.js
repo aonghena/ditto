@@ -6,8 +6,8 @@ var bodyParser = require('body-parser');
 var formidable = require('formidable');
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 const fs = require('fs');
-let rawdata = fs.readFileSync('billionaires.json');
-let microsoftList = JSON.parse(rawdata);
+let billionLL = fs.readFileSync('billionaires.json');
+let billionaireList = JSON.parse(billionLL);
 const path = require("path");
 http = require('http'),
 util = require('util');
@@ -30,14 +30,14 @@ app.get("/:image", (req, res) => {
 });
 
 //captures user image from forum
-async function getPhoto(req){
+async function getPhoto(req, rnd){
     return new Promise(function(resolve, reject){formidable.IncomingForm().parse(req)
         .on('fileBegin', async function(name, file){
             console.log(typeof file.name);
             if(file.name != ""){
                 //change if runnning locally
-                file.path = __dirname + "/uploads/" + file.name
-                face = "http://157.245.127.122/" + file.name
+                file.path = __dirname + "/uploads/" + rnd + file.name
+                face = "http://157.245.127.122/" + rnd + file.name
                 ///
                 face.trim()
                 resolve(face);
@@ -49,20 +49,26 @@ async function getPhoto(req){
 }
 //just outputs top face for now
 app.post('/find', urlencodedParser,async function(req, res){
-    var face  = await getPhoto(req)
+    var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);
+    var face  = await getPhoto(req, rnd)
     //if no photo
     if(face == "fuck"){
         console.log("caught")
         res.render('index', {qs: req.query});
         return
     }
-    console.log(face)
     var faceId = await detect(face);
-    //sometimes the API acts weird so we make another one just incase
-    //Short $MSFT
+
+    //sometimes the API wants to act weird
     if (typeof faceId == "undefined"){
         console.log(faceId);
+        //The space somehow fixes this
         faceId = await detect(face+" ")
+    }
+    //Sometimes the API is stubborn AF and won't return cool stats
+    if (typeof faceId == "undefined"){
+        console.log(faceId);
+        faceId = await detect1(face)
     }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
@@ -74,16 +80,21 @@ app.post('/find', urlencodedParser,async function(req, res){
         var topImage = "";
         var topImageName = "";
         //This is used to search through json for url to use
-        for (var i = 0; i < microsoftList.length; i++){
-            if (microsoftList[i].persistedFaceId == topResult){
-                topImage = microsoftList[i].image;
-                topImageName = microsoftList[i].name;
+        for (var i = 0; i < billionaireList.length; i++){
+            if (billionaireList[i].persistedFaceId == topResult){
+                topImage = billionaireList[i].image;
+                topImageName = billionaireList[i].name;
             break;
             }
         }
         res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
 }});
 
+
+/**
+ * Returns Full Face features when detect is called
+ * @param {*} photo 
+ */
 async function detect(photo){ 
     return new Promise(function(resolve, reject){request({
         headers: {
@@ -102,6 +113,30 @@ async function detect(photo){
         })
     })
 }
+
+/**
+ * Returns no face features, but has a higher success rate with bad photos
+ * @param {} photo 
+ */
+async function detect1(photo){ 
+    return new Promise(function(resolve, reject){request({
+        headers: {
+            'token' : 'AVeJyhfQVU25HEDtzA5GQ7fkjDqs7d',
+            'url' : photo
+        },
+        uri: 'http://157.245.127.122:6978/detect1',
+        method: 'GET'
+      }, function (err, res, body) {
+            try{
+                result = JSON.parse(body);
+                resolve(result[0]);
+            }catch(e){
+                resolve("");
+            }
+        })
+    })
+}
+
 
 async function find(faceId, faceList){
     return new Promise(function(resolve, reject){request({
