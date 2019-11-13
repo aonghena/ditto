@@ -14,7 +14,7 @@
     <div id="container">
     </div>
     <div id="content">
-        <form method="POST" enctype="multipart/form-data"  action="/find">
+        <form method="POST" enctype="multipart/form-data" action="/find">
             <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
@@ -27,7 +27,7 @@
                     </td>
                     <td>
                         <input type="file" id="fileInput" name="find" accept="image/png, image/jpeg">
-                        <button type="submit" value="find" ><i class="fa fa-search"></i></button>
+                        <button type="submit" value="find"><i class="fa fa-search"></i></button>
                     </td>
                 </tr>
             </table>
@@ -44,14 +44,40 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><table id="innerImgTable">
-                        <tr>
-                            <td><%=faceName%></td>
-                        </tr>
-                        <tr>
-                            <td>You are a <strong><%=confidenceLevel%>%</strong> match look alike</td>
-                        </tr>
-                    </table></td>
+                    <td>
+                        <table id="innerImgTable">
+                            <tr>
+                                <td><%=faceName%></td>
+                            </tr>
+                            <tr>
+                                <td>You are a <strong><%=confidenceLevel%>%</strong> match look alike</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table id="userFaceDetails">
+                            <% for (elem in userDetails) {%>
+                                <%if (typeof userDetails[elem] != "object") {%>
+                                    <tr>
+                                        <td><span class="detailHead"><%=elem%></span><%=": " + userDetails[elem]%></td>
+                                    </tr>
+                                <%} else {%>
+                                    <tr>
+                                        <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
+                                    </tr>
+                                    <% for (inner in userDetails[elem]) {%>
+                                        <tr>
+                                            <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
+                                        </tr>
+                                    <%}%>
+                                    <td>}</td>
+                                <%}%>
+                            <%}%>
+                        </table>
+                    </td>
+                    <td></td>
                 </tr>
             </table>
         </div>
