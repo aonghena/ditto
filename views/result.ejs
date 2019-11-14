@@ -3,10 +3,32 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="/asset/style.css">
+    <link rel="stylesheet" href="/asset/result.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Ditto</title>
 </head>
+<script>
+    function toggleUser() {
+        var x = document.getElementById("userFaceDetails");
+        if (x.style.display === "") {
+            x.style.display = "block";
+            document.getElementById('userDetailsButton').text = "Hide User Details"
+        } else {
+            x.style.display = "";
+            document.getElementById('userDetailsButton').text = "Show User Details"
+        }
+    }
+    function toggleMatch() {
+        var x = document.getElementById("matchFaceDetails");
+        if (x.style.display === "") {
+            x.style.display = "block";
+            document.getElementById('matchDetailsButton').text = "Hide <%=faceName%> \'s Details";
+        } else {
+            x.style.display = "";
+            document.getElementById('matchDetailsButton').text = "Show <%=faceName%> \'s Details";
+        }
+    }
+</script>
 
 <body>
     <div id="bgImg">
@@ -14,7 +36,7 @@
     <div id="container">
     </div>
     <div id="content">
-        <form method="POST" enctype="multipart/form-data" action="/find">
+        <form id="submissionForm" method="POST" enctype="multipart/form-data" action="/find">
             <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
@@ -43,9 +65,15 @@
                     </th>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td id="userImgTableParent">
+                        <table id="userInnerImgTable">
+                            <tr>
+                                <td rowspan="2">User Submitted Photo</td>
+                            </tr>
+                        </table>
+                    </td>
                     <td>
-                        <table id="innerImgTable">
+                        <table id="matchInnerImgTable">
                             <tr>
                                 <td><%=faceName%></td>
                             </tr>
@@ -56,28 +84,52 @@
                     </td>
                 </tr>
                 <tr>
+                    <td><a href="#" id="userDetailsButton" onclick="toggleUser()">Show User Details</a></td>
+                    <td><a href="#" id="matchDetailsButton" onclick="toggleMatch()">Show <%=faceName%>'s Details</a></td>
+                </tr>
+                <tr>
                     <td>
                         <table id="userFaceDetails">
                             <% for (elem in userDetails) {%>
-                                <%if (typeof userDetails[elem] != "object") {%>
-                                    <tr>
-                                        <td><span class="detailHead"><%=elem%></span><%=": " + userDetails[elem]%></td>
-                                    </tr>
-                                <%} else {%>
-                                    <tr>
-                                        <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
-                                    </tr>
-                                    <% for (inner in userDetails[elem]) {%>
-                                        <tr>
-                                            <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
-                                        </tr>
-                                    <%}%>
-                                    <td>}</td>
-                                <%}%>
+                            <%if (typeof userDetails[elem] != "object") {%>
+                            <tr>
+                                <td><span class="detailHead"><%=elem%></span><%=": " + userDetails[elem]%></td>
+                            </tr>
+                            <%} else {%>
+                            <tr>
+                                <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
+                            </tr>
+                            <% for (inner in userDetails[elem]) {%>
+                            <tr>
+                                <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
+                            </tr>
+                            <%}%>
+                            <td>}</td>
+                            <%}%>
                             <%}%>
                         </table>
                     </td>
-                    <td></td>
+                    <td>
+                        <table id="matchFaceDetails">
+                        <% for (elem in matchDetails) {%>
+                        <%if (typeof matchDetails[elem] != "object") {%>
+                        <tr>
+                            <td><span class="detailHead"><%=elem%></span><%=": " + matchDetails[elem]%></td>
+                        </tr>
+                        <%} else {%>
+                        <tr>
+                            <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
+                        </tr>
+                        <% for (inner in matchDetails[elem]) {%>
+                        <tr>
+                            <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + matchDetails[elem][inner]%></td>
+                        </tr>
+                        <%}%>
+                            <td>}</td>
+                        <%}%>
+                        <%}%>
+                        </table>    
+                    </td>
                 </tr>
             </table>
         </div>
