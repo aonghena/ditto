@@ -3,7 +3,6 @@ var result = "";
 var express= require('express');
 var app = express();
 var bodyParser = require('body-parser');
-var formidable = require('formidable');
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 const fs = require('fs');
 const path = require("path");
@@ -29,27 +28,24 @@ app.get("/:image", (req, res) => {
 });
 
 //captures user image from forum
-async function getPhoto(req, rnd){
-    return new Promise(function(resolve, reject){formidable.IncomingForm().parse(req)
-        .on('fileBegin', async function(name, file){
-            if(file.name != ""){
-                //change if runnning locally
-                file.path = __dirname + "/uploads/" + rnd + file.name
-                face = "http://157.245.127.122/" + rnd + file.name
-                ///
-                face.trim()
-                resolve(face);
-            }else{
-                resolve("fuck");
-            }
-        })
+async function getPhoto(files){
+    var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);//salt
+    return new Promise(function(resolve, reject){
+        if (files) {
+            files.map(file => {
+            const saveTo = path.join(__dirname,"/uploads/" ,rnd + path.basename(file.filename))
+            var face = "http://157.245.127.122/" + rnd + file.filename
+            file.pipe(fs.createWriteStream(saveTo))
+            resolve(face)
+        })}
     })
 }
+
 //just outputs top face for now
 app.post('/find', urlencodedParser,async function(req, res){
-    var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);
-    let {fields} = await asyncBusboy(req)
-    var face = await getPhoto(req,rnd)
+    let { fields, files } = await asyncBusboy(req)
+    var face = await getPhoto(files)
+    //face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
     //if no photo
     if(face == "fuck"){
         console.log("caught")
@@ -59,18 +55,15 @@ app.post('/find', urlencodedParser,async function(req, res){
     var faceId = await detect(face);
     //sometimes the API wants to act weird
     if (typeof faceId == "undefined"){
-        console.log(faceId);
-        //The space somehow fixes this
         faceId = await detect(face+" ")
         //Sometimes the API is stubborn AF and won't return cool stats
         if (typeof faceId == "undefined"){
-            console.log(faceId);
             faceId = await detect1(face)
         }
     }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
-        res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: ""});
+        res.render('result', {qs: "", face: "https://i.imgur.com/hVdj43Y.jpg", faceTo: "https://i.imgur.com/07cVd1J.png", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: ""});
     }else{
         var faceList = await find(faceId.faceId, fields.list);
         var faceAttributes = faceId.faceAttributes;
@@ -87,8 +80,13 @@ app.post('/find', urlencodedParser,async function(req, res){
             break;
             }
         }
+        //match detection
         var topImageDetect = await detect(topImage);
-        var topImageAttributes = topImageDetect.faceAttributes;
+        var topImageAttributes = ""
+        if(typeof topImageDetect != "undefined"){
+            topImageAttributes = topImageDetect.faceAttributes;
+        }
+        
         res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence, userDetails: faceAttributes, matchDetails: topImageAttributes});
 }});
 

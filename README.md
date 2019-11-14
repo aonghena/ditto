@@ -9,7 +9,6 @@ test.js will need to be altered to run on local machines since it depends on a s
 #### todo:  
 -categories  
 -3 photo output  
--stat output  
 -mobileview  
 -social media sharing  
 -other  

@@ -61,8 +61,8 @@ input, select, button {
 }
 
 .imageResult{
-    width: 400px;
-    height: 400px;
+    max-width: 400px;
+    max-height: 400px;
     border-radius: 10px;
 }
 
