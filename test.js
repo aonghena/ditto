@@ -12,7 +12,7 @@ const path = require("path");
 http = require('http'),
 util = require('util');
 
-app.listen(80);
+app.listen(8080);
 
 app.set('view engine', 'ejs');
 
@@ -50,7 +50,7 @@ async function getPhoto(req, rnd){
 //just outputs top face for now
 app.post('/find', urlencodedParser,async function(req, res){
     var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);
-    var face  = await getPhoto(req, rnd)
+    var face  = "https://cdn.discordapp.com/attachments/379367230913118208/628390874489028649/unknown.png";
     //if no photo
     if(face == "fuck"){
         console.log("caught")
@@ -75,6 +75,7 @@ app.post('/find', urlencodedParser,async function(req, res){
         res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: ""});
     }else{
         var faceList = await find(faceId.faceId, 'billion');
+        var faceAttributes = faceId.faceAttributes;
         var topResult = faceList[0]['persistedFaceId'];
         var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
         var topImage = "";
@@ -87,7 +88,9 @@ app.post('/find', urlencodedParser,async function(req, res){
             break;
             }
         }
-        res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence});
+        var topImageDetect = await detect(topImage);
+        var topImageAttributes = topImageDetect.faceAttributes;
+        res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence, userDetails: faceAttributes, matchDetails: topImageAttributes});
 }});
 
 
@@ -106,6 +109,7 @@ async function detect(photo){
       }, function (err, res, body) {
             try{
                 result = JSON.parse(body);
+                console.log(result[0]);
                 resolve(result[0]);
             }catch(e){
                 resolve("");
