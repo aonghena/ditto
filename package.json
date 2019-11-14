@@ -4,11 +4,13 @@
   "description": "ditto repo",
   "main": "index.js",
   "dependencies": {
+    "async-busboy": "^0.7.0",
     "body-parser": "^1.19.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "formidable": "^1.2.1",
     "imgur": "^0.3.1",
+    "multipart": "^0.1.5",
     "promise": "^8.0.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"

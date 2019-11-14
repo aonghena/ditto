@@ -9,6 +9,7 @@ const fs = require('fs');
 const path = require("path");
 http = require('http'),
 util = require('util');
+const asyncBusboy = require('async-busboy')
 
 app.listen(80);
 
@@ -31,7 +32,6 @@ app.get("/:image", (req, res) => {
 async function getPhoto(req, rnd){
     return new Promise(function(resolve, reject){formidable.IncomingForm().parse(req)
         .on('fileBegin', async function(name, file){
-            console.log(typeof file.name);
             if(file.name != ""){
                 //change if runnning locally
                 file.path = __dirname + "/uploads/" + rnd + file.name
@@ -48,9 +48,8 @@ async function getPhoto(req, rnd){
 //just outputs top face for now
 app.post('/find', urlencodedParser,async function(req, res){
     var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);
+    let {fields} = await asyncBusboy(req)
     var face = await getPhoto(req,rnd)
-    //var face  = "https://cdn.discordapp.com/attachments/379367230913118208/628390874489028649/unknown.png";
-
     //if no photo
     if(face == "fuck"){
         console.log("caught")
@@ -58,30 +57,29 @@ app.post('/find', urlencodedParser,async function(req, res){
         return
     }
     var faceId = await detect(face);
-
     //sometimes the API wants to act weird
     if (typeof faceId == "undefined"){
         console.log(faceId);
         //The space somehow fixes this
         faceId = await detect(face+" ")
-    }
-    //Sometimes the API is stubborn AF and won't return cool stats
-    if (typeof faceId == "undefined"){
-        console.log(faceId);
-        faceId = await detect1(face)
+        //Sometimes the API is stubborn AF and won't return cool stats
+        if (typeof faceId == "undefined"){
+            console.log(faceId);
+            faceId = await detect1(face)
+        }
     }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
         res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: ""});
     }else{
-        var faceList = await find(faceId.faceId, req.body.list);
+        var faceList = await find(faceId.faceId, fields.list);
         var faceAttributes = faceId.faceAttributes;
         var topResult = faceList[0]['persistedFaceId'];
         var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
         var topImage = "";
         var topImageName = "";
         //This is used to search through json for url to use
-        litList = JSON.parse(fs.readFileSync(req.body.list+'.json'))
+        litList = JSON.parse(fs.readFileSync(fields.list+'.json'))
         for (var i = 0; i < litList.length; i++){
             if (litList[i].persistedFaceId == topResult){
                 topImage = litList[i].image;
