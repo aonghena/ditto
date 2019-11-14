@@ -33,10 +33,14 @@ async function getPhoto(files){
     return new Promise(function(resolve, reject){
         if (files) {
             files.map(file => {
-            const saveTo = path.join(__dirname,"/uploads/" ,rnd + path.basename(file.filename))
-            var face = "http://157.245.127.122/" + rnd + file.filename
-            file.pipe(fs.createWriteStream(saveTo))
-            resolve(face)
+            if(typeof(files.name) != "undefined"){
+                const saveTo = path.join(__dirname,"/uploads/" ,rnd + path.basename(file.filename))
+                var face = "http://157.245.127.122/" + rnd + file.filename
+                file.pipe(fs.createWriteStream(saveTo))
+                resolve(face)
+            }else{
+                resolve("fuck")
+            }
         })}
     })
 }
@@ -45,8 +49,9 @@ async function getPhoto(files){
 app.post('/find', urlencodedParser,async function(req, res){
     let { fields, files } = await asyncBusboy(req)
     var face = await getPhoto(files)
-    //face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
+    face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
     //if no photo
+    console.log(face)
     if(face == "fuck"){
         console.log("caught")
         res.render('index', {qs: req.query});
