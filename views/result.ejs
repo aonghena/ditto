@@ -36,20 +36,22 @@
     <div id="container">
     </div>
     <div id="content">
-        <form id="submissionForm" method="POST" enctype="multipart/form-data" action="/find">
+        <form method="POST" action="/find">
             <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
                 </tr>
                 <tr>
                     <td>
-                        <select>
-                            <option value="1">Billionaires</option>
+                        <select name="list">
+                                <option name="billion" value="billion">Billionaires</option>
+                                <option name="actors" value="actors">Actors</option>
+                                <option name="presidents" value="presidents">Presidents</option>
                         </select>
                     </td>
                     <td>
                         <input type="file" id="fileInput" name="find" accept="image/png, image/jpeg">
-                        <button type="submit" value="find"><i class="fa fa-search"></i></button>
+                        <button type="submit" value="find" ><i class="fa fa-search"></i></button>
                     </td>
                 </tr>
             </table>
@@ -68,7 +70,7 @@
                     <td id="userImgTableParent">
                         <table id="userInnerImgTable">
                             <tr>
-                                <td rowspan="2">User Submitted Photo</td>
+                                <td rowspan="2">Your Photo</td>
                             </tr>
                         </table>
                     </td>
@@ -84,7 +86,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><a href="#" id="userDetailsButton" onclick="toggleUser()">Show User Details</a></td>
+                    <td><a href="#" id="userDetailsButton" onclick="toggleUser()">Show Your Details</a></td>
                     <td><a href="#" id="matchDetailsButton" onclick="toggleMatch()">Show <%=faceName%>'s Details</a></td>
                 </tr>
                 <tr>

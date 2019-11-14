@@ -15,15 +15,17 @@
     <div id="container">
     </div>
     <div id="content">
-        <form method="POST" enctype="multipart/form-data" action="/find">
+        <form method="POST" action="/find">
             <table id="faceMatchTable">
                 <tr>
                     <td colspan="2" style="text-align:center;"><label id="faceInputLabel">Face Match</label></td>
                 </tr>
                 <tr>
                     <td>
-                        <select>
-                            <option value="1">Billionaires</option>
+                        <select name="list">
+                                <option name="billion" value="billion">Billionaires</option>
+                                <option name="actors" value="actors">Actors</option>
+                                <option name="presidents" value="presidents">Presidents</option>
                         </select>
                     </td>
                     <td>

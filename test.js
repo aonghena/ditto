@@ -6,13 +6,11 @@ var bodyParser = require('body-parser');
 var formidable = require('formidable');
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 const fs = require('fs');
-let billionLL = fs.readFileSync('billionaires.json');
-let billionaireList = JSON.parse(billionLL);
 const path = require("path");
 http = require('http'),
 util = require('util');
 
-app.listen(8080);
+app.listen(80);
 
 app.set('view engine', 'ejs');
 
@@ -50,7 +48,9 @@ async function getPhoto(req, rnd){
 //just outputs top face for now
 app.post('/find', urlencodedParser,async function(req, res){
     var rnd = Math.random().toString(36).substring(2, 9) + Math.random().toString(36).substring(2, 9);
-    var face  = "https://cdn.discordapp.com/attachments/379367230913118208/628390874489028649/unknown.png";
+    var face = await getPhoto(req,rnd)
+    //var face  = "https://cdn.discordapp.com/attachments/379367230913118208/628390874489028649/unknown.png";
+
     //if no photo
     if(face == "fuck"){
         console.log("caught")
@@ -72,19 +72,20 @@ app.post('/find', urlencodedParser,async function(req, res){
     }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
-        res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: ""});
+        res.render('result', {qs: "", face: "https://i.imgur.com/hZ3Ngi6.jpg", faceTo: "https://i.imgur.com/hZ3Ngi6.jpg", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: ""});
     }else{
-        var faceList = await find(faceId.faceId, 'billion');
+        var faceList = await find(faceId.faceId, req.body.list);
         var faceAttributes = faceId.faceAttributes;
         var topResult = faceList[0]['persistedFaceId'];
         var topResultConfidence = Math.ceil(faceList[0]['confidence'] * 100);
         var topImage = "";
         var topImageName = "";
         //This is used to search through json for url to use
-        for (var i = 0; i < billionaireList.length; i++){
-            if (billionaireList[i].persistedFaceId == topResult){
-                topImage = billionaireList[i].image;
-                topImageName = billionaireList[i].name;
+        litList = JSON.parse(fs.readFileSync(req.body.list+'.json'))
+        for (var i = 0; i < litList.length; i++){
+            if (litList[i].persistedFaceId == topResult){
+                topImage = litList[i].image;
+                topImageName = litList[i].name;
             break;
             }
         }
@@ -109,7 +110,6 @@ async function detect(photo){
       }, function (err, res, body) {
             try{
                 result = JSON.parse(body);
-                console.log(result[0]);
                 resolve(result[0]);
             }catch(e){
                 resolve("");
