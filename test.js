@@ -33,7 +33,7 @@ async function getPhoto(files){
     return new Promise(function(resolve, reject){
         if (files) {
             files.map(file => {
-            if(typeof(files.name) != "undefined"){
+            if(typeof(file.filename) != ""){
                 const saveTo = path.join(__dirname,"/uploads/" ,rnd + path.basename(file.filename))
                 var face = "http://157.245.127.122/" + rnd + file.filename
                 file.pipe(fs.createWriteStream(saveTo))
@@ -68,7 +68,7 @@ app.post('/find', urlencodedParser,async function(req, res){
     }
     //if not matches or API is down
     if(typeof faceId == 'undefined'){
-        res.render('result', {qs: "", face: "https://i.imgur.com/hVdj43Y.jpg", faceTo: "https://i.imgur.com/07cVd1J.png", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: ""});
+        res.render('result', {qs: "", face: "https://i.imgur.com/hVdj43Y.jpg", faceTo: "https://i.imgur.com/07cVd1J.png", faceName: "", confidenceLevel: "", userDetails: "", matchDetails: "",  selectedListOption: "" });
     }else{
         var faceList = await find(faceId.faceId, fields.list);
         var faceAttributes = faceId.faceAttributes;
