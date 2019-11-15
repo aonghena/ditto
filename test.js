@@ -33,7 +33,7 @@ async function getPhoto(files){
     return new Promise(function(resolve, reject){
         if (files) {
             files.map(file => {
-            if(typeof(file.filename) != ""){
+            if(file.filename != ""){
                 const saveTo = path.join(__dirname,"/uploads/" ,rnd + path.basename(file.filename))
                 var face = "http://157.245.127.122/" + rnd + file.filename
                 file.pipe(fs.createWriteStream(saveTo))
