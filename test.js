@@ -10,7 +10,7 @@ http = require('http'),
 util = require('util');
 const asyncBusboy = require('async-busboy')
 
-app.listen(80);
+app.listen(8080);
 
 app.set('view engine', 'ejs');
 
@@ -92,7 +92,7 @@ app.post('/find', urlencodedParser,async function(req, res){
             topImageAttributes = topImageDetect.faceAttributes;
         }
         
-        res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence, userDetails: faceAttributes, matchDetails: topImageAttributes});
+        res.render('result', {qs: req.query, face: face, faceTo: topImage, faceName: topImageName, confidenceLevel: topResultConfidence, userDetails: faceAttributes, matchDetails: topImageAttributes, selectedListOption: fields.list});
 }});
 
 
