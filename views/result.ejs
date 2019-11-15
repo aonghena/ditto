@@ -28,6 +28,9 @@
             document.getElementById('matchDetailsButton').text = "Show <%=faceName%> \'s Details";
         }
     }
+    document.addEventListener("DOMContentLoaded", function(){
+        document.getElementById('list').value = "<%=selectedListOption%>";
+    });
 </script>
 
 <body>
@@ -43,7 +46,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <select name="list">
+                        <select name="list" id="list">
                                 <option name="billion" value="billion">Billionaires</option>
                                 <option name="actors" value="actors">Actors</option>
                                 <option name="presidents" value="presidents">Presidents</option>
@@ -137,5 +140,4 @@
         </div>
     </div>
 </body>
-
 </html>
