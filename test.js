@@ -10,7 +10,7 @@ http = require('http'),
 util = require('util');
 const asyncBusboy = require('async-busboy')
 
-app.listen(8080);
+app.listen(80);
 
 app.set('view engine', 'ejs');
 
@@ -49,7 +49,7 @@ async function getPhoto(files){
 app.post('/find', urlencodedParser,async function(req, res){
     let { fields, files } = await asyncBusboy(req)
     var face = await getPhoto(files)
-    face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
+    //face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
     //if no photo
     console.log(face)
     if(face == "fuck"){
