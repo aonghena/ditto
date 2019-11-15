@@ -50,7 +50,6 @@
                                 <option name="billion" value="billion">Billionaires</option>
                                 <option name="actors" value="actors">Actors</option>
                                 <option name="presidents" value="presidents">Presidents</option>
-                                <option name="nba" value="nba">NBA Players</option>
                         </select>
                     </td>
                     <td>
@@ -97,6 +96,9 @@
                     <td>
                         <table id="userFaceDetails">
                             <% for (elem in userDetails) {%>
+                            <%if (elem == "accessories") {%>
+                                <%continue%>
+                            <%}%>        
                             <%if (typeof userDetails[elem] != "object") {%>
                             <tr>
                                 <td><span class="detailHead"><%=elem%></span><%=": " + userDetails[elem]%></td>
@@ -106,6 +108,9 @@
                                 <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
                             </tr>
                             <% for (inner in userDetails[elem]) {%>
+                            <%if (inner == "hairColor") {%>
+                                <%continue%>
+                            <%}%>
                             <tr>
                                 <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
                             </tr>
@@ -118,6 +123,9 @@
                     <td>
                         <table id="matchFaceDetails">
                         <% for (elem in matchDetails) {%>
+                        <%if (elem == "accessories") {%>
+                            <%continue%>
+                        <%}%>         
                         <%if (typeof matchDetails[elem] != "object") {%>
                         <tr>
                             <td><span class="detailHead"><%=elem%></span><%=": " + matchDetails[elem]%></td>
@@ -127,6 +135,9 @@
                             <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
                         </tr>
                         <% for (inner in matchDetails[elem]) {%>
+                            <%if (inner == "hairColor") {%>
+                                <%continue%>
+                            <%}%>
                         <tr>
                             <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + matchDetails[elem][inner]%></td>
                         </tr>
