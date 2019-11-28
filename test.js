@@ -49,7 +49,7 @@ async function getPhoto(files){
 app.post('/find', urlencodedParser,async function(req, res){
     let { fields, files } = await asyncBusboy(req)
     var face = await getPhoto(files)
-    //face = 'http://157.245.127.122/geqgbjp048wep1ram_kumar.jpg'
+    //face = 'https://i.imgur.com/1W68GWE.jpg'
     //if no photo
     console.log(face)
     if(face == "fuck"){

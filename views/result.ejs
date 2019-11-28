@@ -38,6 +38,7 @@
     <script src="asset/particles1.js"></script>
     <div id="container">
     </div>
+
     <div id="content">
             <table id="faceMatchTable">
                 <tr>
@@ -51,12 +52,18 @@
                                 <option name="actors" value="actors">Actors</option>
                                 <option name="presidents" value="presidents">Presidents</option>
                                 <option name="nba" value="nba">NBA Players</option>
+                                <option name="tennis" value="tennis">Tennis Players</option>
                         </select>
                     </td>
                     <td>
                         <input type="file" id="fileInput" name="find" accept="image/png, image/jpeg">
                         <button type="submit" value="find" ><i class="fa fa-search"></i></button>
                     </td>
+                    <% if (faceTo != "https://i.imgur.com/07cVd1J.png"){ %>
+                    <td>
+                            <a href="https://twitter.com/intent/tweet?button_hashtag=tweet&ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Look Who I matched within my ditto.tech" data-url="<%=face%>" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </td>
+                    <%}%>
                 </tr>
             </table>
         </form>
