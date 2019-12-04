@@ -12,10 +12,10 @@
         var x = document.getElementById("userFaceDetails");
         if (x.style.display === "") {
             x.style.display = "block";
-            document.getElementById('userDetailsButton').text = "Hide User Details"
+            document.getElementById('userDetailsButton').text = "Hide Your Details"
         } else {
             x.style.display = "";
-            document.getElementById('userDetailsButton').text = "Show User Details"
+            document.getElementById('userDetailsButton').text = "Show Your Details"
         }
     }
     function toggleMatch() {
@@ -71,7 +71,7 @@
                     </td>
                     <% if (faceTo != "https://i.imgur.com/07cVd1J.png"){ %>
                     <td>
-                        <a href="https://twitter.com/intent/tweet?button_hashtag=tweet&ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Look who I matched within myditto.tech" data-url="<%=faceTo%>" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        <a href="https://twitter.com/intent/tweet?button_hashtag=myditto&ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Look who I matched within myditto.tech" data-url="<%=faceTo%>" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </td>
                     <%}%>
                 </tr>
