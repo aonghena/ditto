@@ -28,7 +28,6 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    overflow-y: auto;
 }
 
 #container {
@@ -114,6 +113,15 @@ body {
     color: black;
     background-color: white;
     border-radius: 10px;
+}
+
+.tdBorder {
+    border: 1px solid black;
+}
+
+.tdBorderFullWidth {
+    border: 1px solid black;
+    width: 100%;
 }
 
 .detailHead {
