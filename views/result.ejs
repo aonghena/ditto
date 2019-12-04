@@ -31,6 +31,17 @@
     document.addEventListener("DOMContentLoaded", function(){
         document.getElementById('list').value = "<%=selectedListOption%>";
     });
+    window.onload = function(){
+        var userPhoto = document.getElementById('userPhoto');
+        var imageResult = document.getElementById('resultPhoto1');
+        if ((userPhoto.width * document.getElementById('userPhoto').height) > (imageResult.width * imageResult.height)) {
+            userPhoto.width = imageResult.width;
+            userPhoto.height = imageResult.height;
+        } else {
+            imageResult.width = userPhoto.width;
+            imageResult.height = userPhoto.height;
+        }
+    };
 </script>
 
 <body>
