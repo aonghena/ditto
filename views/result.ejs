@@ -62,7 +62,7 @@
                     </td>
                     <% if (faceTo != "https://i.imgur.com/07cVd1J.png"){ %>
                     <td>
-                        <a href="https://twitter.com/intent/tweet?button_hashtag=tweet&ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Look Who I matched within my ditto.tech" data-url="<%=faceTo%>" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        <a href="https://twitter.com/intent/tweet?button_hashtag=tweet&ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Look who I matched within myditto.tech" data-url="<%=faceTo%>" data-show-count="false">Share</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </td>
                     <%}%>
                 </tr>
@@ -103,57 +103,127 @@
                 </tr>
                 <tr>
                     <td>
-                        <table id="userFaceDetails">
+                        <table id="userFaceDetails">  
                             <% for (elem in userDetails) {%>
-                            <%if (elem == "accessories") {%>
-                                <%continue%>
-                            <%}%>        
-                            <%if (typeof userDetails[elem] != "object") {%>
-                            <tr>
-                                <td><span class="detailHead"><%=elem%></span><%=": " + userDetails[elem]%></td>
-                            </tr>
-                            <%} else {%>
-                            <tr>
-                                <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
-                            </tr>
-                            <% for (inner in userDetails[elem]) {%>
-                            <%if (inner == "hairColor") {%>
-                                <%continue%>
-                            <%}%>
-                            <tr>
-                                <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
-                            </tr>
-                            <%}%>
-                            <td>}</td>
-                            <%}%>
+                                <%if (elem == "accessories") {%>
+                                    <%continue%>
+                                <%}%>        
+                                <%if (typeof userDetails[elem] != "object") {%>
+                                <tr>
+                                    <td class="tdBorder"><span class="detailHead"><%=elem%></span></td>
+                                    <%console.log(userDetails[elem] + ":" + typeof userDetails[elem])%>
+                                    <%if ((typeof userDetails[elem] == "number") && (elem != "age")) {%>
+                                        <td class="tdBorderFullWidth"><%=(userDetails[elem] * 100).toFixed(0) + "%" %></td>
+                                    <%} else {%>
+                                        <td class="tdBorderFullWidth"><%=userDetails[elem]%></td>
+                                    <%}%>
+                                </tr>
+                                <%} else {%>
+                                <tr>
+                                    <td class="tdBorder"><span class="detailHead"><%=elem%></span></td>
+                                    <td class="tdBorderFullWidth">
+                                        <table>
+                                            <% for (inner in userDetails[elem]) {%>
+                                                <%if (inner == "hairColor") {%>
+                                                    <td><span class="detailHead"><%=inner%></span></td>
+                                                    <td>
+                                                        <table>
+                                                            <% for (superInner in userDetails[elem][inner]) {%>
+                                                                <tr>
+                                                                    <td class="tdBorder">
+                                                                        <table>
+                                                                        <% for (megaInner in userDetails[elem][inner][superInner]) {%>
+                                                                            <tr>
+                                                                                <%if (megaInner == "confidence") {%>
+                                                                                    <td><span class="detailHead"><%=megaInner%></span><span><%=": " + (userDetails[elem][inner][superInner][megaInner] * 100).toFixed(0) + "%" %></span></td>
+                                                                                <%} else {%>
+                                                                                    <td><span class="detailHead"><%=megaInner%></span><span><%=": " + userDetails[elem][inner][superInner][megaInner] %></span></td>
+                                                                                <%}%>
+                                                                            </tr>
+                                                                        <%}%>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            <%}%>
+                                                        </table>
+                                                    </td>
+                                                <%} else {%>
+                                                <tr>
+                                                    <%if ((typeof userDetails[elem][inner] == "number") && (elem != "headPose")) {%>
+                                                        <td><span class="detailHead"><%=inner%></span><%=": " + (userDetails[elem][inner]*100).toFixed(0) + "%" %></td>
+                                                    <%} else {%>
+                                                        <td><span class="detailHead"><%=inner%></span><%=": " + userDetails[elem][inner]%></td>
+                                                    <%}%>
+                                                </tr>
+                                                <%}%>
+                                            <%}%>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <%}%>
                             <%}%>
                         </table>
                     </td>
                     <td>
                         <table id="matchFaceDetails">
-                        <% for (elem in matchDetails) {%>
-                        <%if (elem == "accessories") {%>
-                            <%continue%>
-                        <%}%>         
-                        <%if (typeof matchDetails[elem] != "object") {%>
-                        <tr>
-                            <td><span class="detailHead"><%=elem%></span><%=": " + matchDetails[elem]%></td>
-                        </tr>
-                        <%} else {%>
-                        <tr>
-                            <td><span class="detailHead"><%=elem%></span><span> : {</span></td>
-                        </tr>
-                        <% for (inner in matchDetails[elem]) {%>
-                            <%if (inner == "hairColor") {%>
-                                <%continue%>
-                            <%}%>
-                        <tr>
-                            <td>&nbsp;&nbsp;<span class="detailHead"><%=inner%></span><%=": " + matchDetails[elem][inner]%></td>
-                        </tr>
-                        <%}%>
-                            <td>}</td>
-                        <%}%>
-                        <%}%>
+                                <% for (elem in matchDetails) {%>
+                                    <%if (elem == "accessories") {%>
+                                        <%continue%>
+                                    <%}%>        
+                                    <%if (typeof matchDetails[elem] != "object") {%>
+                                    <tr>
+                                        <td class="tdBorder"><span class="detailHead"><%=elem%></span></td>
+                                        <%console.log(matchDetails[elem] + ":" + typeof matchDetails[elem])%>
+                                        <%if ((typeof matchDetails[elem] == "number") && (elem != "age")) {%>
+                                            <td class="tdBorderFullWidth"><%=(matchDetails[elem] * 100).toFixed(0) + "%" %></td>
+                                        <%} else {%>
+                                            <td class="tdBorderFullWidth"><%=matchDetails[elem]%></td>
+                                        <%}%>
+                                    </tr>
+                                    <%} else {%>
+                                    <tr>
+                                        <td class="tdBorder"><span class="detailHead"><%=elem%></span></td>
+                                        <td class="tdBorderFullWidth">
+                                            <table>
+                                                <% for (inner in matchDetails[elem]) {%>
+                                                    <%if (inner == "hairColor") {%>
+                                                        <td><span class="detailHead"><%=inner%></span></td>
+                                                        <td>
+                                                            <table>
+                                                                <% for (superInner in matchDetails[elem][inner]) {%>
+                                                                    <tr>
+                                                                        <td class="tdBorder">
+                                                                            <table>
+                                                                            <% for (megaInner in matchDetails[elem][inner][superInner]) {%>
+                                                                                <tr>
+                                                                                    <%if (megaInner == "confidence") {%>
+                                                                                        <td><span class="detailHead"><%=megaInner%></span><span><%=": " + (matchDetails[elem][inner][superInner][megaInner] * 100).toFixed(0) + "%" %></span></td>
+                                                                                    <%} else {%>
+                                                                                        <td><span class="detailHead"><%=megaInner%></span><span><%=": " + matchDetails[elem][inner][superInner][megaInner] %></span></td>
+                                                                                    <%}%>
+                                                                                </tr>
+                                                                            <%}%>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                <%}%>
+                                                            </table>
+                                                        </td>
+                                                    <%} else {%>
+                                                    <tr>
+                                                        <%if ((typeof matchDetails[elem][inner] == "number") && (elem != "headPose")) {%>
+                                                            <td><span class="detailHead"><%=inner%></span><%=": " + (matchDetails[elem][inner]*100).toFixed(0) + "%" %></td>
+                                                        <%} else {%>
+                                                            <td><span class="detailHead"><%=inner%></span><%=": " + matchDetails[elem][inner]%></td>
+                                                        <%}%>
+                                                    </tr>
+                                                    <%}%>
+                                                <%}%>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <%}%>
+                                <%}%>
                         </table>    
                     </td>
                 </tr>
